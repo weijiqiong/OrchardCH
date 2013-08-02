@@ -1,5 +1,0 @@
-# Orchard resource strings - zh-CN
-# Copyright (c) 2010 Outercurve Foundation
-# All rights reserved
-# This file is distributed under the BSD license
-
