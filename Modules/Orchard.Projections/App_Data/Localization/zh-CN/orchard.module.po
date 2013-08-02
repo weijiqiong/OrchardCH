@@ -1,0 +1,2065 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Projections/Module.txt
+#| msgid "Name"
+msgid "Projector"
+msgstr "映射"
+
+#: ~/Modules/Orchard.Projections/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Projections/Module.txt
+#| msgid "Website"
+msgid "http://orchardprojections.codeplex.com"
+msgstr "http://orchardprojections.codeplex.com"
+
+#: ~/Modules/Orchard.Projections/Module.txt
+#| msgid "Description"
+msgid "Provides methods to control how lists of content items are filtered and displayed"
+msgstr "提供过滤和显示内容清单的方法"
+
+#: Orchard.Projections.AdminMenu
+#| msgid "Queries"
+msgid "Queries"
+msgstr "筛选"
+
+#: Orchard.Projections.AdminMenu
+#| msgid "Bindings"
+msgid "Bindings"
+msgstr "绑定"
+
+#: Orchard.Projections.Migrations
+#| msgid "Creation date"
+msgid "Creation date"
+msgstr "创建日期"
+
+#: Orchard.Projections.Migrations
+#| msgid "When the content item was created"
+msgid "When the content item was created"
+msgstr "当内容项被创建"
+
+#: Orchard.Projections.Migrations
+#| msgid "Modification date"
+msgid "Modification date"
+msgstr "修改日期"
+
+#: Orchard.Projections.Migrations
+#| msgid "When the content item was modified"
+msgid "When the content item was modified"
+msgstr "当内容项被修改"
+
+#: Orchard.Projections.Migrations
+#| msgid "Publication date"
+msgid "Publication date"
+msgstr "发布日期"
+
+#: Orchard.Projections.Migrations
+#| msgid "When the content item was published"
+msgid "When the content item was published"
+msgstr "当内容项被发布"
+
+#: Orchard.Projections.Migrations
+#| msgid "Title Part Title"
+msgid "Title Part Title"
+msgstr "Title元件的标题"
+
+#: Orchard.Projections.Migrations
+#| msgid "The title assigned using the Title part"
+msgid "The title assigned using the Title part"
+msgstr "Title元件的标题"
+
+#: Orchard.Projections.Migrations
+#| msgid "Body Part Text"
+msgid "Body Part Text"
+msgstr "Body元件的文本"
+
+#: Orchard.Projections.Migrations
+#| msgid "The text from the Body part"
+msgid "The text from the Body part"
+msgstr "来自Body元件的文本"
+
+#: Orchard.Projections.Controllers.AdminController
+#| msgid "Not authorized to list queries"
+msgid "Not authorized to list queries"
+msgstr "未经授权的筛选列表"
+
+#: Orchard.Projections.Controllers.AdminController
+#| msgid "Not authorized to manage queries"
+msgid "Not authorized to manage queries"
+msgstr "未经授权的筛选管理"
+
+#: Orchard.Projections.Controllers.AdminController
+#| msgid "Not authorized to edit queries"
+msgid "Not authorized to edit queries"
+msgstr "未经授权的筛选修改"
+
+#: Orchard.Projections.Controllers.AdminController
+#| msgid "Query {0} deleted"
+msgid "Query {0} deleted"
+msgstr "查询 {0} 已删除"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "Not authorized to list bindings"
+msgid "Not authorized to list bindings"
+msgstr "未经授权地列表绑定"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "Binding created successfully"
+msgid "Binding created successfully"
+msgstr "绑定创建成功"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "The record for this binding is no longer available, please remove it."
+msgid "The record for this binding is no longer available, please remove it."
+msgstr "此绑定的记录不再可用，请删除它。"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "The member for this binding is no longer available, please remove it."
+msgid "The member for this binding is no longer available, please remove it."
+msgstr "此绑定的成员是不再可用，请删除它。"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "Binding updated successfully"
+msgid "Binding updated successfully"
+msgstr "绑定更新成功"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "Not authorized to delete bindings"
+msgid "Not authorized to delete bindings"
+msgstr "未经授权删除绑定"
+
+#: Orchard.Projections.Controllers.BindingController
+#| msgid "Binding deleted"
+msgid "Binding deleted"
+msgstr "绑定已删除"
+
+#: Orchard.Projections.Controllers.FilterController
+#| msgid "Not authorized to manage queries"
+msgid "Not authorized to manage queries"
+msgstr "未授权筛选管理"
+
+#: Orchard.Projections.Controllers.FilterController
+#| msgid "Filter deleted"
+msgid "Filter deleted"
+msgstr "过滤已删除"
+
+#: Orchard.Projections.Controllers.LayoutController
+#| msgid "Not authorized to manage queries"
+msgid "Not authorized to manage queries"
+msgstr "未经授权的筛选管理"
+
+#: Orchard.Projections.Controllers.LayoutController
+#| msgid "Layout deleted"
+msgid "Layout deleted"
+msgstr "布局已删除"
+
+#: Orchard.Projections.Controllers.LayoutController
+#| msgid "Layout Created"
+msgid "Layout Created"
+msgstr "布局已创建"
+
+#: Orchard.Projections.Controllers.LayoutController
+#| msgid "Layout Saved"
+msgid "Layout Saved"
+msgstr "布局已保存"
+
+#: Orchard.Projections.Controllers.PropertyController
+#| msgid "Not authorized to manage queries"
+msgid "Not authorized to manage queries"
+msgstr "未经授权的筛选管理"
+
+#: Orchard.Projections.Controllers.PropertyController
+#| msgid "Property deleted"
+msgid "Property deleted"
+msgstr "属性已删除"
+
+#: Orchard.Projections.Controllers.SortCriterionController
+#| msgid "Not authorized to manage queries"
+msgid "Not authorized to manage queries"
+msgstr "未经授权的筛选管理"
+
+#: Orchard.Projections.Controllers.SortCriterionController
+#| msgid "Sort criteria deleted"
+msgid "Sort criteria deleted"
+msgstr "条件排序已删除"
+
+#: Orchard.Projections.Drivers.ProjectionPartDriver
+#| msgid "Suffix should not contain special characters."
+msgid "Suffix should not contain special characters."
+msgstr "后缀不应该包含特殊字符。"
+
+#: Orchard.Projections.Drivers.QueryPartTitleDriver
+#| msgid "A query with the same title already exists"
+msgid "A query with the same title already exists"
+msgstr "已经存在一个相同的标题"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "Undefined"
+msgid "Undefined"
+msgstr "未定义"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "Yes"
+msgid "Yes"
+msgstr "是"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "No"
+msgid "No"
+msgstr "否"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "Enter the value the string should be."
+msgid "Enter the value the string should be."
+msgstr "请输入字符串对应的值。"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "{0} is undefined"
+msgid "{0} is undefined"
+msgstr "{0} 为未定义"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "{0} is true"
+msgid "{0} is true"
+msgstr "{0} 为真"
+
+#: Orchard.Projections.FilterEditors.Forms.BooleanFilterForm
+#| msgid "{0} is false"
+msgid "{0} is false"
+msgstr "{0} 为假"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Operator"
+msgid "Operator"
+msgstr "运算符"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "A date"
+msgid "A date"
+msgstr "日期"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Please use this format: YYYY-MM-DD hh:mm:ss. e.g., 2010-04-12 would filter on the whole day. You can also use the Date token like this: {Date.Format:yyyy-MM-dd}"
+msgid "Please use this format: YYYY-MM-DD hh:mm:ss. e.g., 2010-04-12 would filter on the whole day. You can also use the Date token like this: {Date.Format:yyyy-MM-dd}"
+msgstr "请使用此格式：YYYY-MM-DD hh:mm:ss。例如，2010-04-12，筛选了整一天。你也可以使用这样的日期标记：{Date.Format：:yyyy-MM-dd}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "An offset from the current time"
+msgid "An offset from the current time"
+msgstr "从当前的时间偏移"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "You can provide time in the past by using negative values. e.g., -1 day"
+msgid "You can provide time in the past by using negative values. e.g., -1 day"
+msgstr "您可以使用负值表述在过去的时间。例如，-1日"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Value"
+msgid "Value"
+msgstr "值"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Unit"
+msgid "Unit"
+msgstr "单位"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Min"
+msgid "Min"
+msgstr "最小"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Max"
+msgid "Max"
+msgstr "最大"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is less than"
+msgid "Is less than"
+msgstr "小于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is less than or equal to"
+msgid "Is less than or equal to"
+msgstr "小于或等于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is equal to"
+msgid "Is equal to"
+msgstr "等于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is not equal to"
+msgid "Is not equal to"
+msgstr "不等于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is greater than or equal to"
+msgid "Is greater than or equal to"
+msgstr "大于或等于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is greater than"
+msgid "Is greater than"
+msgstr "大于"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is between"
+msgid "Is between"
+msgstr "之间"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Is not between"
+msgid "Is not between"
+msgstr "之外"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Year"
+msgid "Year"
+msgstr "年"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Month"
+msgid "Month"
+msgstr "月"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Day"
+msgid "Day"
+msgstr "日"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Hour"
+msgid "Hour"
+msgstr "小时"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Minute"
+msgid "Minute"
+msgstr "分钟"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "Second"
+msgid "Second"
+msgstr "秒"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is less than {1}{2}"
+msgid "{0} is less than {1}{2}"
+msgstr "{0} 小于 {1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is less or equal than {1}{2}"
+msgid "{0} is less or equal than {1}{2}"
+msgstr "{0}小于等于{1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} equals {1}{2}"
+msgid "{0} equals {1}{2}"
+msgstr "{0}等于{1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is not equal to {1}{2}"
+msgid "{0} is not equal to {1}{2}"
+msgstr "{0}不等于{1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is greater than {1}{2}"
+msgid "{0} is greater than {1}{2}"
+msgstr "{0}大于{1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is greater or equal than {1}{2}"
+msgid "{0} is greater or equal than {1}{2}"
+msgstr "{0}大于等于{1}{2}"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is between {1}{2} and {3}{4}"
+msgid "{0} is between {1}{2} and {3}{4}"
+msgstr "{0}在{1}{2}和{3}{4}之间"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm
+#| msgid "{0} is not between {1}{2} and {3}{4}"
+msgid "{0} is not between {1}{2} and {3}{4}"
+msgstr "{0}不在{1}{2}和{3}{4}之间"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation
+#| msgid "Min"
+msgid "Min"
+msgstr "最小"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation
+#| msgid "Max"
+msgid "Max"
+msgstr "最大"
+
+#: Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation
+#| msgid "Value"
+msgid "Value"
+msgstr "值"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Operator"
+msgid "Operator"
+msgstr "运算符"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Value"
+msgid "Value"
+msgstr "值"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Min"
+msgid "Min"
+msgstr "最小"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Max"
+msgid "Max"
+msgstr "最大"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is less than"
+msgid "Is less than"
+msgstr "小于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is less than or equal to"
+msgid "Is less than or equal to"
+msgstr "小于等于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is equal to"
+msgid "Is equal to"
+msgstr "等于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is not equal to"
+msgid "Is not equal to"
+msgstr "不等于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is greater than or equal to"
+msgid "Is greater than or equal to"
+msgstr "大于等于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is greater than"
+msgid "Is greater than"
+msgstr "大于"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is between"
+msgid "Is between"
+msgstr "之间"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "Is not between"
+msgid "Is not between"
+msgstr "之外"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is less than {1}"
+msgid "{0} is less than {1}"
+msgstr "{0}小于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is less or equal than {1}"
+msgid "{0} is less or equal than {1}"
+msgstr "{0}小于等于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} equals {1}"
+msgid "{0} equals {1}"
+msgstr "{0}等于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is not equal to {1}"
+msgid "{0} is not equal to {1}"
+msgstr "{0}不等于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is greater than {1}"
+msgid "{0} is greater than {1}"
+msgstr "{0}大于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is greater or equal than {1}"
+msgid "{0} is greater or equal than {1}"
+msgstr "{0}大于等于{1}"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is between {1} and {2}"
+msgid "{0} is between {1} and {2}"
+msgstr "{0}在{1}和{2}之间"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFilterForm
+#| msgid "{0} is not between {1} and {2}"
+msgid "{0} is not between {1} and {2}"
+msgstr "{0}不在{1}和{2}之间""
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation
+#| msgid "Min"
+msgid "Min"
+msgstr "最小"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation
+#| msgid "Max"
+msgid "Max"
+msgstr "最大"
+
+#: Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation
+#| msgid "Value"
+msgid "Value"
+msgstr "值"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Operator"
+msgid "Operator"
+msgstr "运算符"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Value"
+msgid "Value"
+msgstr "值"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Enter the value the string should be."
+msgid "Enter the value the string should be."
+msgstr "请输入字符串对应的值"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Is equal to"
+msgid "Is equal to"
+msgstr "等于"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Is not equal to"
+msgid "Is not equal to"
+msgstr "不等于"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Contains"
+msgid "Contains"
+msgstr "包含"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Contains any word"
+msgid "Contains any word"
+msgstr "包含任何字符"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Contains all words"
+msgid "Contains all words"
+msgstr "包含所有字符"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Starts with"
+msgid "Starts with"
+msgstr "开始"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Does not start with"
+msgid "Does not start with"
+msgstr "未启动"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Ends with"
+msgid "Ends with"
+msgstr "结束于"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Does not end with"
+msgid "Does not end with"
+msgstr "并没有结束"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "Does not contain"
+msgid "Does not contain"
+msgstr "不包含"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} is equal to '{1}'"
+msgid "{0} is equal to '{1}'"
+msgstr "{0}等于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} is not equal to '{1}'"
+msgid "{0} is not equal to '{1}'"
+msgstr "{0}不等于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} contains '{1}'"
+msgid "{0} contains '{1}'"
+msgstr "{0}包含'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} starts with '{1}'"
+msgid "{0} starts with '{1}'"
+msgstr "{0}开始于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} does not start with '{1}'"
+msgid "{0} does not start with '{1}'"
+msgstr "{0}开始于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} ends with '{1}'"
+msgid "{0} ends with '{1}'"
+msgstr "{0}结束于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} does not end with '{1}'"
+msgid "{0} does not end with '{1}'"
+msgstr "{0}未结束于'{1}'"
+
+#: Orchard.Projections.FilterEditors.Forms.StringFilterForm
+#| msgid "{0} does not contain '{1}'"
+msgid "{0} does not contain '{1}'"
+msgstr "{0}不包含'{1}'"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Date format"
+msgid "Date format"
+msgstr "日期格式"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Short date pattern: 6/15/2009"
+msgid "Short date pattern: 6/15/2009"
+msgstr "短日期模式：6/15/2009"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Long date pattern: Monday, June 15, 2009"
+msgid "Long date pattern: Monday, June 15, 2009"
+msgstr "长日期模式: Monday, June 15, 2009"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Full date/time pattern (short time): Monday, June 15, 2009 1:45 PM"
+msgid "Full date/time pattern (short time): Monday, June 15, 2009 1:45 PM"
+msgstr "完整日期/时间模式（短时间）: Monday, June 15, 2009 1:45 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Full date/time pattern (long time): Monday, June 15, 2009 1:45:30 PM"
+msgid "Full date/time pattern (long time): Monday, June 15, 2009 1:45:30 PM"
+msgstr "完整日期/时间模式（长时间）: Monday, June 15, 2009 1:45:30 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "General date/time pattern (short time): 6/15/2009 1:45 PM"
+msgid "General date/time pattern (short time): 6/15/2009 1:45 PM"
+msgstr "常规日期/时间模式（短时间）: 6/15/2009 1:45 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "General date/time pattern (long time): 6/15/2009 1:45:30 PM"
+msgid "General date/time pattern (long time): 6/15/2009 1:45:30 PM"
+msgstr "常规日期/时间模式（长时间）: 6/15/2009 1:45:30 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Month/day pattern: June 15"
+msgid "Month/day pattern: June 15"
+msgstr "月/日模式: June 15"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Round-trip date/time pattern: 2009-06-15T13:45:30.0900000"
+msgid "Round-trip date/time pattern: 2009-06-15T13:45:30.0900000"
+msgstr "往返日期/时间模式: 2009-06-15T13:45:30.0900000"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "RFC1123 pattern: Mon, 15 Jun 2009 20:45:30 GMT"
+msgid "RFC1123 pattern: Mon, 15 Jun 2009 20:45:30 GMT"
+msgstr "RFC1123 模式: Mon, 15 Jun 2009 20:45:30 GMT"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Sortable date/time pattern: 2009-06-15T13:45:30"
+msgid "Sortable date/time pattern: 2009-06-15T13:45:30"
+msgstr "排序日期/时间模式: 2009-06-15T13:45:30"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Long time pattern: 1:45 PM"
+msgid "Long time pattern: 1:45 PM"
+msgstr "长效模式: 1:45 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Long time pattern: 1:45:30 PM"
+msgid "Long time pattern: 1:45:30 PM"
+msgstr "长效模式: 1:45:30 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Universal sortable date/time pattern: 2009-06-15 20:45:30Z"
+msgid "Universal sortable date/time pattern: 2009-06-15 20:45:30Z"
+msgstr "通用的可排序日期/时间模式: 2009-06-15 20:45:30Z"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Universal full date/time pattern:  Monday, June 15, 2009 8:45:30 PM"
+msgid "Universal full date/time pattern:  Monday, June 15, 2009 8:45:30 PM"
+msgstr "通用完整日期/时间模式:  Monday, June 15, 2009 8:45:30 PM"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Year month pattern: June, 2009"
+msgid "Year month pattern: June, 2009"
+msgstr "年月模式: June, 2009"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Day: 15"
+msgid "Day: 15"
+msgstr "日: 15"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Month: 6"
+msgid "Month: 6"
+msgstr "月: 6"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Year: 2009"
+msgid "Year: 2009"
+msgstr "年: 2009"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Day of year: 166"
+msgid "Day of year: 166"
+msgstr "年中日: 166"
+
+#: Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm
+#| msgid "Time ago"
+msgid "Time ago"
+msgstr "前段时间"
+
+#: Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm
+#| msgid "Prefix"
+msgid "Prefix"
+msgstr "前缀"
+
+#: Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm
+#| msgid "Text to put before the number, such as currency symbol."
+msgid "Text to put before the number, such as currency symbol."
+msgstr "数字之前的文本，如货币符号。"
+
+#: Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm
+#| msgid "Suffix"
+msgid "Suffix"
+msgstr "后缀"
+
+#: Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm
+#| msgid "Text to put after the number, such as currency symbol."
+msgid "Text to put after the number, such as currency symbol."
+msgstr "数字之后的文本，如货币符号"
+
+#: Orchard.Projections.Providers.Filters.ContentFieldsFilter
+#| msgid "{0} Content Fields"
+msgid "{0} Content Fields"
+msgstr "{0}内容字段"
+
+#: Orchard.Projections.Providers.Filters.ContentFieldsFilter
+#| msgid "Content Fields for {0}"
+msgid "Content Fields for {0}"
+msgstr 内容字段{0}"
+
+#: Orchard.Projections.Providers.Filters.ContentFieldsFilter
+#| msgid "{0} property for {1}"
+msgid "{0} property for {1}"
+msgstr "{1}的{0}属性"
+
+#: Orchard.Projections.Providers.Filters.ContentFieldsFilter
+#| msgid "Field {0} {1} \"{2}\""
+msgid "Field {0} {1} \"{2}\""
+msgstr "字段 {0} {1} \"{2}\""
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Content"
+msgid "Content"
+msgstr "内容"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr "内容类型"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Specific content types"
+msgid "Specific content types"
+msgstr "具体内容类型"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Any content item"
+msgid "Any content item"
+msgstr "任何内容项目"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Content with type {0}"
+msgid "Content with type {0}"
+msgstr "{0}类型的内容"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Content types"
+msgid "Content types"
+msgstr "内容类型"
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Select some content types."
+msgid "Select some content types."
+msgstr "查询内容类型."
+
+#: Orchard.Projections.Providers.Filters.ContentTypesFilter
+#| msgid "Any"
+msgid "Any"
+msgstr "任意"
+
+#: Orchard.Projections.Providers.Filters.MemberBindingFilter
+#| msgid "Members for {0}"
+msgid "Members for {0}"
+msgstr "{0}的成员"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "Html"
+msgid "Html"
+msgstr "Html"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "Html Layouts"
+msgid "Html Layouts"
+msgstr "Html布局"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "Grid"
+msgid "Grid"
+msgstr "网格"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "Organizes content items in a grid."
+msgid "Organizes content items in a grid."
+msgstr "组织在一个网格中的内容项。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "{0} columns grid"
+msgid "{0} columns grid"
+msgstr "{0}列"
+
+#: Orchard.Projections.Providers.Layouts.GridLayout
+#| msgid "{0} lines grid"
+msgid "{0} lines grid"
+msgstr "{0}行"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr "对齐"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Horizontal"
+msgid "Horizontal"
+msgstr "水平"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Horizontal alignment will place items starting in the upper left and moving right."
+msgid "Horizontal alignment will place items starting in the upper left and moving right."
+msgstr "水平对齐，将放置在左上角开始向右移动."
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Vertical"
+msgid "Vertical"
+msgstr "垂直"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Vertical alignment will place items starting in the upper left and moving dowmn."
+msgid "Vertical alignment will place items starting in the upper left and moving dowmn."
+msgstr "垂直对齐，将放置在左上角开始向下移动。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Number of columns/lines "
+msgid "Number of columns/lines "
+msgstr "列(行)数"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "How many columns (in Horizontal mode) or lines (in Vertical mode) to display in the grid."
+msgid "How many columns (in Horizontal mode) or lines (in Vertical mode) to display in the grid."
+msgstr "在网格中显示多少列（横向模式）或行（垂直模式）。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Html properties"
+msgid "Html properties"
+msgstr "Html属性"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Grid id"
+msgid "Grid id"
+msgstr "网格id"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The id to provide on the table element."
+msgid "The id to provide on the table element."
+msgstr "提供表元素的id。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Grid class"
+msgid "Grid class"
+msgstr "网格类"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The class to provide on the table element."
+msgid "The class to provide on the table element."
+msgstr "这个类提供表元素。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "Row class"
+msgid "Row class"
+msgstr "行类"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The class to provide on each row."
+msgid "The class to provide on each row."
+msgstr "类提供的每一行上。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The field Alignment is required."
+msgid "The field Alignment is required."
+msgstr "字段必须对齐"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The field Columns/Lines is required."
+msgid "The field Columns/Lines is required."
+msgstr "字段列/行是必需的。"
+
+#: Orchard.Projections.Providers.Layouts.GridLayoutForms
+#| msgid "The field Columns/Lines must be a valid number."
+msgid "The field Columns/Lines must be a valid number."
+msgstr "字段列/行必须是一个有效的数字。"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Html"
+msgid "Html"
+msgstr "Html"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Html Layouts"
+msgid "Html Layouts"
+msgstr "Html布局"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Html List"
+msgid "Html List"
+msgstr "Html列表"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Organizes content items inside a simple list."
+msgid "Organizes content items inside a simple list."
+msgstr "在一个简单列表内组织内容项。"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Ordered Html List"
+msgid "Ordered Html List"
+msgstr "有序的HTML列表"
+
+#: Orchard.Projections.Providers.Layouts.ListLayout
+#| msgid "Unordered Html List"
+msgid "Unordered Html List"
+msgstr "无序的HTML列表"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "Order"
+msgid "Order"
+msgstr "顺序"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "Unordered list"
+msgid "Unordered list"
+msgstr "无序列表"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "Ordered list"
+msgid "Ordered list"
+msgstr "有序列表"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "Html properties"
+msgid "Html properties"
+msgstr "Html属性"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "List id"
+msgid "List id"
+msgstr "列表id"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "The id to provide on the list element."
+msgid "The id to provide on the list element."
+msgstr "提供列表上的元素ID。"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "List class"
+msgid "List class"
+msgstr "列表类"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "The class to provide on the list element."
+msgid "The class to provide on the list element."
+msgstr "这个类用于对列表中的元素。"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "Item class"
+msgid "Item class"
+msgstr "项目类"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "The class to provide on each list item."
+msgid "The class to provide on each list item."
+msgstr "这个类用于每个列表项。"
+
+#: Orchard.Projections.Providers.Layouts.ListLayoutForms
+#| msgid "You must provide an Order"
+msgid "You must provide an Order"
+msgstr "你必须提供一种排序"
+
+#: Orchard.Projections.Providers.Properties.ContentFieldProperties
+#| msgid "{0} Content Fields"
+msgid "{0} Content Fields"
+msgstr "{0}内容字段"
+
+#: Orchard.Projections.Providers.Properties.ContentFieldProperties
+#| msgid "Content Fields for {0}"
+msgid "Content Fields for {0}"
+msgstr "{0}的内容字段"
+
+#: Orchard.Projections.Providers.Properties.ContentFieldProperties
+#| msgid "{0} property for {1}"
+msgid "{0} property for {1}"
+msgstr "{1}的{0}属性"
+
+#: Orchard.Projections.Providers.Properties.ContentFieldProperties
+#| msgid "Field {0}: {1}"
+msgid "Field {0}: {1}"
+msgstr "字段{0}: {1}"
+
+#: Orchard.Projections.Providers.Properties.ContentFieldProperties
+#| msgid "Default value"
+msgid "Default value"
+msgstr "默认值"
+
+#: Orchard.Projections.Providers.Properties.ContentProperties
+#| msgid "Content"
+msgid "Content"
+msgstr "内容"
+
+#: Orchard.Projections.Providers.Properties.ContentProperties
+#| msgid "Content properties"
+msgid "Content properties"
+msgstr "内容属性"
+
+#: Orchard.Projections.Providers.Properties.ContentProperties
+#| msgid "Display Text"
+msgid "Display Text"
+msgstr "显示文本"
+
+#: Orchard.Projections.Providers.Properties.ContentProperties
+#| msgid "The text representing the content, e.g. its Title."
+msgid "The text representing the content, e.g. its Title."
+msgstr "文本内容的代表,如标题。"
+
+#: Orchard.Projections.Providers.Properties.ContentProperties
+#| msgid "Content: Display Text"
+msgid "Content: Display Text"
+msgstr "内容: 显示文本"
+
+#: Orchard.Projections.Providers.Properties.MemberBindingProperties
+#| msgid "Members for {0}"
+msgid "Members for {0}"
+msgstr "{0}的成员"
+
+#: Orchard.Projections.Providers.Properties.MemberBindingProperties
+#| msgid "{0} {1}"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion
+#| msgid "{0} Content Fields"
+msgid "{0} Content Fields"
+msgstr "{0}内容字段"
+
+#: Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion
+#| msgid "Content Fields for {0}"
+msgid "Content Fields for {0}"
+msgstr "内容字段{0}"
+
+#: Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion
+#| msgid "{0} property for {1}"
+msgid "{0} property for {1}"
+msgstr "{0}{1}"
+
+#: Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion
+#| msgid "Ordered by field {0}, ascending"
+msgid "Ordered by field {0}, ascending"
+msgstr "字段排序{0}, 升序"
+
+#: Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion
+#| msgid "Ordered by field {0}, descending"
+msgid "Ordered by field {0}, descending"
+msgstr "字段排序{0}, 降序"
+
+#: Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria
+#| msgid "Members for {0}"
+msgid "Members for {0}"
+msgstr "成员{0}"
+
+#: Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria
+#| msgid "Ordered by {0}, ascending"
+msgid "Ordered by {0}, ascending"
+msgstr "排序{0}, 升序"
+
+#: Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria
+#| msgid "Ordered by {0}, descending"
+msgid "Ordered by {0}, descending"
+msgstr "排序{0}, 降序"
+
+#: Orchard.Projections.Providers.SortCriteria.RandomSortCriterion
+#| msgid "General"
+msgid "General"
+msgstr "常规"
+
+#: Orchard.Projections.Providers.SortCriteria.RandomSortCriterion
+#| msgid "General sort criteria"
+msgid "General sort criteria"
+msgstr "常规排序标准"
+
+#: Orchard.Projections.Providers.SortCriteria.RandomSortCriterion
+#| msgid "Random"
+msgid "Random"
+msgstr "随机"
+
+#: Orchard.Projections.Providers.SortCriteria.RandomSortCriterion
+#| msgid "Sorts the results randomly."
+msgid "Sorts the results randomly."
+msgstr "结果随机排序。"
+
+#: Orchard.Projections.Providers.SortCriteria.RandomSortCriterion
+#| msgid "Random order"
+msgid "Random order"
+msgstr "随机顺序"
+
+#: Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider
+#| msgid "Sort ascending"
+msgid "Sort ascending"
+msgstr "升序"
+
+#: Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider
+#| msgid "Sort descending"
+msgid "Sort descending"
+msgstr "降序"
+
+#: Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider
+#| msgid "The direction the field will be sorted by."
+msgid "The direction the field will be sorted by."
+msgstr "方向字段排序。"
+
+#: Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider
+#| msgid "The Sort field is required."
+msgid "The Sort field is required."
+msgstr "排序字段是必需的。"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Edit Query - {0}"
+msgid "Edit Query - {0}"
+msgstr "编辑筛选 - {0}"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Filters"
+msgid "Filters"
+msgstr "过滤器"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Add a new Group"
+msgid "Add a new Group"
+msgstr "添加一个新的组"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Or"
+msgid "Or"
+msgstr "或"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "+ Add a new Filter"
+msgid "+ Add a new Filter"
+msgstr "+ 添加新的过滤器"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Delete group"
+msgid "Delete group"
+msgstr "删除组"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Sort Criteria"
+msgid "Sort Criteria"
+msgstr "排序标准"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "+ Add a new Sort Criteria"
+msgid "+ Add a new Sort Criteria"
+msgstr "+ 添加新的排序标准"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Up"
+msgid "Up"
+msgstr "上"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Down"
+msgid "Down"
+msgstr "下"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Layouts"
+msgid "Layouts"
+msgstr "布局"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "+ Add a new Layout"
+msgid "+ Add a new Layout"
+msgstr "+ 添加新的布局"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Add a new Layout"
+msgid "Add a new Layout"
+msgstr "添加新的布局"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml
+#| msgid "Close"
+msgid "Close"
+msgstr "关闭"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Manage Queries"
+msgid "Manage Queries"
+msgstr "筛选管理"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Add a new Query"
+msgid "Add a new Query"
+msgstr "添加新的筛选"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgid "Sort by:"
+msgstr "排序:"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "所有"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Properties"
+msgid "Properties"
+msgstr "属性"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Index.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml
+#| msgid "Manage Queries"
+msgid "Manage Queries"
+msgstr "筛选管理"
+
+#: ~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml
+#| msgid "The query returned no results"
+msgid "The query returned no results"
+msgstr "没有返回结果"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Binding"
+msgid "Binding"
+msgstr "绑定"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Content Part Record"
+msgid "Content Part Record"
+msgstr "内容元件记录"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "The content part to add to the providers."
+msgid "The content part to add to the providers."
+msgstr "内容元件提供者。"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Member"
+msgid "Member"
+msgstr "成员"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "The name of the member."
+msgid "The name of the member."
+msgstr "成员名称"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Display"
+msgid "Display"
+msgstr "显示"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Text to display in lists for this property."
+msgid "Text to display in lists for this property."
+msgstr "在此属性列表中显示的文本。"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Description to display in lists for this property."
+msgid "Description to display in lists for this property."
+msgstr "描述列表属性的显示."
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Manage Bindings"
+msgid "Manage Bindings"
+msgstr "绑定管理"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Add a new Binding"
+msgid "Add a new Binding"
+msgstr "添加新的绑定"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择行动..."
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Sort by:"
+msgid "Sort by:"
+msgstr "排序:"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "所有"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Type"
+msgid "Type"
+msgstr "类型"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Member"
+msgid "Member"
+msgstr "成员"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Display"
+msgid "Display"
+msgstr "显示"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Select.cshtml
+#| msgid "Add a Binding"
+msgid "Add a Binding"
+msgstr "添加新的绑定"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Select.cshtml
+#| msgid "There are no currently available bindings"
+msgid "There are no currently available bindings"
+msgstr "当前没有有效绑定"
+
+#: ~/Modules/Orchard.Projections/Views/Binding/Select.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "For Query"
+msgid "For Query"
+msgstr "用于筛选"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Default layout"
+msgid "Default layout"
+msgstr "默认布局"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "{0} ({1})"
+msgid "{0} ({1})"
+msgstr "{0} ({1})"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Edit Query"
+msgid "Edit Query"
+msgstr "编辑筛选"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "The query to display."
+msgid "The query to display."
+msgstr "筛选显示。"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Items to display"
+msgid "Items to display"
+msgstr "要显示的项目"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "The number of items to display. Enter 0 for no limit. When using pagination, this is the number of items per page."
+msgid "The number of items to display. Enter 0 for no limit. When using pagination, this is the number of items per page."
+msgstr "显示的项目数。没有限制输入0。当使用分页时，这是每页的项目数。"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Offset"
+msgid "Offset"
+msgstr "抵消"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgstr "跳过的项目数（例如，如果输入2，第2项将不会被显示）。"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Maximum items"
+msgid "Maximum items"
+msgstr "最大项目数"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Maximum number of items which can be queried at once. Use 0 for unlimited. This is only used as a failsafe when the number of items comes from a user-provided source such as the query string."
+msgid "Maximum number of items which can be queried at once. Use 0 for unlimited. This is only used as a failsafe when the number of items comes from a user-provided source such as the query string."
+msgstr "查询的项目的最大数。0为无限制。"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Suffix"
+msgid "Suffix"
+msgstr "后缀"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Optional. Provide a suffix to use when multiple pagers are displayed on the same page, e.g., when using multiple Projection Widgets, or to define alternates."
+msgid "Optional. Provide a suffix to use when multiple pagers are displayed on the same page, e.g., when using multiple Projection Widgets, or to define alternates."
+msgstr "可选。提供一个后缀时要使用多个分页都显示在相同页面，例如，当使用多个映射部件，或定义候补。"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Show pager"
+msgid "Show pager"
+msgstr "显示分页"
+
+#: ~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml
+#| msgid "Check to add a pager to the list."
+msgid "Check to add a pager to the list."
+msgstr "添加分页到列表"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Add.cshtml
+#| msgid "Add a Filter"
+msgid "Add a Filter"
+msgstr "添加过滤器"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Add.cshtml
+#| msgid "There are no currently available filters"
+msgid "There are no currently available filters"
+msgstr "没有存在的过滤器"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml
+#| msgid "Edit Filter - {0}"
+msgid "Edit Filter - {0}"
+msgstr "修改过滤器- {0}"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml
+#| msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgstr "您可以对过滤器添加一个描述，它将在控制面板中显示。"
+
+#: ~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Add.cshtml
+#| msgid "Add a Layout"
+msgid "Add a Layout"
+msgstr "添加布局"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Add.cshtml
+#| msgid "There are no currently available layouts"
+msgid "There are no currently available layouts"
+msgstr "没有存在的布局"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Edit Layout - {0}"
+msgid "Edit Layout - {0}"
+msgstr "编辑布局- {0}"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "你可以对布局添加一个描述, 它将在控制面板中显示。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Display mode"
+msgid "Display mode"
+msgstr "显示模式"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Content"
+msgid "Content"
+msgstr "内容"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Properties"
+msgid "Properties"
+msgstr "属性"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "You can choose to display each content item using specific properties only."
+msgid "You can choose to display each content item using specific properties only."
+msgstr "你可以选择只使用特定的属性显示每个内容项。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Display Type"
+msgid "Display Type"
+msgstr "显示类型"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "The display type represents or the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgid "The display type represents or the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "显示类型的代表或项目应该被格式化的内容。例如，Summary, SummaryAdmin, Detail, ..."
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Create.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Edit Layout - {0}"
+msgid "Edit Layout - {0}"
+msgstr "编辑布局- {0}"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "你可以选择对布局添加一个描述, 它将在控制面板中显示。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Display mode"
+msgid "Display mode"
+msgstr "显示模式"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Content"
+msgid "Content"
+msgstr "内容"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Properties"
+msgid "Properties"
+msgstr "属性"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "You can choose to display each content item using specific properties only."
+msgid "You can choose to display each content item using specific properties only."
+msgstr "你可以选择只使用特定的属性显示每个内容项。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Display Type"
+msgid "Display Type"
+msgstr "显示类型"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "The display type represents or the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgid "The display type represents or the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "显示类型的代表或项目应该被格式化的内容。例如, Summary, SummaryAdmin, Detail, ..."
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Add a new Property"
+msgid "Add a new Property"
+msgstr "添加新属性"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Up"
+msgid "Up"
+msgstr "上"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Down"
+msgid "Down"
+msgstr "下"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Grouping property"
+msgid "Grouping property"
+msgstr "分组属性"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "None"
+msgid "None"
+msgstr "None"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Optionally, select a property which will be used to group content items."
+msgid "Optionally, select a property which will be used to group content items."
+msgstr "可选，选择一个将用于内容项目组的属性。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "No properties are currently available in order to group this view."
+msgid "No properties are currently available in order to group this view."
+msgstr "目前可用的分组排序显示没有属性。"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml
+#| msgid "Close"
+msgid "Close"
+msgstr "关闭"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Add.cshtml
+#| msgid "Add a Property"
+msgid "Add a Property"
+msgstr "添加属性"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Add.cshtml
+#| msgid "There are no currently available properties"
+msgid "There are no currently available properties"
+msgstr "There are no currently available properties"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Edit Property - {0}"
+msgid "Edit Property - {0}"
+msgstr "编辑属性- {0}"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "You may optionally give a description to this property, to be used in the dashboard screens."
+msgid "You may optionally give a description to this property, to be used in the dashboard screens."
+msgstr "你可以选择对这个属性加以描述，它将在控制面板中显示。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Display"
+msgid "Display"
+msgstr "显示"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Link to original content item"
+msgid "Link to original content item"
+msgstr "链接到原始内容项目"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to make this property a link to the original content item."
+msgid "Check to make this property a link to the original content item."
+msgstr "检查以使该属性链接到原来的内容项目。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Exclude from display"
+msgid "Exclude from display"
+msgstr "从显示中排除"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check if this property should not be displayed, but only used by the layout for grouping for instance."
+msgid "Check if this property should not be displayed, but only used by the layout for grouping for instance."
+msgstr "检查如果此属性不应该被显示，但可以仅用于布局实例分组。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Label"
+msgid "Label"
+msgstr "标注"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Create a label"
+msgid "Create a label"
+msgstr "创建标注"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The text to display as a label for this property."
+msgid "The text to display as a label for this property."
+msgstr "要显示的文字作为这个标注的属性。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Style"
+msgid "Style"
+msgstr "样式"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Customize property HTML"
+msgid "Customize property HTML"
+msgstr "自定义属性HTML"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "HTML element"
+msgid "HTML element"
+msgstr "HTML元素"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The HTML element to wrap around this property (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgid "The HTML element to wrap around this property (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "HTML元素来包裹这个属性(例如, h1, p, 等.)。使用一个标签,它可以防止被渲染。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Css class"
+msgid "Css class"
+msgstr "Css样式"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The Css class to apply to this element."
+msgid "The Css class to apply to this element."
+msgstr "适用于该元素的CSS样式。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Customize label HTML"
+msgid "Customize label HTML"
+msgstr "自定义标注HTML"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The HTML element to wrap around this label (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgid "The HTML element to wrap around this label (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "阻止这个标注包装的HTML元素（如h1, p,等）。使用 - 防止从所呈现的标记。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Customize Wrapper HTML"
+msgid "Customize Wrapper HTML"
+msgstr "自定义包装HTML"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The HTML element to wrap around this wrapper (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgid "The HTML element to wrap around this wrapper (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "阻止这个标注包装的HTML元素（如h1, p,等）。使用 - 防止从所呈现的标记。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "No Results"
+msgid "No Results"
+msgstr "没有结果"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "No results text"
+msgid "No results text"
+msgstr "没有结果的文本"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Text to display when the property is empty."
+msgid "Text to display when the property is empty."
+msgstr "文本显示属性为空"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Number 0 as empty"
+msgid "Number 0 as empty"
+msgstr "数字0为空"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to simulate empty text when result is the number 0"
+msgid "Check to simulate empty text when result is the number 0"
+msgstr "检查模拟空文本时结果是数字0"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Hide if empty"
+msgid "Hide if empty"
+msgstr "如果是空则隐藏"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to hide the whole property when the value is empty."
+msgid "Check to hide the whole property when the value is empty."
+msgstr "当值为空则检查隐藏属性，。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Rewrite Results"
+msgid "Rewrite Results"
+msgstr "结果重写"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Rewrite output"
+msgid "Rewrite output"
+msgstr "重写输出"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to override the output of this property."
+msgid "Check to override the output of this property."
+msgstr "检查覆盖此属性的输出。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Rewrite text"
+msgid "Rewrite text"
+msgstr "重写文本"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The text to write for this field. It may include HTML. {Text} can be used to inject the current property text."
+msgid "The text to write for this field. It may include HTML. {Text} can be used to inject the current property text."
+msgstr "字段文本写入。它可能包括HTML。{Text}可以用来注入当前文本的属性。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Trim"
+msgid "Trim"
+msgstr "剪裁"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to trim the result if it's longer that a specified amount of characters."
+msgid "Check to trim the result if it's longer that a specified amount of characters."
+msgstr "请剪裁结果，如果是较长的一个字符指定额度。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Maximum length"
+msgid "Maximum length"
+msgstr "最大长度"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "The maximum number of characters this property can be."
+msgid "The maximum number of characters this property can be."
+msgstr "这个属性可以是字符的最大数。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Trim only on a word boundary"
+msgid "Trim only on a word boundary"
+msgstr "对边界进行剪裁"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Checked to trim the property only on a word boundary."
+msgid "Checked to trim the property only on a word boundary."
+msgstr "请只有一个字边界的剪裁属性。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Add an Ellipsis"
+msgid "Add an Ellipsis"
+msgstr "添加一个省略号"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Strip HTML tags"
+msgid "Strip HTML tags"
+msgstr "去除HTML标签"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to remove any HTML tag from the property."
+msgid "Check to remove any HTML tag from the property."
+msgstr "请把属性中的所有HTML标签删除掉。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Remove whitespace"
+msgid "Remove whitespace"
+msgstr "请删除空格"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to remove the spaces at both the beginning and the end of the property."
+msgid "Check to remove the spaces at both the beginning and the end of the property."
+msgstr "请删除属性开始和结束中的空格。"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Preserve new lines"
+msgid "Preserve new lines"
+msgstr "保留新行"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Check to convert a line break to a &lt;br /&gt; tag."
+msgid "Check to convert a line break to a &lt;br /&gt; tag."
+msgstr "请把换行符转换成一个 &lt;br /&gt; 标签."
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Projections/Views/Property/Edit.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml
+#| msgid "Add a Sort Criterion"
+msgid "Add a Sort Criterion"
+msgstr "添加排序条件"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml
+#| msgid "There are no currently available sort criterias"
+msgid "There are no currently available sort criterias"
+msgstr "当前没有可用的排序条件"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "说明"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml
+#| msgid "Edit Sort Criterion - {0}"
+msgid "Edit Sort Criterion - {0}"
+msgstr "编辑排序条件- {0}"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "说明"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml
+#| msgid "You may optionally give a description to this sort criterion, to be used in the dashboard screens."
+msgid "You may optionally give a description to this sort criterion, to be used in the dashboard screens."
+msgstr "您可以选择性地对这类条件进行说明，它将在控制面板显示。"
+
+#: ~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+

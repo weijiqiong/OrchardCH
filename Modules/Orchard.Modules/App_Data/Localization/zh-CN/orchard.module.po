@@ -1,0 +1,214 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Modules/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Modules/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Modules/Module.txt
+#| msgid "Description"
+msgid "The Modules module enables the administrator of the site to manage the installed modules as well as activate and de-activate features."
+msgstr "模块可以让管理者对网站管理已安装的模块，包含启用和禁用的功能。"
+
+#: Orchard.Modules.AdminMenu
+#| msgid "Features"
+msgid "Features"
+msgstr "特征"
+
+#: Orchard.Modules.AdminMenu
+#| msgid "Modules"
+msgid "Modules"
+msgstr "模块"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "{0}, {1}"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "Enabled"
+msgid "Enabled"
+msgstr "启用"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "Disabled"
+msgid "Disabled"
+msgstr "禁用"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "List of available features"
+msgid "List of available features"
+msgstr "可用的功能列表"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "--------------------------"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "General"
+msgid "General"
+msgstr "常规"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid " Name: {0}"
+msgid " Name: {0}"
+msgstr "名称: {0}"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid " State: {0}"
+msgid " State: {0}"
+msgstr "状态: {0}"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "<none>"
+msgid "<none>"
+msgstr "<none>"
+
+#: Orchard.Modules.Commands.FeatureCommands
+#| msgid "Could not find feature {0}"
+msgid "Could not find feature {0}"
+msgstr "无法找到特征 {0}"
+
+#: Orchard.Modules.Controllers.AdminController
+#| msgid "Not allowed to manage modules"
+msgid "Not allowed to manage modules"
+msgstr "不允许管理模块"
+
+#: Orchard.Modules.Controllers.AdminController
+#| msgid "Not allowed to manage features"
+msgid "Not allowed to manage features"
+msgstr "不允许管理功能"
+
+#: Orchard.Modules.Controllers.AdminController
+#| msgid "An error occured while updating the feature {0}: {1}"
+msgid "An error occured while updating the feature {0}: {1}"
+msgstr "更新功能 {0} 时发生错误: {1}"
+
+#: Orchard.Modules.Services.ModuleService
+#| msgid "{0} was enabled"
+msgid "{0} was enabled"
+msgstr "{0} 已启用"
+
+#: Orchard.Modules.Services.ModuleService
+#| msgid "{0} was disabled"
+msgid "{0} was disabled"
+msgstr "{0} 已禁用"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Uncategorized"
+msgid "Uncategorized"
+msgstr "未分类"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "{0} is {1}"
+msgid "{0} is {1}"
+msgstr "{0} 是 {1}"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr "过滤:"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Depends on:"
+msgid "Depends on:"
+msgstr "基于:"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Missing:"
+msgid "Missing:"
+msgstr "遗失:"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr "禁用"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Enable"
+msgid "Enable"
+msgstr "启用"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr "更新"
+
+#: ~/Modules/Orchard.Modules/Module.txt
+#| msgid "Name"
+msgid "Modules"
+msgstr "模块"
+
+#: Orchard.Modules.AdminMenu
+#| msgid "Installed"
+msgid "Installed"
+msgstr "安装"
+
+#: Orchard.Modules.Controllers.AdminController
+#| msgid "The feature {0} was updated successfully"
+msgid "The feature {0} was updated successfully"
+msgstr "功能 {0} 已更新成功"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "Version: {0}"
+msgid "Version: {0}"
+msgstr "版本: {0}"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "1.0"
+msgid "1.0"
+msgstr "1.0"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "Features: {0}"
+msgid "Features: {0}"
+msgstr "特征: {0}"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "Author: {0}"
+msgid "Author: {0}"
+msgstr "作者: {0}"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "Unknown"
+msgid "Unknown"
+msgstr "未知"
+
+#: ~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml
+#| msgid "Website: "
+msgid "Website: "
+msgstr "网站:"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Features.cshtml
+#| msgid "Modules"
+msgid "Modules"
+msgstr "模块"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Index.cshtml
+#| msgid "Modules"
+msgid "Modules"
+msgstr "模块"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Index.cshtml
+#| msgid "Search"
+msgid "Search"
+msgstr "查找"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Index.cshtml
+#| msgid "Install a module from your computer"
+msgid "Install a module from your computer"
+msgstr "从您的电脑安装模块"
+
+#: ~/Modules/Orchard.Modules/Views/Admin/Index.cshtml
+#| msgid "No modules available"
+msgid "No modules available"
+msgstr "无可用模块"

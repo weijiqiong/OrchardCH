@@ -1,0 +1,510 @@
+﻿# Orchard resource strings - zh-CN 
+# Copyright (c) 2013 Outercurve Foundation 
+# All rights reserved 
+# This file is distributed under the BSD license
+# Translation is 时分秒
+
+#: ~/Modules/Orchard.MediaProcessing/Module.txt
+#| msgid "Name"
+msgid "Media Processing"
+msgstr "媒体处理"
+
+#: ~/Modules/Orchard.MediaProcessing/Module.txt
+#| msgid "Author"
+msgid "John Murdock, Sébastien Ros"
+msgstr "John Murdock, Sébastien Ros"
+
+#: ~/Modules/Orchard.MediaProcessing/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.MediaProcessing/Module.txt
+#| msgid "Description"
+msgid "Module for processing Media e.g. image resizing"
+msgstr "模块媒体处理，如：图像缩放"
+
+#: Orchard.MediaProcessing.AdminMenu
+#| msgid "Media"
+msgid "Media"
+msgstr "媒体"
+
+#: Orchard.MediaProcessing.AdminMenu
+#| msgid "Profiles"
+msgid "Profiles"
+msgstr "配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to list media profiles"
+msgid "Not authorized to list media profiles"
+msgstr "未授权查看媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to manage media profiles"
+msgid "Not authorized to manage media profiles"
+msgstr "未授权管理媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to edit media profiles"
+msgid "Not authorized to edit media profiles"
+msgstr "未授权编辑媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to manage media profiles"
+msgid "Not authorized to manage media profiles"
+msgstr "未授权管理媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Image Profile {0} deleted"
+msgid "Image Profile {0} deleted"
+msgstr "图像{0}删除"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to manage media profiles"
+msgid "Not authorized to manage media profiles"
+msgstr "未授权管理媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.AdminController
+#| msgid "Not authorized to manage media profiles"
+msgid "Not authorized to manage media profiles"
+msgstr "未授权管理媒体配置文件"
+
+#: Orchard.MediaProcessing.Controllers.FilterController
+#| msgid "Not authorized to manage image profiles"
+msgid "Not authorized to manage image profiles"
+msgstr "未授权管理图片配置文件"
+
+#: Orchard.MediaProcessing.Controllers.FilterController
+#| msgid "Not authorized to manage image profiles"
+msgid "Not authorized to manage image profiles"
+msgstr "未授权管理图片配置文件"
+
+#: Orchard.MediaProcessing.Controllers.FilterController
+#| msgid "Filter deleted"
+msgid "Filter deleted"
+msgstr "文件夹删除"
+
+#: Orchard.MediaProcessing.Controllers.FilterController
+#| msgid "Not authorized to manage image profiles"
+msgid "Not authorized to manage image profiles"
+msgstr "未授权管理图片配置文件"
+
+#: Orchard.MediaProcessing.Drivers.ImageProfilePartDriver
+#| msgid "The Name can't be empty."
+msgid "The Name can't be empty."
+msgstr "名称不能为空."
+
+#: Orchard.MediaProcessing.Drivers.ImageProfilePartDriver
+#| msgid "A profile with the same Name already exists."
+msgid "A profile with the same Name already exists."
+msgstr "文件中已经有相同名称存在."
+
+#: Orchard.MediaProcessing.Drivers.ImageProfilePartDriver
+#| msgid "The Name can only contain letters and numbers without spaces"
+msgid "The Name can only contain letters and numbers without spaces"
+msgstr "名称只能包含字母和数字没有空格"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Transform"
+msgid "Transform"
+msgstr "转换"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Transform"
+msgid "Transform"
+msgstr "转换"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Format"
+msgid "Format"
+msgstr "格式"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Change the format of the image."
+msgid "Change the format of the image."
+msgstr "改变图片的格式."
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Format the image to {0}"
+msgid "Format the image to {0}"
+msgstr "图片格式 {0}"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Format"
+msgid "Format"
+msgstr "格式"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "The target format of the image."
+msgid "The target format of the image."
+msgstr "目标图片格式."
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Quality"
+msgid "Quality"
+msgstr "质量"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "JPeg compression quality, from 0 to 100."
+msgid "JPeg compression quality, from 0 to 100."
+msgstr "JPeg压缩质量, 从 0 到 100."
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Jpeg"
+msgid "Jpeg"
+msgstr "Jpeg"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Gif"
+msgid "Gif"
+msgstr "Gif"
+
+#: Orchard.MediaProcessing.Providers.Filters.FormatFilter
+#| msgid "Png"
+msgid "Png"
+msgstr "Png"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Transform"
+msgid "Transform"
+msgstr "转换"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Transform"
+msgid "Transform"
+msgstr "转换"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Resize"
+msgid "Resize"
+msgstr "调整大小"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Resizes using predefined height or width."
+msgid "Resizes using predefined height or width."
+msgstr "使用预先定义的高或宽调整大小."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Pad to {0}x{1}"
+msgid "Pad to {0}x{1}"
+msgstr "填充为{0}x{1}"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Crop to {0}x{1}"
+msgid "Crop to {0}x{1}"
+msgstr "剪裁为{0}x{1}"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Stretch to {0}x{1}"
+msgid "Stretch to {0}x{1}"
+msgstr "拉伸为{0}x{1}"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Resize to {0}x{1}"
+msgid "Resize to {0}x{1}"
+msgstr "调整到{0}x{1}"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Width"
+msgid "Width"
+msgstr "宽度"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "The width in pixels."
+msgid "The width in pixels."
+msgstr "像素宽度."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Height"
+msgid "Height"
+msgstr "高度"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "The height in pixels."
+msgid "The height in pixels."
+msgstr "像素高度."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Mode"
+msgid "Mode"
+msgstr "模式"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "How the image should be resized.<br/>Max: adjusts to the max given width or left, keeping image ratio.<br/>Pad: adds a padding so that the target image is exactly of width and height.<br/>Crop: removes part of the image to fit with given height and width.<br/>Stretch: stretches the image to fit within height and width."
+msgid "How the image should be resized.<br/>Max: adjusts to the max given width or left, keeping image ratio.<br/>Pad: adds a padding so that the target image is exactly of width and height.<br/>Crop: removes part of the image to fit with given height and width.<br/>Stretch: stretches the image to fit within height and width."
+msgstr "图像应该怎么调整.<br/>最大: 调整到最大宽度，保持图像比例.<br/>填充: 添加填充使目标图像成为完全的宽度和高度.<br/>剪裁: 删除图像的一部分以适应给定的高度和宽度.<br/>拉伸: 拉伸到图像合适的高度和宽度."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr "对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Select the alignment for Crop and Pad modes."
+msgid "Select the alignment for Crop and Pad modes."
+msgstr "选择剪裁和拼接模式的对齐方式."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Pad Color"
+msgid "Pad Color"
+msgstr "填充颜色"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "The background color to use to pad the image. Named color or hex value."
+msgid "The background color to use to pad the image. Named color or hex value."
+msgstr "背景颜色用于填充图像。颜色名称或十六进制值s."
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Max"
+msgid "Max"
+msgstr "最大"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Pad"
+msgid "Pad"
+msgstr "填充"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Crop"
+msgid "Crop"
+msgstr "剪裁"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Stretch"
+msgid "Stretch"
+msgstr "拉伸"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Top Left"
+msgid "Top Left"
+msgstr "顶部左对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Top Center"
+msgid "Top Center"
+msgstr "顶部居中"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Top Right"
+msgid "Top Right"
+msgstr "顶部右对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Middle Left"
+msgid "Middle Left"
+msgstr "左中对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Middle Center"
+msgid "Middle Center"
+msgstr "居中对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Middle Right"
+msgid "Middle Right"
+msgstr "右中对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Bottom Left"
+msgid "Bottom Left"
+msgstr "底部左对齐"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Bottom Center"
+msgid "Bottom Center"
+msgstr "底部居中"
+
+#: Orchard.MediaProcessing.Providers.Filters.ResizeFilter
+#| msgid "Bottom Right"
+msgid "Bottom Right"
+msgstr "底部右对齐"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Edit Media Profile - {0}"
+msgid "Edit Media Profile - {0}"
+msgstr "编辑媒体配置文件-{0}"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Filters"
+msgid "Filters"
+msgstr "文件夹"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Add a new Filter"
+msgid "Add a new Filter"
+msgstr "添加一个新文件夹"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Up"
+msgid "Up"
+msgstr "上"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Down"
+msgid "Down"
+msgstr "下"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Usage example: "
+msgid "Usage example: "
+msgstr "用法范例: "
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml
+#| msgid "Close"
+msgid "Close"
+msgstr "关闭"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Profiles"
+msgid "Profiles"
+msgstr "配置文件"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Add a new Media Profile"
+msgid "Add a new Media Profile"
+msgstr "添加媒体配置文件"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "提交"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "提交"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "所以"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "筛选"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "筛选"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Properties"
+msgid "Properties"
+msgstr "属性"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml
+#| msgid "The technical name of the profile. Must be letters and numbers only (e.g. Thumbnail)."
+msgid "The technical name of the profile. Must be letters and numbers only (e.g. Thumbnail)."
+msgstr "产品的配置文件名称，必须是字母和数字（如：Thumbnail）."
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml
+#| msgid "Add a Filter"
+msgid "Add a Filter"
+msgstr "添加文件夹"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml
+#| msgid "There are no currently available filters"
+msgid "There are no currently available filters"
+msgstr "目前没有任何可用的过滤器"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml
+#| msgid "Edit Filter - {0}"
+msgid "Edit Filter - {0}"
+msgstr "编辑文件夹-{0}"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml
+#| msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgstr "您可以选择性地给此过滤器提供描述，用于在屏幕上仪表板中显示."
+
+#: ~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml
+#| msgid "Image Profile"
+msgid "Image Profile"
+msgstr "媒体配置文件"

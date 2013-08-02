@@ -1,0 +1,39 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Description"
+msgid "The Messaging module adds messaging functionalities."
+msgstr "短讯模块提供短讯功能。"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Messaging"
+msgid "Messaging"
+msgstr "短讯"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Default channel service for messages"
+msgid "Default channel service for messages"
+msgstr "预设的短讯伺服器频道"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "You must enable a messaging channel (eg, Orchard.Email) before being able to send messages."
+msgid "You must enable a messaging channel (eg, Orchard.Email) before being able to send messages."
+msgstr "您必须启用短讯频道(例: Orchard.Email) 才能发送短讯。"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Name"
+msgid "Messaging"
+msgstr "短讯"

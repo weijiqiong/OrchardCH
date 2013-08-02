@@ -1,0 +1,144 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.PublishLater/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.PublishLater/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.PublishLater/Module.txt
+#| msgid "Description"
+msgid "The PublishLater module introduces draft creation and scheduled publishing functionality."
+msgstr "延后发布模块可以用来建立草稿并且计划何时发布。"
+
+#: Orchard.PublishLater.Drivers.PublishLaterPartDriver
+#| msgid "{0} is an invalid date and time"
+msgid "{0} is an invalid date and time"
+msgstr "{0} 是无效的日期和时间"
+
+#: Orchard.PublishLater.Drivers.PublishLaterPartDriver
+#| msgid "Both the date and time need to be specified for when this is to be published. If you don't want to schedule publishing then click Save or Publish Now."
+msgid "Both the date and time need to be specified for when this is to be published. If you don't want to schedule publishing then click Save or Publish Now."
+msgstr "若要指定何时发布，请设定日期和时间。如果不想延迟发布请按下保存或立即发布。"
+
+#: Orchard.PublishLater.Services.PublishLaterService
+#| msgid "Couldn't publish selected content."
+msgid "Couldn't publish selected content."
+msgstr "无法发布所选的内容。"
+
+#: Orchard.PublishLater.Services.XmlRpcHandler
+#| msgid "The username or e-mail or password provided is incorrect."
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "用户名称、Email 或密码不正确。"
+
+#: ~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml
+#| msgid "Publish"
+msgid "Publish"
+msgstr "发布"
+
+#: ~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml
+#| msgid "Date"
+msgid "Date"
+msgstr "日期"
+
+#: ~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml
+#| msgid "Time"
+msgid "Time"
+msgstr "时间"
+
+#: ~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml
+#| msgid "Publish Later"
+msgid "Publish Later"
+msgstr "延迟发布"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.cshtml
+#| msgid "Published: {0}"
+msgid "Published: {0}"
+msgstr "已发布: {0}"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml
+#| msgid "Published: {0}"
+msgid "Published: {0}"
+msgstr "已发布: {0}"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml
+#| msgid " | "
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Online"
+msgid "Online"
+msgstr "上线"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "The page is currently online"
+msgid "The page is currently online"
+msgstr "该页面目前上线"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Published"
+msgid "Published"
+msgstr "已发布"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Offline"
+msgid "Offline"
+msgstr "离线"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "The page is currently offline"
+msgid "The page is currently offline"
+msgstr "该网页目前离线"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Not Published"
+msgid "Not Published"
+msgstr "无已发布"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Draft"
+msgid "Draft"
+msgstr "草稿"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "The page has a draft"
+msgid "The page has a draft"
+msgstr "该页面拥有草稿"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "No Draft"
+msgid "No Draft"
+msgstr "无草稿"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Published: {0}"
+msgid "Published: {0}"
+msgstr "已发布: {0}"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "Scheduled"
+msgid "Scheduled"
+msgstr "时间表"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "The page is scheduled for publishing"
+msgid "The page is scheduled for publishing"
+msgstr "此页面是预计发布的时间表"
+
+#: ~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml
+#| msgid "M/d/yyyy h:mm tt"
+msgid "M/d/yyyy h:mm tt"
+msgstr "yyyy-M-d h:mm tt"
+
+#: ~/Modules/Orchard.PublishLater/Module.txt
+#| msgid "Name"
+msgid "PublishLater"
+msgstr "延迟发布"

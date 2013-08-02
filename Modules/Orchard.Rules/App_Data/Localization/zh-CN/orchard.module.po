@@ -1,0 +1,585 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2012 Outercurve Foundation 
+# All rights reserved 
+# This file is distributed under the BSD license 
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Name"
+msgid "Rules"
+msgstr "Rules"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "The Orchard Team"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Website"
+msgid "http://orchardrules.codeplex.com"
+msgstr "http://orchardrules.codeplex.com"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Description"
+msgid "Provides a system de trigger actions based on events."
+msgstr "提供一个基于events的System trigger actions"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Name"
+msgid "Rules"
+msgstr "Rules"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Description"
+msgid "Provides a system de trigger actions based on events."
+msgstr "提供一个基于events的System trigger actions"
+
+#: ~/Modules/Orchard.Rules/Module.txt
+#| msgid "Orchard.Rules.Category"
+msgid "Rules"
+msgstr "规则"
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Rules"
+msgid "Rules"
+msgstr "规则"
+
+#: Orchard.Rules.AdminMenu
+#| msgid "Manage Rules"
+msgid "Manage Rules"
+msgstr "规则管理"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Action Deleted"
+msgid "Action Deleted"
+msgstr "行为已删除"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: Orchard.Rules.Controllers.ActionController
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to list rules"
+msgid "Not authorized to list rules"
+msgstr "不具备管理规则列表权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to edit rules"
+msgid "Not authorized to edit rules"
+msgstr "不具备管理权限来编辑规则"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule Saved"
+msgid "Rule Saved"
+msgstr "规则已保存"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule {0} deleted"
+msgid "Rule {0} deleted"
+msgstr "Rule {0} 已删除"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule enabled"
+msgid "Rule enabled"
+msgstr "规则已启用"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.AdminController
+#| msgid "Rule disabled"
+msgid "Rule disabled"
+msgstr "规则已禁用"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Event Deleted"
+msgid "Event Deleted"
+msgstr "事件已删除"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Not authorized to manage rules"
+msgid "Not authorized to manage rules"
+msgstr "不具备管理规则的权限"
+
+#: Orchard.Rules.Controllers.EventController
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notification"
+msgid "Notification"
+msgstr "Notification"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notifications"
+msgid "Notifications"
+msgstr "Notifications"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Notify"
+msgid "Notify"
+msgstr "Notify"
+
+#: Orchard.Rules.Providers.NotificationActions
+#| msgid "Display a message."
+msgid "Display a message."
+msgstr "显示消息."
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Notification type"
+msgid "Notification type"
+msgstr "Notification type"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Select what type of notification should be displayed."
+msgid "Select what type of notification should be displayed."
+msgstr "选择要显示的notification type"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Information"
+msgid "Information"
+msgstr "Information"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Warning"
+msgid "Warning"
+msgstr "Warning"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Error"
+msgid "Error"
+msgstr "Error"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "Message"
+msgid "Message"
+msgstr "Message"
+
+#: Orchard.Rules.Providers.NotificationForms
+#| msgid "The notification message to display."
+msgid "The notification message to display."
+msgstr "显示notification message."
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "System"
+msgid "System"
+msgstr "System"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "System"
+msgid "System"
+msgstr "System"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Delayed Action"
+msgid "Delayed Action"
+msgstr "延迟 Action"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers some actions after a specific amount of time."
+msgid "Triggers some actions after a specific amount of time."
+msgstr "Triggers some actions after a specific amount of time."
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount"
+msgid "Amount"
+msgstr "Amount"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Amount type"
+msgid "Amount type"
+msgstr "Amount type"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Minutes"
+msgid "Minutes"
+msgstr "Minutes"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Hours"
+msgid "Hours"
+msgstr "Hours"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Days"
+msgid "Days"
+msgstr "Days"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Weeks"
+msgid "Weeks"
+msgstr "Weeks"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Months"
+msgid "Months"
+msgstr "Months"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Rule to trigger"
+msgid "Rule to trigger"
+msgstr "Rule to trigger"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Date"
+msgid "Date"
+msgstr "日期"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "Time"
+msgid "Time"
+msgstr "时间"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide an Amount"
+msgid "You must provide an Amount"
+msgstr "您必须提供一个Amount"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must provide a Type"
+msgid "You must provide a Type"
+msgstr "您必须提供一个Type"
+
+#: Orchard.Rules.Providers.ScheduleForms
+#| msgid "You must select at least one Rule"
+msgid "You must select at least one Rule"
+msgstr "请至少选择一个Rule"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Add an Action"
+msgid "Add an Action"
+msgstr "添加 Action"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "There are no currently available actions"
+msgid "There are no currently available actions"
+msgstr "当前没有可用的 actions"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "Name"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Rules/Views/Action/Edit.cshtml
+#| msgid "Edit Action - {0}"
+msgid "Edit Action - {0}"
+msgstr "编辑 Action - {0}"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Create New Rule"
+msgid "Create New Rule"
+msgstr "添加新 Rule"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "The name of the Rule"
+msgid "The name of the Rule"
+msgstr "Rule名称"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Create.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit Rule"
+msgid "Edit Rule"
+msgstr "编辑 Rule"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "The name of the Rule"
+msgid "The name of the Rule"
+msgstr "Rule名称"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Events"
+msgid "Events"
+msgstr "Events"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Event"
+msgid "Add a new Event"
+msgstr "添加一个新 Event"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Event"
+msgid "Add a new Event"
+msgstr "添加一个新 Event"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Actions"
+msgid "Actions"
+msgstr "Actions"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Action"
+msgid "Add a new Action"
+msgstr "添加一个新 Action"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Up"
+msgid "Up"
+msgstr "向上"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Down"
+msgid "Down"
+msgstr "向下"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Add a new Action"
+msgid "Add a new Action"
+msgstr "添加一个新 Action"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Edit.cshtml
+#| msgid "Save and Enable"
+msgid "Save and Enable"
+msgstr "保存并启用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Manage Rules"
+msgid "Manage Rules"
+msgstr "管理 Rules"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Add a new Rule"
+msgid "Add a new Rule"
+msgstr "添加一个新Rule"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "Actions:"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择 action..."
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Enable"
+msgid "Enable"
+msgstr "可用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr "不可用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "启用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "启用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgid "Sort by:"
+msgstr "分类："
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "Name"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示："
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "全部"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "Name"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Creation"
+msgid "Creation"
+msgstr "添加"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Enable"
+msgid "Enable"
+msgstr "可用"
+
+#: ~/Modules/Orchard.Rules/Views/Admin/Index.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr "不可用"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Add an Event"
+msgid "Add an Event"
+msgstr "添加一个新事件"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "There are no currently available events"
+msgid "There are no currently available events"
+msgstr "当前没有可用事件"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "Name"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Add.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "描述"
+
+#: ~/Modules/Orchard.Rules/Views/Event/Edit.cshtml
+#| msgid "Edit Event - {0}"
+msgid "Edit Event - {0}"
+msgstr "编辑事件 - {0}"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}"
+msgid "Triggers \"{1}\" in {0} {2}"
+msgstr "Triggers \"{1}\" in {0} {2}"
+
+#: Orchard.Rules.Providers.ScheduleActions
+#| msgid "Triggers \"{1}\" in {0} {2}s"
+msgid "Triggers \"{1}\" in {0} {2}s"
+msgstr "Triggers \"{1}\" in {0} {2}s"
+

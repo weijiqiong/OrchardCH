@@ -1,0 +1,309 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Description"
+msgid "The themes module makes it possible for Orchard applications to customize the look and feel of an Orchard web site."
+msgstr "主题模块让Orchard 应用可以自定外观。"
+
+#: Orchard.Themes.AdminMenu
+#| msgid "Themes"
+msgid "Themes"
+msgstr "主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't preview the current theme"
+msgid "Couldn't preview the current theme"
+msgstr "无法预览当前主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't enable the theme"
+msgid "Couldn't enable the theme"
+msgstr "无法启用主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't disable the current theme"
+msgid "Couldn't disable the current theme"
+msgstr "无法禁用当前主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't set the current theme"
+msgid "Couldn't set the current theme"
+msgstr "无法设定当前主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Couldn't update theme"
+msgid "Couldn't update theme"
+msgstr "无法更新主题"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "The theme {0} was updated succesfuly"
+msgid "The theme {0} was updated succesfuly"
+msgstr "主题 {0} 已更新成功"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "An error occured while updating the theme {0}: {1}"
+msgid "An error occured while updating the theme {0}: {1}"
+msgstr "在更新主题 {0} 时发生错误: {1}"
+
+#: Orchard.Themes.Services.ThemeService
+#| msgid "The theme \"{0}\" is already in the stack of themes that need features disabled."
+msgid "The theme \"{0}\" is already in the stack of themes that need features disabled."
+msgstr "主题\"{0}\" 已在将被禁用的主题堆叠中。"
+
+#: Orchard.Themes.Services.ThemeService
+#| msgid "The theme \"{0}\" is already in the stack of themes that need features enabled."
+msgid "The theme \"{0}\" is already in the stack of themes that need features enabled."
+msgstr "主题\"{0}\" 已在将被启用的主题堆叠中。"
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "You are previewing: "
+msgid "You are previewing: "
+msgstr "您正在预览:"
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Apply this theme"
+msgid "Apply this theme"
+msgstr "应用这个主题"
+
+#: ~/Modules/Orchard.Themes/Views/ThemePreview.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "There is no current theme in the application. The built-in theme will be used."
+msgid "There is no current theme in the application. The built-in theme will be used."
+msgstr "在应用中目前没有任何主题，内建的主题将被使用。"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Install a new Theme"
+msgid "Install a new Theme"
+msgstr "安装新主题"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Current Theme"
+msgid "Current Theme"
+msgstr "目前主题"
+
+#: ~/Modules/Orchard.Themes/Module.txt
+#| msgid "Name"
+msgid "Themes"
+msgstr "主题"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "{0}"
+msgid "{0}"
+msgstr "{0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Current theme"
+msgid "Current theme"
+msgstr "目前主题"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "--------------------------"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "List of available themes"
+msgid "List of available themes"
+msgstr "可用的主题列表"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid " Name: {0}"
+msgid " Name: {0}"
+msgstr "名称: {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Enabled"
+msgid "Enabled"
+msgstr "启用"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Disabled"
+msgid "Disabled"
+msgstr "禁用"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Yes"
+msgid "Yes"
+msgstr "是"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "No"
+msgid "No"
+msgstr "否"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid " Author: {0}"
+msgid " Author: {0}"
+msgstr "作者: {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid " Version: {0}"
+msgid " Version: {0}"
+msgstr "版本: {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid " Description: {0}"
+msgid " Description: {0}"
+msgstr "说明: {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid " Website: {0}"
+msgid " Website: {0}"
+msgstr "网站: {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Could not find theme {0}"
+msgid "Could not find theme {0}"
+msgstr "找不到主题 {0}"
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Enabling theme \"{0}\"..."
+msgid "Enabling theme \"{0}\"..."
+msgstr "启用主题 \"{0}\"..."
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Activati​​ng theme \"{0}\"..."
+msgid "Activati​​ng theme \"{0}\"..."
+msgstr "启用主题 \"{0}\"..."
+
+#: Orchard.Themes.Commands.ThemeCommands
+#| msgid "Theme \"{0}\" activated"
+msgid "Theme \"{0}\" activated"
+msgstr "主题 \"{0}\" 已启用"
+
+#: Orchard.Themes.AdminMenu
+#| msgid "Installed"
+msgid "Installed"
+msgstr "已安装"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Listing themes failed: {0}"
+msgid "Listing themes failed: {0}"
+msgstr "主题列表产生失败: {0}"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Previewing theme failed: {0}"
+msgid "Previewing theme failed: {0}"
+msgstr "预览主题失败: {0}"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Enabling theme failed: {0}"
+msgid "Enabling theme failed: {0}"
+msgstr "启用主题失败: {0}"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Disabling theme failed: {0}"
+msgid "Disabling theme failed: {0}"
+msgstr "禁用主题失败: {0}"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Activati​​ng theme failed: {0}"
+msgid "Activati​​ng theme failed: {0}"
+msgstr "启用主题失败: {0}"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Activate"
+msgid "Activate"
+msgstr "启用"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Set Current"
+msgid "Set Current"
+msgstr "设定为当前状态"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Preview"
+msgid "Preview"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "By"
+msgid "By"
+msgstr "由"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Version:"
+msgid "Version:"
+msgstr "版本:"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Disable"
+msgid "Disable"
+msgstr "禁用"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Enable"
+msgid "Enable"
+msgstr "启用"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr "更新"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml
+#| msgid "Uninstall"
+msgid "Uninstall"
+msgstr "移除"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml
+#| msgid "By"
+msgid "By"
+msgstr "由"
+
+#: ~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml
+#| msgid "Version:"
+msgid "Version:"
+msgstr "版本:"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Themes"
+msgid "Themes"
+msgstr "主题"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Available"
+msgid "Available"
+msgstr "可用的"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "Install a theme from your computer"
+msgid "Install a theme from your computer"
+msgstr "从您的电脑安装主题"
+
+#: ~/Modules/Orchard.Themes/Views/Admin/Index.cshtml
+#| msgid "There are no additional themes installed."
+msgid "There are no additional themes installed."
+msgstr "没有额外的主题被安装。"
+
+#: Orchard.Themes.Controllers.AdminController
+#| msgid "Theme {0} was not found"
+msgid "Theme {0} was not found"
+msgstr "找不到主题 {0}"

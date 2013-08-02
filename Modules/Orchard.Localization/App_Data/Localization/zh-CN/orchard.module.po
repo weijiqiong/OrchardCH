@@ -1,0 +1,79 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Description"
+msgid "The localization module enables the localization of content items."
+msgstr "本地化模块可以让主题项目本地化。"
+
+#: Orchard.Localization.Controllers.AdminController
+#| msgid "Edited content item translation."
+msgid "Edited content item translation."
+msgstr "编辑主题项目翻译"
+
+#: Orchard.Localization.Controllers.AdminController
+#| msgid "Created content item translation."
+msgid "Created content item translation."
+msgstr "建立主题项目翻译"
+
+#: ~/Modules/Orchard.Localization/Views/CultureSelection.cshtml
+#| msgid "Content Localization"
+msgid "Content Localization"
+msgstr "主题本地化"
+
+#: ~/Modules/Orchard.Localization/Views/Admin/Translate.cshtml
+#| msgid "Translate Content"
+msgid "Translate Content"
+msgstr "翻译主题"
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "Content Localization"
+msgid "Content Localization"
+msgstr "主题本地化"
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "This is the <em>{0}</em> variation of {1}."
+msgid "This is the <em>{0}</em> variation of {1}."
+msgstr "这是<em>{0}</em> {1} 的变化。"
+
+#: ~/Modules/Orchard.Localization/Views/EditorTemplates/Parts/Localization.ContentTranslations.Edit.cshtml
+#| msgid "Other translations:"
+msgid "Other translations:"
+msgstr "其他翻译"
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr "翻译"
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.Summary.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr "翻译"
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
+#| msgid "Translations:"
+msgid "Translations:"
+msgstr "翻译:"
+
+#: ~/Modules/Orchard.Localization/Views/Parts/Localization.ContentTranslations.SummaryAdmin.cshtml
+#| msgid "+ New translation"
+msgid "+ New translation"
+msgstr "+ 新增翻译"
+
+#: ~/Modules/Orchard.Localization/Module.txt
+#| msgid "Name"
+msgid "Localization"
+msgstr "本地化"

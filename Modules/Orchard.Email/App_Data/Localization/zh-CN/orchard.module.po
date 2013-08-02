@@ -1,0 +1,74 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Description"
+msgid "The Email Messaging module adds Email sending functionalities."
+msgstr "Email 通讯模块拥有Email 发送功能。"
+
+#: Orchard.Email.Services.MissingSettingsBanner:
+#| msgid "The SMTP settings needs to be configured."
+msgid "The SMTP settings needs to be configured."
+msgstr "SMTP 需要进行设定"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Sender email address"
+msgid "Sender email address"
+msgstr "发件人的电子邮件地址"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Host name"
+msgid "Host name"
+msgstr "主机名称"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Port number"
+msgid "Port number"
+msgstr "扉号"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Enable SSL communications"
+msgid "Enable SSL communications"
+msgstr "启用 SSL 连线"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Require credentials"
+msgid "Require credentials"
+msgstr "要求凭证"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "User name"
+msgid "User name"
+msgstr "帐号名称"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Password"
+msgid "Password"
+msgstr "密码"
+
+#: ~/Modules/Orchard.Email/Module.txt
+#| msgid "Name"
+msgid "Email Messaging"
+msgstr "Email 通讯"
+
+#: Orchard.Email.Handlers.SmtpSettingsPartHandler
+#| msgid "Email"
+msgid "Email"
+msgstr "Email"
+
+#: ~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr "Email"
