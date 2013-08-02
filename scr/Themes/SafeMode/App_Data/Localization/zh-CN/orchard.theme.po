@@ -1,0 +1,34 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/SafeMode/Theme.txt
+#| msgid "Name"
+msgid "SafeMode"
+msgstr "安全模式"
+
+#: ~/Themes/SafeMode/Theme.txt
+#| msgid "Author"
+msgid "Jonathan Wall"
+msgstr "Jonathan Wall"
+
+#: ~/Themes/SafeMode/Theme.txt
+#| msgid "Description"
+msgid "The Orchard Theme for setup and failure conditions."
+msgstr "Orchard 主题的设定和故障状况。"
+
+#: ~/Themes/SafeMode/Theme.txt
+#| msgid "Tags"
+msgid "hidden"
+msgstr "隐藏"
+
+#: ~/Themes/SafeMode/Theme.txt
+#| msgid "Website"
+msgid "http://www.orchardpro​​ject.net"
+msgstr "http://www.orchardpro​​ject.net"
+
+#: ~/Themes/SafeMode/Views/Layout.cshtml
+#| msgid "Welcome to Orchard"
+msgid "Welcome to Orchard"
+msgstr "欢迎使用 Orchard"

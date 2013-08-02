@@ -1,0 +1,730 @@
+﻿#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Name"
+msgid "Advanced menu"
+msgstr "高级菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Author"
+msgid "Piotr Szmyd"
+msgstr "Piotr Szmyd"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Website"
+msgid "http://www.szmyd.com.pl"
+msgstr "http://www.szmyd.com.pl"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Description"
+msgid "Allows creation of custom, hierarchical menus. Adds also the BreadcrumbsWidget, RecentlySeenWidget and a MenuWidget/StyledMenuWidget to display independent menus on your pages."
+msgstr "提供创建自定义的树形菜单。还可以在你的页面添加独立的BreadcrumbsWidget, RecentlySeenWidget 和 MenuWidget/StyledMenuWidget菜单。"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Counters.Name"
+msgid "Advanced menu - Visit counters"
+msgstr "高级菜单 - 访问量"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Counters.Description"
+msgid "Enables counting content item visits/displays. Adds Recently Seen Widget that displays recently visited items."
+msgstr "显示content item的访问数量，还可以用widget来显示最新的访问内容。"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Counters.Category"
+msgid "Navigation"
+msgstr "高级菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Breadcrumbs.Name"
+msgid "Advanced Menu - Breadcrumbs"
+msgstr "高级菜单 - Breadcrumbs"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Breadcrumbs.Description"
+msgid "Enables breadcrumbs. Adds Breadcrumbs Widget that displays breadcrumbs path based on a given menu."
+msgstr "Enables breadcrumbs. 添加一个Breadcrumbs Widget来显示基于给定菜单的breadcrumbs路径。"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Module.txt
+#| msgid "Szmyd.Menu.Breadcrumbs.Category"
+msgid "Navigation"
+msgstr "高级菜单"
+
+#: Szmyd.Orchard.Modules.Menu.AdminMenu
+#| msgid "Navigation"
+msgid "Navigation"
+msgstr "高级菜单"
+
+#: Szmyd.Orchard.Modules.Menu.AdminMenu
+#| msgid "Create new menu"
+msgid "Create new menu"
+msgstr "创建新菜单"
+
+#: Szmyd.Orchard.Modules.Menu.AdminMenu
+#| msgid "Manage menu '{0}'"
+msgid "Manage menu '{0}'"
+msgstr "管理菜单 '{0}'"
+
+#: Szmyd.Orchard.Modules.Menu.BreadcrumbsMigrations
+#| msgid "Skipping BreadcrumbsPartRecord table creation. It already exists."
+msgid "Skipping BreadcrumbsPartRecord table creation. It already exists."
+msgstr "跳过创建BreadcrumbsPartRecord表，因为已存在。"
+
+#: Szmyd.Orchard.Modules.Menu.BreadcrumbsMigrations
+#| msgid "Skipping CounterRecord table creation. It already exists."
+msgid "Skipping CounterRecord table creation. It already exists."
+msgstr "跳过创建CounterRecord表，因为已存在。"
+
+#: Szmyd.Orchard.Modules.Menu.BreadcrumbsMigrations
+#| msgid "Skipping ItemCounterPartRecord table creation. It already exists."
+msgid "Skipping ItemCounterPartRecord table creation. It already exists."
+msgstr "跳过创建ItemCounterPartRecord表，因为已存在。"
+
+#: Szmyd.Orchard.Modules.Menu.CountersMigrations
+#| msgid "Skipping RecentlySeenPartRecord table creation. It already exists."
+msgid "Skipping RecentlySeenPartRecord table creation. It already exists."
+msgstr "跳过创建 RecentlySeenPartRecord表，因为已存在。""
+
+#: Szmyd.Orchard.Modules.Menu.CountersMigrations
+#| msgid "Skipping RecentlySeenPartRecord table alteration. It already exists."
+msgid "Skipping RecentlySeenPartRecord table alteration. It already exists."
+msgstr "跳过创建 RecentlySeenPartRecord表，因为已存在。""
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Creating widget failed : type {0} was not found. Supported widget types are: {1}."
+msgid "Creating widget failed : type {0} was not found. Supported widget types are: {1}."
+msgstr "创建widget失败 : type {0} 未找到. 支持的 widget types 包括: {1}."
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Creating widget failed : layer {0} was not found."
+msgid "Creating widget failed : layer {0} was not found."
+msgstr "创建widget失败 :  layer {0} 未找到"
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Menu widget created successfully."
+msgid "Menu widget created successfully."
+msgstr "Menu widget创建成功。"
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Menu name was not supplied."
+msgid "Menu name was not supplied."
+msgstr "此菜单名称不支持"
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Menu {0} was not found. No action taken."
+msgid "Menu {0} was not found. No action taken."
+msgstr "菜单 {0} 未找到. 没引发任何action"
+
+#: Szmyd.Orchard.Modules.Menu.Commands.MenuCommands
+#| msgid "Deleted menu {0}"
+msgid "Deleted menu {0}"
+msgstr "菜单{0}已删除"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Not allowed to create new menus"
+msgid "Not allowed to create new menus"
+msgstr "不允许创建新菜单"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Your {0} has been created."
+msgid "Your {0} has been created."
+msgstr "{0}已创建"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Not allowed to create menu items"
+msgid "Not allowed to create menu items"
+msgstr "不允许创建菜单项"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Couldn't create menu item"
+msgid "Couldn't create menu item"
+msgstr "不能创建菜单项"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Couldn't edit menu item"
+msgid "Couldn't edit menu item"
+msgstr "不能编辑菜单项"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Your {0} has been saved."
+msgid "Your {0} has been saved."
+msgstr "{0}已保存"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Couldn't delete menu item"
+msgid "Couldn't delete menu item"
+msgstr "不能删除菜单项"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Menu item was successfully deleted"
+msgid "Menu item was successfully deleted"
+msgstr "菜单项已删除成功"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Couldn't delete {0} menu"
+msgid "Couldn't delete {0} menu"
+msgstr "没能够删除菜单{0}"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Menu {0} was successfully deleted"
+msgid "Menu {0} was successfully deleted"
+msgstr "菜单 {0} 已删除成功"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Couldn't fill the menu"
+msgid "Couldn't fill the menu"
+msgstr "不能够填充此菜单"
+
+#: Szmyd.Orchard.Modules.Menu.Controllers.MenuAdminController
+#| msgid "Your menu has been filled."
+msgid "Your menu has been filled."
+msgstr "您的菜单已填充完毕"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuItemPartDriver
+#| msgid "(None)"
+msgid "(None)"
+msgstr "(None)"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuItemPartDriver
+#| msgid "Error during menu update!"
+msgid "Error during menu update!"
+msgstr "菜单更新失败"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuItemPartDriver
+#| msgid "Menu edited successfully"
+msgid "Menu edited successfully"
+msgstr "菜单编辑已成功"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuItemPartDriver
+#| msgid "Position cannot be empty."
+msgid "Position cannot be empty."
+msgstr "当前位置不能为空"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuItemPartDriver
+#| msgid "You have to provide either static Url or choose a content item"
+msgid "You have to provide either static Url or choose a content item"
+msgstr "您必须提供静态Url或者选一个内容项"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuPartDriver
+#| msgid "Menu name cannot contain spaces"
+msgid "Menu name cannot contain spaces"
+msgstr "菜单名称不能包含空格"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuPartDriver
+#| msgid "Menu updated successfully"
+msgid "Menu updated successfully"
+msgstr "菜单更新成功"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.AdvancedMenuPartDriver
+#| msgid "Error during menu update!"
+msgid "Error during menu update!"
+msgstr "菜单更新失败"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.BreadcrumbsPartDriver
+#| msgid "Breadcrumbs edited successfully"
+msgid "Breadcrumbs edited successfully"
+msgstr "Breadcrumbs edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.BreadcrumbsPartDriver
+#| msgid "Error during breadcrumbs update!"
+msgid "Error during breadcrumbs update!"
+msgstr "Error during breadcrumbs update!"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.ItemCounterPartDriver
+#| msgid "Item counter edited successfully"
+msgid "Item counter edited successfully"
+msgstr "Item counter edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.ItemCounterPartDriver
+#| msgid "Error during item counter update!"
+msgid "Error during item counter update!"
+msgstr "Error during item counter update!"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuRelationPartDriver
+#| msgid "Menu relation edited successfully"
+msgid "Menu relation edited successfully"
+msgstr "Menu relation edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuRelationPartDriver
+#| msgid "Error during menu relation update!"
+msgid "Error during menu relation update!"
+msgstr "Error during menu relation update!"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuStylingPartDriver
+#| msgid "Menu styling edited successfully"
+msgid "Menu styling edited successfully"
+msgstr "Menu styling edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuStylingPartDriver
+#| msgid "Error during item counter update!"
+msgid "Error during item counter update!"
+msgstr "Error during item counter update!"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuWidgetPartDriver
+#| msgid "Menu widget edited successfully"
+msgid "Menu widget edited successfully"
+msgstr "Menu widget edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.MenuWidgetPartDriver
+#| msgid "Error during menu widget update!"
+msgid "Error during menu widget update!"
+msgstr "Error during menu widget update!"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.RecentlySeenPartDriver
+#| msgid "Recently Seen Part edited successfully"
+msgid "Recently Seen Part edited successfully"
+msgstr "Recently Seen Part edited successfully"
+
+#: Szmyd.Orchard.Modules.Menu.Drivers.RecentlySeenPartDriver
+#| msgid "Error during Recently Seen Part update!"
+msgid "Error during Recently Seen Part update!"
+msgstr "Error during Recently Seen Part update!"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/Counter.cshtml
+#| msgid "{0} views"
+msgid "{0} views"
+msgstr "{0} views"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/DefinitionTemplates/ItemCounterPartTypePartSettings.cshtml
+#| msgid "Default counter displayed"
+msgid "Default counter displayed"
+msgstr "Default counter displayed"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/DefinitionTemplates/MenuWidgetPartTypePartSettings.cshtml
+#| msgid "Default menu name"
+msgid "Default menu name"
+msgstr "Default menu name"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/DefinitionTemplates/RecentlySeenPartTypePartSettings.cshtml
+#| msgid "Should display visit counts?"
+msgid "Should display visit counts?"
+msgstr "Should display visit counts?"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Counters.ItemCounter.cshtml
+#| msgid "Counter to display"
+msgid "Counter to display"
+msgstr "Counter to display"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Menu Item for '{0}'"
+msgid "Menu Item for '{0}'"
+msgstr "Menu Item for '{0}'"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Menu item link"
+msgid "Menu item link"
+msgstr "菜单项链接属性"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Static Url"
+msgid "Static Url"
+msgstr "静态URL"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Provide static Url to the desired page"
+msgid "Provide static Url to the desired page"
+msgstr "填写一个静态URL地址"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Choose content item"
+msgid "Choose content item"
+msgstr "选择一个内容项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Choose a content item this menu item points to"
+msgid "Choose a content item this menu item points to"
+msgstr "选择当前菜单所链接的内容页"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Additional CSS classes"
+msgid "Additional CSS classes"
+msgstr "css属性"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Optional additional CSS classes to apply to this item."
+msgid "Optional additional CSS classes to apply to this item."
+msgstr "Optional additional CSS classes to apply to this item."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Should include return url?"
+msgid "Should include return url?"
+msgstr "是否包含返回路径"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "This will append a ReturnUrl parameter to the query string of the link. This can be useful for example with Login and Logout links."
+msgid "This will append a ReturnUrl parameter to the query string of the link. This can be useful for example with Login and Logout links."
+msgstr "这个选项的意思是：当用户登录或注销时自动跳转的路径"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Menu item settings"
+msgid "Menu item settings"
+msgstr "菜单项的设置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Displayed text"
+msgid "Displayed text"
+msgstr "显示文本"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Subtitle"
+msgid "Subtitle"
+msgstr "子标题"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Optional subtitle to display."
+msgid "Optional subtitle to display."
+msgstr "可写可不写"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Position"
+msgid "Position"
+msgstr "位置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Menu item position in menu, using dot-notation (eg. 1, 1.1, 1.1.2 etc.)"
+msgid "Menu item position in menu, using dot-notation (eg. 1, 1.1, 1.1.2 etc.)"
+msgstr "位置可以像(eg. 1, 1.1, 1.1.2 etc.)来表示"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Should display item text?"
+msgid "Should display item text?"
+msgstr "是否显示菜单文本？"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Should display item as link?"
+msgid "Should display item as link?"
+msgstr "链接是否起作用"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Requires permission"
+msgid "Requires permission"
+msgstr "访问权限"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Choose a permission required to show this menu item (and all items below)"
+msgid "Choose a permission required to show this menu item (and all items below)"
+msgstr ""
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Show to users"
+msgid "Show to users"
+msgstr "授权给用户"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedItem.cshtml
+#| msgid "Choose whether this menu item (and all items below) will be shown to any user, or only to anonymous or authenticated users"
+msgid "Choose whether this menu item (and all items below) will be shown to any user, or only to anonymous or authenticated users"
+msgstr "授权给哪些用户 可显示此菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedMenu.cshtml
+#| msgid "Menu settings"
+msgid "Menu settings"
+msgstr "菜单设置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.AdvancedMenu.cshtml
+#| msgid "Menu name"
+msgid "Menu name"
+msgstr "菜单名"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "Breadcrumbs settings"
+msgid "Breadcrumbs settings"
+msgstr "页面引导设置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "Separator string"
+msgid "Separator string"
+msgstr "间隔字符"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "Leading text"
+msgid "Leading text"
+msgstr "前端文字"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "Menu to use"
+msgid "Menu to use"
+msgstr "菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "The menu on which the breadcrumbs path will be based on."
+msgid "The menu on which the breadcrumbs path will be based on."
+msgstr "使用哪个菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Breadcrumbs.cshtml
+#| msgid "Display last breadcrumb as link?"
+msgid "Display last breadcrumb as link?"
+msgstr "最后一个位置显示链接？"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Recently seen settings"
+msgid "Recently seen settings"
+msgstr "最近访问"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Positive filtering regular expression"
+msgid "Positive filtering regular expression"
+msgstr "白名单正则表达式"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "You can specify here the regular expression for an URL white-list. <b>Only matching URLs will be displayed.</b>"
+msgid "You can specify here the regular expression for an URL white-list. <b>Only matching URLs will be displayed.</b>"
+msgstr "用正则表达式来过滤URL <b>符合的将会被显示(白名单)</b>"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Negative filtering regular expression"
+msgid "Negative filtering regular expression"
+msgstr "黑名单正则表达式"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "You can specify here the regular expression for an URL black-list. <b>Matching URLs won't be displayed.</b>."
+msgid "You can specify here the regular expression for an URL black-list. <b>Matching URLs won't be displayed.</b>."
+msgstr "用正则表达式来过滤URL <b>符合的将不会被显示(黑名单)</b>"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Items displayed"
+msgid "Items displayed"
+msgstr "链接数"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Specify how many items will be displayed."
+msgid "Specify how many items will be displayed."
+msgstr "设定要显示菜单的数量"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Visit counter"
+msgid "Visit counter"
+msgstr "访问量"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Select the counter which you'd like to display items for."
+msgid "Select the counter which you'd like to display items for."
+msgstr "按哪种方式统计"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RecentlySeen.cshtml
+#| msgid "Should display visit counts?"
+msgid "Should display visit counts?"
+msgstr "显示访问量？"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RelationPart.cshtml
+#| msgid "Show this item on menu(s)"
+msgid "Show this item on menu(s)"
+msgstr "Show this item on menu(s)"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RelationPart.cshtml
+#| msgid "Show on '<i>{0}</i>' menu"
+msgid "Show on '<i>{0}</i>' menu"
+msgstr "Show on '<i>{0}</i>' menu"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RelationPart.cshtml
+#| msgid "Menu text"
+msgid "Menu text"
+msgstr "Menu text"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RelationPart.cshtml
+#| msgid "Location"
+msgid "Location"
+msgstr "Location"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.RelationPart.cshtml
+#| msgid "There are no menus to choose from."
+msgid "There are no menus to choose from."
+msgstr "There are no menus to choose from."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Simple menu styling settings"
+msgid "Simple menu styling settings"
+msgstr "菜单项设置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Choose menu style:"
+msgid "Choose menu style:"
+msgstr "选择菜单样式:"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Item background color"
+msgid "Item background color"
+msgstr "background color属性"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Background color in hex format, eg. #FFFFFF (white), #000000 (black)"
+msgid "Background color in hex format, eg. #FFFFFF (white), #000000 (black)"
+msgstr "16进制, 比如. #FFFFFF (white), #000000 (black)"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Item foreground (text) color"
+msgid "Item foreground (text) color"
+msgstr " foreground color属性--(文本颜色) "
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Foreground color in hex format, eg. #FFFFFF (white), #000000 (black)"
+msgid "Foreground color in hex format, eg. #FFFFFF (white), #000000 (black)"
+msgstr "16进制, 比如. #FFFFFF (white), #000000 (black)"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Selected item's background color"
+msgid "Selected item's background color"
+msgstr "被选中的菜单background color属性"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Selected item's foreground (text) color"
+msgid "Selected item's foreground (text) color"
+msgstr "被选中的菜单 foreground color属性--(文本颜色) "
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Hovered item's background color"
+msgid "Hovered item's background color"
+msgstr "鼠标飘过background color属性"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Styling.cshtml
+#| msgid "Hovered item's foreground (text) color"
+msgid "Hovered item's foreground (text) color"
+msgstr "鼠标飘过 foreground color属性--(文本颜色) "
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Menu settings"
+msgid "Menu settings"
+msgstr "菜单设置"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Menu display mode"
+msgid "Menu display mode"
+msgstr "显示方式"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Choose display mode"
+msgid "Choose display mode"
+msgstr ""
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Menu to display"
+msgid "Menu to display"
+msgstr "选择菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "The menu from which the items will be displayed."
+msgid "The menu from which the items will be displayed."
+msgstr "选择要显示的菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "The root node to display children for"
+msgid "The root node to display children for"
+msgstr "The root node to display children for"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "The dot-notated position of desired menu item. Leave empty for whole menu."
+msgid "The dot-notated position of desired menu item. Leave empty for whole menu."
+msgstr "The dot-notated position of desired menu item. Leave empty for whole menu."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Limit levels"
+msgid "Limit levels"
+msgstr "Limit levels"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Limit the number of levels displayed. 0 = unlimited."
+msgid "Limit the number of levels displayed. 0 = unlimited."
+msgstr "Limit the number of levels displayed. 0 = unlimited."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Cut lower levels?"
+msgid "Cut lower levels?"
+msgstr "Cut lower levels?"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Check if you want to cut down items below limit."
+msgid "Check if you want to cut down items below limit."
+msgstr "Check if you want to cut down items below limit."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Leave unchecked if you want to flatten lower levels to single list."
+msgid "Leave unchecked if you want to flatten lower levels to single list."
+msgstr "Leave unchecked if you want to flatten lower levels to single list."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Wrap children in &lt;div&gt; tags?"
+msgid "Wrap children in &lt;div&gt; tags?"
+msgstr "Wrap children in &lt;div&gt; tags?"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/EditorTemplates/Parts/Menu.Widget.cshtml
+#| msgid "Check if you want to add additional &lt;div&gt; wrappers around child &lt;ul&gt; lists."
+msgid "Check if you want to add additional &lt;div&gt; wrappers around child &lt;ul&gt; lists."
+msgstr "Check if you want to add additional &lt;div&gt; wrappers around child &lt;ul&gt; lists."
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Create.cshtml
+#| msgid "Create New Menu"
+msgid "Create New Menu"
+msgstr "创建新菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/CreateItem.cshtml
+#| msgid "Create New Menu Item"
+msgid "Create New Menu Item"
+msgstr "创建新菜单项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/EditItem.cshtml
+#| msgid "Edit Menu Item"
+msgid "Edit Menu Item"
+msgstr "编辑菜单项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Manage {0} menu"
+msgid "Manage {0} menu"
+msgstr "管理菜单{0}"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Delete menu"
+msgid "Delete menu"
+msgstr "删除菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Create new menu"
+msgid "Create new menu"
+msgstr "创建新菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "+ Add item"
+msgid "+ Add item"
+msgstr "添加菜单项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "+ Add item /w custom Html"
+msgid "+ Add item /w custom Html"
+msgstr "添加自定义html内容的菜单项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Include contained items?"
+msgid "Include contained items?"
+msgstr "加入已包含项？"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "+ Fill menu with existing items"
+msgid "+ Fill menu with existing items"
+msgstr "用已有项填充此菜单"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Item"
+msgid "Item"
+msgstr "菜单项"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Position"
+msgid "Position"
+msgstr "排位"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Url"
+msgid "Url"
+msgstr "Url"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Type: <strong>{0}</strong>"
+msgid "Type: <strong>{0}</strong>"
+msgstr "类型: <strong>{0}</strong>"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Szmyd.Orchard.Modules.Menu/Views/MenuAdmin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+

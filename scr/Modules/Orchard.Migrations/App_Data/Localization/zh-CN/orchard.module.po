@@ -1,0 +1,54 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Description"
+msgid "Data migration commands."
+msgstr "资料移植指令。"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Name"
+msgid "Database Update"
+msgstr "资料库更新"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Description"
+msgid "Commands for updating the database schema according to the definition of the "Record" classes in code."
+msgstr "根据程式中"Record" 类别的定义来更新资料库结构的指令。"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "DatabaseUpdate.Category"
+msgid "Developer"
+msgstr "开发者"
+
+#: Orchard.Migrations.Commands.DatabaseUpdateCommands
+#| msgid "An error occured while updating the database: "
+msgid "An error occured while updating the database: "
+msgstr "更新资料库时发生错误:"
+
+#: Orchard.Migrations.Commands.DatabaseUpdateCommands
+#| msgid "An error occured while creating the tables: "
+msgid "An error occured while creating the tables: "
+msgstr "资料表建立时发生错误:"
+
+#: Orchard.Migrations.Commands.DataMigrationCommands
+#| msgid "An error occured while upgrading the database: "
+msgid "An error occured while upgrading the database: "
+msgstr "升级资料库时发生错误:"
+
+#: ~/Modules/Orchard.Migrations/Module.txt
+#| msgid "Name"
+msgid "Migrations"
+msgstr "移植"

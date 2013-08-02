@@ -1,0 +1,116 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Name"
+msgid "The Admin"
+msgstr "管理者"
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Author"
+msgid "Jon Wall"
+msgstr "Jon Wall"
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Tags"
+msgid "hidden, admin"
+msgstr "hidden, admin"
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Description"
+msgid "An admin theme not to be used for the site so don't click "Activate" (or "Uninstall"). In the near future admin themes won't be mixed in with site themes."
+msgstr "管理员的主题不被用于网站，以便无法点选“启用“ (或“移除“)。之后管理的主题将不会混在网站的主题中。"
+
+#: ~/Themes/TheAdmin/Theme.txt
+#| msgid "Website"
+msgid "http://www.orchardpro​​ject.net"
+msgstr "http://www.orchardpro​​ject.net"
+
+#: ~/Themes/TheAdmin/Views/Header.cshtml
+#| msgid "Project Orchard"
+msgid "Project Orchard"
+msgstr "Orchard 工程"
+
+#: ~/Themes/TheAdmin/Views/ErrorPage.cshtml
+#| msgid "Oops. Something went wrong ... sorry"
+msgctxt ~/Themes/TheAdmin/Views/ErrorPage.cshtml
+msgid "Oops. Something went wrong ... sorry"
+msgstr "呀！抱歉，发生了什么错误..."
+
+#: ~/Themes/TheAdmin/Views/ErrorPage.cshtml
+#| msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
+msgctxt ~/Themes/TheAdmin/Views/ErrorPage.cshtml
+msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
+msgstr "发生了一个未知的错误，请再次刷新本页，如果错误继续，请返回"
+
+#: ~/Themes/TheAdmin/Views/Header.cshtml
+#| msgid "Your Site"
+msgid "Your Site"
+msgstr "您的网站"
+
+#: ~/Themes/TheAdmin/Views/Layout.cshtml
+#| msgid "Skip to navigation"
+msgid "Skip to navigation"
+msgstr "跳过导引"
+
+#: ~/Themes/TheAdmin/Views/Layout.cshtml
+#| msgid "Skip to navigation"
+msgid "Are you sure you want to remove this element ?"
+msgstr "你确定你要删除吗？"
+
+#: ~/Themes/TheAdmin/Views/OrchardVersion.cshtml
+#| msgid "Orchard v.{0}"
+msgid "Orchard v.{0}"
+msgstr "Orchard v.{0}"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid ">"
+msgid ">"
+msgstr ">"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "<"
+msgid "<"
+msgstr "<"
+
+#: ~/Themes/TheAdmin/Views/User.cshtml
+#| msgid "User:"
+msgid "User:"
+msgstr "用户:"
+
+#: ~/Themes/TheAdmin/Views/User.cshtml
+#| msgid "Logout"
+msgid "Logout"
+msgstr "登出"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "全部"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "Showing items {0} - {1} of {2}"
+msgid "Showing items {0} - {1} of {2}"
+msgstr "显示项 {0} - {1} of {2} "
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid "<<"
+msgid "<<"
+msgstr "<<"
+
+#: ~/Themes/TheAdmin/Views/Pager.cshtml
+#| msgid ">>"
+msgid ">>"
+msgstr ">>"

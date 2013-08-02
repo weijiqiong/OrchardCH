@@ -1,0 +1,41 @@
+# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Markdown/Module.txt
+#| msgid "Name"
+msgctxt ~/Modules/Markdown/Module.txt
+msgid "Markdown"
+msgstr "Markdown"
+
+#: ~/Modules/Markdown/Module.txt
+#| msgid "Author"
+msgctxt ~/Modules/Markdown/Module.txt
+msgid "The Orchard Team"
+msgstr "The Orchard 团队"
+
+#: ~/Modules/Markdown/Module.txt
+#| msgid "Website"
+msgctxt ~/Modules/Markdown/Module.txt
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Markdown/Module.txt
+#| msgid "Description"
+msgctxt ~/Modules/Markdown/Module.txt
+msgid "The Markdown module enables rich text contents to be created using the Markdown syntax."
+msgstr "The Markdown module enables rich text contents to be created using the Markdown syntax."
+
+#: ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
+#| msgid "Insert/Update Media"
+msgctxt ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
+msgid "Insert/Update Media"
+msgstr "插入/更新 媒体"
+
+#: ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
+#| msgid "Preview"
+msgctxt ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
+msgid "Preview"
+msgstr "预览"
+

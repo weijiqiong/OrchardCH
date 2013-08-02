@@ -1,0 +1,90 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Description"
+msgid "The jQuery module contains the jQuery and related script libraries."
+msgstr "jQuery 模块包含jQuery 与其相关的JavaScript 函式库"
+
+#: ~/Modules/Orchard.jQuery/Module.txt
+#| msgid "Name"
+msgid "Orchard.jQuery"
+msgstr "Orchard.jQuery"
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Done"
+msgctxt ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+msgid "Done"
+msgstr "Done"
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Prev"
+msgctxt ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+msgid "Prev"
+msgstr "上一个"
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Next"
+msgctxt ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+msgid "Next"
+msgstr "下一个"
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Today"
+msgctxt ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+msgid "Today"
+msgstr "今天"
+
+#: ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+#| msgid "Wk"
+msgctxt ~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml
+msgid "Wk"
+msgstr "星期"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Choose time"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Choose time"
+msgstr "选择时间"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Time"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Time"
+msgstr "时间"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Hour"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Hour"
+msgstr "时"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Minute"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Minute"
+msgstr "分钟"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Now"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Now"
+msgstr "现在"
+
+#: ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+#| msgid "Done"
+msgctxt ~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml
+msgid "Done"
+msgstr "Done"

@@ -1,0 +1,69 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation 
+# All rights reserved 
+# This file is distributed under the BSD license 
+
+#: ~/Modules/Orchard.Search/Module.txt 
+#| msgid "Author" 
+msgid "The Orchard Team" 
+msgstr "Orchard 团队" 
+
+#: ~/Modules/Orchard.Search/Module.txt 
+#| msgid "Website" 
+msgid "http://orchardpro​​ject.net" 
+msgstr "http://orchardpro​​ject.net" 
+
+#: ~/Modules/Orchard.Search/Module.txt 
+#| msgid "Description" 
+msgid "The search module enables the management of the search index and provides the front-end searching user interface."
+msgstr "查询模块提供管理查询索引以及前端用户查询介面。" 
+
+#: Orchard.Search.Controllers.SearchController 
+#| msgid "Invalid search query: {0}" 
+msgid "Invalid search query: {0}" 
+msgstr "无效的查询: {0}" 
+
+#: ~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml
+ #| msgid "Search" 
+msgid "Search" 
+msgstr "查询" 
+
+#: ~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml
+ #| msgid "There are currently no fields to search from. Please update you index, and check some indexable content exists."
+ msgid "There are currently no fields to search from. Please update you index, and check some indexable content exists."
+msgstr "目前没有任何查询来源。请更新及检查您的索引。" 
+
+#: ~/Modules/Orchard.Search/Views/Parts/Search.SearchForm.cshtml 
+#| msgid "Search" 
+msgid "Search" 
+msgstr "查询" 
+
+#: ~/Modules/Orchard.Search/Views/Search/Index.cshtml 
+#| msgid "Search" 
+msgid "Search" 
+msgstr "查询" 
+
+#: ~/Modules/Orchard.Search/Views/Search/Index.cshtml 
+#| msgid "There is <em>one</em> result" 
+msgid "There is <em>one</em> result" 
+msgstr "<em>没有结果</em>" 
+
+#: ~/Modules/Orchard.Search/Views/Search/Index.cshtml 
+#| msgid "<em>zero</em> results" 
+msgid "<em>zero</em> results" 
+msgstr "<em>0</em> 结果" 
+
+#: ~/Modules/Orchard.Search/Views/Search/Index.cshtml 
+#| msgid "<em>{1} - {2}</em> of <em>{0}</em> results" 
+msgid "<em>{1} - {2}</em> of <em>{0}</em> results" 
+msgstr "<em>{0}</em> 结果中的<em>{1} - {2}</em> 项" 
+
+#: ~/Modules/Orchard.Search/Module.txt 
+#| msgid "Name" 
+msgid "Search" 
+msgstr "查询" 
+
+#: Orchard.Search.Handlers.SearchSettingsPartHandler 
+#| msgid "Search" 
+msgid "Search" 
+msgstr "查询" 

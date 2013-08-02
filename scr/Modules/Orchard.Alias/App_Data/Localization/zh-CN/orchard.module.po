@@ -1,0 +1,245 @@
+﻿#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Name"
+msgid "Alias"
+msgstr "别名"
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "The Orchard Team"
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Description"
+msgid "Description for the module"
+msgstr "模块的描述"
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Orchard.Alias.UI.Name"
+msgid "Alias UI"
+msgstr "别名UI"
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Orchard.Alias.UI.Description"
+msgid "Admin user interace for Orchard.Alias."
+msgstr "对Orchard.Alias的用户管理界面."
+
+#: ~/Modules/Orchard.Alias/Module.txt
+#| msgid "Orchard.Alias.UI.Category"
+msgid "Content"
+msgstr "内容"
+
+#: Orchard.Alias.AdminMenu
+#| msgid "Aliases"
+msgid "Aliases"
+msgstr "别名"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Not authorized to manage aliases"
+msgid "Not authorized to manage aliases"
+msgstr "未授权的别名管理"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Path can't be empty"
+msgid "Path can't be empty"
+msgstr "路径不能为空"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Route can't be empty"
+msgid "Route can't be empty"
+msgstr "路由不能为空"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "An error occured while creating the alias. Please check the values are correct."
+msgid "An error occured while creating the alias. Please check the values are correct."
+msgstr "创建别名发生错误。请检查值是否正确的。"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Alias {0} created"
+msgid "Alias {0} created"
+msgstr "别名{0}已创建"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Alias {0} updated"
+msgid "Alias {0} updated"
+msgstr "别名{0}已更新"
+
+#: Orchard.Alias.Controllers.AdminController
+#| msgid "Alias {0} deleted"
+msgid "Alias {0} deleted"
+msgstr "别名{0}已删除"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "Create Alias"
+msgid "Create Alias"
+msgstr "创建别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "Alias Path"
+msgid "Alias Path"
+msgstr "别名路径"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "The path of the alias e.g., my-blog/my-post"
+msgid "The path of the alias e.g., my-blog/my-post"
+msgstr "别名的路径 例如：my-blog/my-post"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "Route Path"
+msgid "Route Path"
+msgstr "路由路径"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgstr "当页面被请求是被调用Orchard的实际路由。例如：Blogs/Blog/Item?blogId=18"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Add.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml
+#| msgid "Delete Alias"
+msgid "Delete Alias"
+msgstr "删除别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml
+#| msgid "Delete alias"
+msgid "Delete alias"
+msgstr "删除别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml
+#| msgid "Removing alias '{0}'. Are you sure?"
+msgid "Removing alias '{0}'. Are you sure?"
+msgstr "移除别名'{0}'. 你确认么?"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml
+#| msgid "Yes"
+msgid "Yes"
+msgstr "是"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Edit Alias"
+msgid "Edit Alias"
+msgstr "编辑别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Edit alias"
+msgid "Edit alias"
+msgstr "编辑别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Alias Path"
+msgid "Alias Path"
+msgstr "别名路径"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "The path of the alias e.g., my-blog/my-post"
+msgid "The path of the alias e.g., my-blog/my-post"
+msgstr "别名的路径，例如：my-blog/my-post"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Route Path"
+msgid "Route Path"
+msgstr "路由路径"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgstr "当页面被请求是被调用Orchard的实际路由。例如：Blogs/Blog/Item?blogId=18"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Manage Aliases"
+msgid "Manage Aliases"
+msgstr "别名管理"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Add new Alias"
+msgid "Add new Alias"
+msgstr "添加新的别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgid "Sort by:"
+msgstr "排序:"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Path"
+msgid "Path"
+msgstr "路径"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "All"
+msgid "All"
+msgstr "所有"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Alias"
+msgid "Alias"
+msgstr "别名"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Route"
+msgid "Route"
+msgstr "路由"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Alias/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+

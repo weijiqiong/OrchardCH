@@ -1,0 +1,119 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Description"
+msgid "Tools to create Orchard components."
+msgstr "建立 Orchard 元件的工具。"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Data Migration for {0}"
+msgid "Creating Data Migration for {0}"
+msgstr "建立资料迁移 {0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating data migration failed: target Feature {0} could not be found."
+msgid "Creating data migration failed: target Feature {0} could not be found."
+msgstr "建立资料迁移失败: 找不到目标特征{0}。"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Data migration already exists in target Module {0}."
+msgid "Data migration already exists in target Module {0}."
+msgstr "资料移往已存在的模块 {0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Data migration created successfully in M​​odule {0}"
+msgid "Data migration created successfully in M​​odule {0}"
+msgstr "资料移往新建立的模块 {0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Module {0}"
+msgid "Creating Module {0}"
+msgstr "建立模块 {0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Module {0} failed: a module of the same name already exists"
+msgid "Creating Module {0} failed: a module of the same name already exists"
+msgstr "模块{0} 建立失败: 已有相同名称的模块"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Module {0} created successfully"
+msgid "Module {0} created successfully"
+msgstr "模块 {0} 建立成功"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0}"
+msgid "Creating Theme {0}"
+msgstr "建立主题 {0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0} failed: an extention of the same name already exists"
+msgid "Creating Theme {0} failed: an extention of the same name already exists"
+msgstr "主题{0} 建立失败: 已有相同延伸档名"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Theme {0} failed: base theme named {1} was not found."
+msgid "Creating Theme {0} failed: base theme named {1} was not found."
+msgstr "建立主题{0} 失败: 基本主题名称{1} 未被发现。"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Theme {0} created successfully"
+msgid "Theme {0} created successfully"
+msgstr "主题 {0} 建立成功"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Controller {0} in M​​odule {1}"
+msgid "Creating Controller {0} in M​​odule {1}"
+msgstr "建立控制器 {0} 在模块 {1} 中"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Creating Controller {0} failed: target Module {1} could not be found."
+msgid "Creating Controller {0} failed: target Module {1} could not be found."
+msgstr "控制器{0} 建立失败: 找不到目标模块{1}。"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Controller {0} already exists in target Module {1}."
+msgid "Controller {0} already exists in target Module {1}."
+msgstr "控制器{0} 已经存在于目标模块{1}。"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Controller {0} created successfully in M​​odule {1}"
+msgid "Controller {0} created successfully in M​​odule {1}"
+msgstr "在模块{1} 中成功建立控制器{0}"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Solution file could not be found at {0}"
+msgid "Warning: Solution file could not be found at {0}"
+msgstr "警告: 无法在 {0} 发现专案档"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Orchard.Themes project file could not be found at {0}"
+msgid "Warning: Orchard.Themes project file could not be found at {0}"
+msgstr "警告: Orchard.Themes 无法在{0} 发现专案档"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "Warning: Unable to modify Orchard.Themes project file at {0}"
+msgid "Warning: Unable to modify Orchard.Themes project file at {0}"
+msgstr "警告: 无法修改位于{0} 的Orchard.Themes 专案档"
+
+#: Orchard.CodeGeneration.Commands.CodeGenerationCommands
+#| msgid "An unexpected error occured while trying to refresh the Visual Studio solution. Please reload it."
+msgid "An unexpected error occured while trying to refresh the Visual Studio solution. Please reload it."
+msgstr "在尝试重新整理Visual Studio 方案时发生错误。请重新载入它。"
+
+#: ~/Modules/Orchard.CodeGeneration/Module.txt
+#| msgid "Name"
+msgid "Code Generation"
+msgstr "代码产生器"

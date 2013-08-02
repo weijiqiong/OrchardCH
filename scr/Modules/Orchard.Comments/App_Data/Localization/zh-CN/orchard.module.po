@@ -1,0 +1,598 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Description"
+msgid "The comments system implemented by this module can be applied to arbitrary Orchard content types, such as blogs and pages. It includes comment validation and spam protection through the Akismet service."
+msgstr "评论系统模块可应用于任意的Orchard 内容类型，例如博客和网页。此模块包含批准以及垃圾评论防护功能。"
+
+#: Orchard.Comments.AdminMenu
+#| msgid "Comments"
+msgid "Comments"
+msgstr "评论"
+
+#: Orchard.Comments.AdminMenu
+#| msgid "List"
+msgid "List"
+msgstr "列出"
+
+#: Orchard.Comments.Shapes
+#| msgid "({0} pending)"
+msgid "({0} pending)"
+msgstr "({0} 待管理)"
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "You must provide a {0} in order to comment."
+msgid "You must provide a {0} in order to comment."
+msgstr "您必须提供一个{0} 以发表评论。"
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "You must provide a Comment."
+msgid "You must provide a Comment."
+msgstr "您必须提供评论。"
+
+#: Orchard.Comments.Annotations.RequiredAttribute
+#| msgid "The {0} is not valid."
+msgid "The {0} is not valid."
+msgstr "{0} 不是有效的。"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't moderate comment"
+msgid "Couldn't moderate comment"
+msgstr "无法关闭评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't delete comment"
+msgid "Couldn't delete comment"
+msgstr "无法删除评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't disable comments"
+msgid "Couldn't disable comments"
+msgstr "无法禁用评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't enable comments"
+msgid "Couldn't enable comments"
+msgstr "无法启用评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't edit comment"
+msgid "Couldn't edit comment"
+msgstr "无法编辑评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't approve comment"
+msgid "Couldn't approve comment"
+msgstr "无法批准评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't unapprove comment"
+msgid "Couldn't unapprove comment"
+msgstr "无法取消批准评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Couldn't mark comment as spam"
+msgid "Couldn't mark comment as spam"
+msgstr "无法标记为垃圾评论"
+
+#: Orchard.Comments.Controllers.CommentController
+#| msgid "Couldn't add comment"
+msgid "Couldn't add comment"
+msgstr "无法新增评论"
+
+#: Orchard.Comments.Controllers.CommentController
+#| msgid "Your comment will appear after the site administrator approves it."
+msgid "Your comment will appear after the site administrator approves it."
+msgstr "您的评论等管理者批准后才会显示在网站上。"
+
+#: Orchard.Comments.Feeds.CommentFeedItemBuilder
+#| msgid "Comment on {0} by {1}"
+msgid "Comment on {0} by {1}"
+msgstr "由 {1} 评论 {0}"
+
+#: Orchard.Comments.Services.AkismetCommentValidator
+#| msgid "Please configure your Akismet key for spam protection"
+msgid "Please configure your Akismet key for spam protection"
+msgstr "使用垃圾评论防护时请设定您的Akismet key"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.SummaryAdmin.cshtml
+#| msgid " | "
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Comments have been disabled for this content."
+msgid "Comments have been disabled for this content."
+msgstr "此主题已被禁用评论。"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Add a Comment"
+msgid "Add a Comment"
+msgstr "新增评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "log on"
+msgid "log on"
+msgstr "登录"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr "Email"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Url"
+msgid "Url"
+msgstr "Url"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Hi, {0}!"
+msgid "Hi, {0}!"
+msgstr "Hi, {0}!"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "Submit Comment"
+msgid "Submit Comment"
+msgstr "送出评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Comments for {0}"
+msgid "Comments for {0}"
+msgstr "给 {0} 评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Enable Comments"
+msgid "Enable Comments"
+msgstr "启用评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Disable Comments"
+msgid "Disable Comments"
+msgstr "禁用评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approve"
+msgid "Approve"
+msgstr "批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Unapprove"
+msgid "Unapprove"
+msgstr "取消批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Mark as Spam"
+msgid "Mark as Spam"
+msgstr "标记为垃圾评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr "滤除:"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "All Comments"
+msgid "All Comments"
+msgstr "所有评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approved Comments"
+msgid "Approved Comments"
+msgstr "已批准的评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Pending Comments"
+msgid "Pending Comments"
+msgstr "待管理的评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Spam"
+msgid "Spam"
+msgstr "垃圾评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "This is a table of the comments for the content item"
+msgid "This is a table of the comments for the content item"
+msgstr "这张表格是用来记录评论用的"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Status"
+msgid "Status"
+msgstr "状态"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Author"
+msgid "Author"
+msgstr "作者"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Date"
+msgid "Date"
+msgstr "日期"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr "待管理"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr "已批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid " ..."
+msgid " ..."
+msgstr "..."
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Edit Comment"
+msgid "Edit Comment"
+msgstr "编辑评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Edit Comment"
+msgid "Edit Comment"
+msgstr "编辑评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Email"
+msgid "Email"
+msgstr "Email"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Url"
+msgid "Url"
+msgstr "Url"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Body"
+msgid "Body"
+msgstr "内容"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr "待管理"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr "批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Mark as spam"
+msgid "Mark as spam"
+msgstr "标记为垃圾评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approve"
+msgid "Approve"
+msgstr "批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Unapprove"
+msgid "Unapprove"
+msgstr "取消批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Mark as Spam"
+msgid "Mark as Spam"
+msgstr "标记为垃圾评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Filter:"
+msgid "Filter:"
+msgstr "滤除:"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "All Comments"
+msgid "All Comments"
+msgstr "所有评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approved Comments"
+msgid "Approved Comments"
+msgstr "已批准的评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Pending Comments"
+msgid "Pending Comments"
+msgstr "待管理的评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Spam"
+msgid "Spam"
+msgstr "垃圾评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "This is a table of the comments in your application"
+msgid "This is a table of the comments in your application"
+msgstr "这张表格是评论功能使用的"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Status"
+msgid "Status"
+msgstr "状态"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Author"
+msgid "Author"
+msgstr "作者"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Comment"
+msgid "Comment"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Commented On"
+msgid "Commented On"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Actions"
+msgid "Actions"
+msgstr "操作"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Pending"
+msgid "Pending"
+msgstr "待管理"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Approved"
+msgid "Approved"
+msgstr "已批准"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "[Empty]"
+msgid "[Empty]"
+msgstr "[Empty]"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid " | "
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Allow new comments"
+msgid "Allow new comments"
+msgstr "允许新增评论"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.Comments.cshtml
+#| msgid "Enable to show the comment form. Disabling still allows the existing comments to be shown but does not allow the conversation to continue."
+msgid "Enable to show the comment form. Disabling still allows the existing comments to be shown but does not allow the conversation to continue."
+msgstr "启用显示评论。禁用仍允许现有的评论显示，但不允许继续讨论下去。"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Comments must be approved before they appear"
+msgid "Comments must be approved before they appear"
+msgstr "批准后才显示评论"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Enable spam protection"
+msgid "Enable spam protection"
+msgstr "启用垃圾评论防护"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Akismet key"
+msgid "Akismet key"
+msgstr "Akismet key"
+
+#: ~/Modules/Orchard.Comments/Views/EditorTemplates/Parts.Comments.SiteSettings.cshtml
+#| msgid "Blog URL"
+msgid "Blog URL"
+msgstr "博客网址"
+
+#: Orchard.Comments.Shapes
+#| msgid "1 comment"
+msgid "1 comment"
+msgstr "1 则评论"
+
+#: Orchard.Comments.Shapes
+#| msgid "{0} comments"
+msgid "{0} comments"
+msgstr "{0} 评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.cshtml
+#| msgid "1 Comment"
+msgid "1 Comment"
+msgstr "1 则评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.Count.cshtml
+#| msgid "{0} Comments"
+msgid "{0} Comments"
+msgstr "{0} 评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "1 Comment"
+msgid "1 Comment"
+msgstr "1 则评论"
+
+#: ~/Modules/Orchard.Comments/Views/Parts.Comments.cshtml
+#| msgid "{0} Comments"
+msgid "{0} Comments"
+msgstr "{0} 评论"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Listing comments failed: {0}"
+msgid "Listing comments failed: {0}"
+msgstr "列举评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Editing comments failed: {0}"
+msgid "Editing comments failed: {0}"
+msgstr "编辑评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Disabling Comments failed: {0}"
+msgid "Disabling Comments failed: {0}"
+msgstr "禁用评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Enabling Comments failed: {0}"
+msgid "Enabling Comments failed: {0}"
+msgstr "启用评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Editing comment failed: {0}"
+msgid "Editing comment failed: {0}"
+msgstr "编辑评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Approving comment failed: {0}"
+msgid "Approving comment failed: {0}"
+msgstr "批准评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Unapproving comment failed: {0}"
+msgid "Unapproving comment failed: {0}"
+msgstr "取消批准评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Marking comment as spam failed: {0}"
+msgid "Marking comment as spam failed: {0}"
+msgstr "标记垃圾评论失败: {0}"
+
+#: Orchard.Comments.Controllers.AdminController
+#| msgid "Deleting comment failed: {0}"
+msgid "Deleting comment failed: {0}"
+msgstr "删除评论失败: {0}"
+
+#: Orchard.Comments.Handlers.CommentSettingsPartHandler
+#| msgid "Comments"
+msgid "Comments"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Details.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Comments"
+msgid "Comments"
+msgstr "评论"
+
+#: ~/Modules/Orchard.Comments/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Comments/Module.txt
+#| msgid "Name"
+msgid "Comments"
+msgstr "评论"
+
+#: Orchard.Comments.Projections.CommentsFilter
+#| msgid "Has Comments"
+msgctxt Orchard.Comments.Projections.CommentsFilter
+msgid "Has Comments"
+msgstr "已经评论"
+
+#: Orchard.Comments.Projections.CommentsFilter
+#| msgid "Commented content items"
+msgctxt Orchard.Comments.Projections.CommentsFilter
+msgid "Commented content items"
+msgstr "评论内容项目"
+
+#: Orchard.Comments.Projections.CommentsFilter
+#| msgid "Has comments"
+msgctxt Orchard.Comments.Projections.CommentsFilter
+msgid "Has comments"
+msgstr "已经评论"
+
+#: Orchard.Comments.Rules.CommentsActions
+#| msgid "Close comments"
+msgctxt Orchard.Comments.Rules.CommentsActions
+msgid "Close comments"
+msgstr "关闭评论"

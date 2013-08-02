@@ -1,0 +1,74 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation 
+# All rights reserved 
+# This file is distributed under the BSD license 
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt 
+#| msgid "Author" 
+msgid "The Orchard Team" 
+msgstr "Orchard 团队" 
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt 
+#| msgid "Website" 
+msgid "http://orchardpro​​ject.net" 
+msgstr "http://orchardpro​​ject.net" 
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt 
+#| msgid "Description" 
+msgid "The ArchiveLater module introduces scheduled archiving functionality." 
+msgstr "ArchiveLater 可以安排存档功能。" 
+
+#: Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver 
+#| msgid "{0} is an invalid date and time" 
+msgid "{0} is an invalid date and time" 
+msgstr "{0} 是无效的时间" 
+
+#: Orchard.ArchiveLater.Services.ArchiveLaterService 
+#| msgid "Couldn't archive selected content." 
+msgid "Couldn't archive selected content." 
+msgstr "无法保存所选的内容。" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+ #| msgid "Archive Settings" 
+msgid "Archive Settings" 
+msgstr "存档设定" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+ #| msgid "Archive Later" 
+msgid "Archive Later" 
+msgstr "Archive Later " 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+ #| msgid "Date" 
+msgid "Date" 
+msgstr "日期" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml
+ #| msgid "Time" 
+msgid "Time" 
+msgstr "时间" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+ #| msgid "Scheduled" 
+msgid "Scheduled" 
+msgstr "预定" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+ #| msgid "The page is scheduled for archiving" 
+msgid "The page is scheduled for archiving" 
+msgstr "该网页已预定被保存" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+ #| msgid "Unpublish on" 
+msgid "Unpublish on" 
+msgstr "取消发布于" 
+
+#: ~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml
+ #| msgid "M/d/yyyy h:mm tt" 
+msgid "M/d/yyyy h:mm tt" 
+msgstr "yyyy/M/d h:mm tt" 
+
+#: ~/Modules/Orchard.ArchiveLater/Module.txt 
+#| msgid "Name" 
+msgid "ArchiveLater" 
+msgstr "ArchiveLater" 

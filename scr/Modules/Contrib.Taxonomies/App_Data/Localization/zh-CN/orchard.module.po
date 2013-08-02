@@ -1,0 +1,429 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation 
+# All rights reserved 
+# This file is distributed under the BSD license 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Name" 
+msgid "Taxonomies" 
+msgstr "分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Author" 
+msgid "SÃ©bastien Ros" 
+msgstr "SÃ©bastien Ros" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Website" 
+msgid "http://orchardtaxonomies.codeplex.com" 
+msgstr "http://orchardtaxonomies.codeplex.com" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Description" 
+msgid "The taxonomy module is providing custom categorization of arbitrary content types."
+msgstr "分类模块提供客制化的分类功能，可以随心所欲的分类内容类型。" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Contrib.Taxonomies.Name" 
+msgid "Taxonomies" 
+msgstr "分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Contrib.Taxonomies.Description" 
+msgid "Categorize a content item." 
+msgstr "分类内容项目。" 
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt 
+#| msgid "Contrib.Taxonomies.Category" 
+msgid "Content" 
+msgstr "内容" 
+
+#: Contrib.Taxonomies.AdminMenu 
+#| msgid "Taxonomies" 
+msgid "Taxonomies" 
+msgstr "分类" 
+
+#: Contrib.Taxonomies.AdminMenu 
+#| msgid "Manage Taxonomies" 
+msgid "Manage Taxonomies" 
+msgstr "管理分类" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "Couldn't delete taxonomy" 
+msgid "Couldn't delete taxonomy" 
+msgstr "无法删除分类" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "Couldn't create taxonomy" 
+msgid "Couldn't create taxonomy" 
+msgstr "无法建立分类" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "A taxonomy with the same name already exists" 
+msgid "A taxonomy with the same name already exists" 
+msgstr "已有相同名称的分类存在" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "Couldn't edit taxonomy" 
+msgid "Couldn't edit taxonomy" 
+msgstr "无法编辑分类" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "Couldn't import terms" 
+msgid "Couldn't import terms" 
+msgstr "无法导入条件" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "A term with the same name already exist in this taxonomy: {0}" 
+msgid "A term with the same name already exist in this taxonomy: {0}" 
+msgstr "已有相同名称的分类: {0}" 
+
+#: Contrib.Taxonomies.Controllers.AdminController 
+#| msgid "The terms have been imported successfully." 
+msgid "The terms have been imported successfully." 
+msgstr "条件已导入成功。" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Couldn't delete term" 
+msgid "Couldn't delete term" 
+msgstr "无法删除项目" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "{0} term have been removed." 
+msgid "{0} term have been removed." 
+msgstr "条件 {0} 已被移除。" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Not allowed to create terms" 
+msgid "Not allowed to create terms" 
+msgstr "不允许建立条件" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Not allowed to select terms" 
+msgid "Not allowed to select terms" 
+msgstr "不允许选择条件" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Couldn't create term" 
+msgid "Couldn't create term" 
+msgstr "无法建立项目" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "The {0} term has been created." 
+msgid "The {0} term has been created." 
+msgstr "项目 {0} 已被建立。" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Not allowed to manage taxonomies" 
+msgid "Not allowed to manage taxonomies" 
+msgstr "不允许管理分类" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Couldn't edit taxonomy" 
+msgid "Couldn't edit taxonomy" 
+msgstr "无法编辑分类" 
+
+#: Contrib.Taxonomies.Controllers.TermAdminController 
+#| msgid "Term information updated" 
+msgid "Term information updated" 
+msgstr "项目资讯已被更新" 
+
+#: Contrib.Taxonomies.Drivers.TermPartDriver 
+#| msgid "The term {0} already exists in this taxonomy" 
+msgid "The term {0} already exists in this taxonomy" 
+msgstr "项目 {0} 已存在于分类中" 
+
+#: Contrib.Taxonomies.Services.TaxonomyService 
+#| msgid "The term {0} already exists in this taxonomy" 
+msgid "The term {0} already exists in this taxonomy" 
+msgstr "项目 {0} 已存在于分类中" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Parts.Taxonomies.TermContentItems.List.cshtml
+ #| msgid "There is no content associated to this term." 
+msgid "There is no content associated to this term." 
+msgstr "没有内容关联到这个词。" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Create.cshtml 
+#| msgid "Create New Taxonomy" 
+msgid "Create New Taxonomy" 
+msgstr "建立新分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Edit.cshtml 
+#| msgid "Taxonomy Properties" 
+msgid "Taxonomy Properties" 
+msgstr "分类属性" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Import Terms for {0}" 
+msgid "Import Terms for {0}" 
+msgstr "{0} 的导入条件" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "One term per line, followed by a semi-colon and the slug" 
+msgid "One term per line, followed by a semi-colon and the slug" 
+msgstr "每一行后跟一个分号和 Slug" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Hierarchies are defined using tabs (handled in this editor zone)" 
+msgid "Hierarchies are defined using tabs (handled in this editor zone)" 
+msgstr "层次结构的定义使用标签" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "e.g," 
+msgid "e.g," 
+msgstr "例如" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Red; red" 
+msgid "Red; red" 
+msgstr "Red; red" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Blue; blue" 
+msgid "Blue; blue" 
+msgstr "Blue; blue" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Light Blue; light-blue" 
+msgid "Light Blue; light-blue" 
+msgstr "Light Blue; light-blue" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml 
+#| msgid "Import" 
+msgid "Import" 
+msgstr "导入" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Manage Taxonomies" 
+msgid "Manage Taxonomies" 
+msgstr "管理分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Actions:" 
+msgid "Actions:" 
+msgstr "操作:" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Choose action..." 
+msgid "Choose action..." 
+msgstr "选择操作..." 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Remove" 
+msgid "Remove" 
+msgstr "移除" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Apply" 
+msgid "Apply" 
+msgstr "应用" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Add a taxonomy" 
+msgid "Add a taxonomy" 
+msgstr "新增分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "This is a table of the taxonomies in your application" 
+msgid "This is a table of the taxonomies in your application" 
+msgstr "在您的应用中这个表格是给分类功能使用的" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Name" 
+msgid "Name" 
+msgstr "名称" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Properties" 
+msgid "Properties" 
+msgstr "属性" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Vocabulary" 
+msgid "Vocabulary" 
+msgstr "词汇" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Delete" 
+msgid "Delete" 
+msgstr "删除" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml 
+#| msgid "Import" 
+msgid "Import" 
+msgstr "导入" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+ #| msgid "Select a taxonomy" 
+msgid "Select a taxonomy" 
+msgstr "选择分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+ #| msgid "Choose a taxonomy ..." 
+msgid "Choose a taxonomy ..." 
+msgstr "选择分类 ..." 
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+ #| msgid "Restrict selectable elements to leaves only" 
+msgid "Restrict selectable elements to leaves only" 
+msgstr "限制选择的元素只保留" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+ #| msgid "Allow only one term to be selected" 
+msgid "Allow only one term to be selected" 
+msgstr "只允许单选" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+ #| msgid "Show on main menu" 
+msgid "Show on main menu" 
+msgstr "显示在主选单" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+ #| msgid "Menu text" 
+msgid "Menu text" 
+msgstr "选单文字" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+ #| msgid "Position" 
+msgid "Position" 
+msgstr "位置" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+ #| msgid "Selectable" 
+msgid "Selectable" 
+msgstr "可选的" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+ #| msgid "Uncheck if users should not be able to select this term" 
+msgid "Uncheck if users should not be able to select this term" 
+msgstr "取消勾选，如果用户不被允许选择这个词" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+ #| msgid "If specified, will be used to sort terms at the same level" 
+msgid "If specified, will be used to sort terms at the same level" 
+msgstr "如果指定，将使用在同一层级中的排序条件" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml
+ #| msgid "For Taxonomy" 
+msgid "For Taxonomy" 
+msgstr "用于分类" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml
+ #| msgid "Show the terms for which taxonomy? " 
+msgid "Show the terms for which taxonomy? " 
+msgstr "显示该分类条件?" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Content-Term.Edit.cshtml 
+#| msgid "Save" 
+msgid "Save" 
+msgstr "保存" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Taxonomies.Term.cshtml 
+#| msgid "Save" 
+msgid "Save" 
+msgstr "保存" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Taxonomy.List.cshtml 
+#| msgid "Contents associated with {0}" 
+msgid "Contents associated with {0}" 
+msgstr "内容与 {0}" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Create.cshtml 
+#| msgid "Create New Term" 
+msgid "Create New Term" 
+msgstr "建立新条件" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Edit.cshtml 
+#| msgid "Term properties" 
+msgid "Term properties" 
+msgstr "条件属性" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Manage vocabulary for {0}" 
+msgid "Manage vocabulary for {0}" 
+msgstr "管理 {0} 的词汇" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Actions:" 
+msgid "Actions:" 
+msgstr "操作:" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Choose action..." 
+msgid "Choose action..." 
+msgstr "选择操作..." 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Remove" 
+msgid "Remove" 
+msgstr "移除" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Apply" 
+msgid "Apply" 
+msgstr "应用" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Add a term" 
+msgid "Add a term" 
+msgstr "新增条件" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "This is a table of the terms in your application" 
+msgid "This is a table of the terms in your application" 
+msgstr "在您的应用中这张表格用于条件功能" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Name" 
+msgid "Name" 
+msgstr "名称" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Properties" 
+msgid "Properties" 
+msgstr "属性" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml 
+#| msgid "Move" 
+msgid "Move" 
+msgstr "移动" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml 
+#| msgid "Parent term" 
+msgid "Parent term" 
+msgstr "父项目" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml 
+#| msgid "- None -" 
+msgid "- None -" 
+msgstr "- None -" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml 
+#| msgid "By selecting a parent term you can create hierarchies" 
+msgid "By selecting a parent term you can create hierarchies" 
+msgstr "透过选择父项可以创建层次结构" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml 
+#| msgid "Select" 
+msgid "Select" 
+msgstr "选择" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml 
+#| msgid "Parent term" 
+msgid "Parent term" 
+msgstr "父项目" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml 
+#| msgid "- None -" 
+msgid "- None -" 
+msgstr "- None -" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml 
+#| msgid "By selecting a parent term you can create hierarchies" 
+msgid "By selecting a parent term you can create hierarchies" 
+msgstr "透过选择父项可以创建层次结构" 
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml 
+#| msgid "Select" 
+msgid "Select" 
+msgstr "选择" 
