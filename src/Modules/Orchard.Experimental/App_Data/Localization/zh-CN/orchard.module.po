@@ -1,0 +1,284 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Description"
+msgid "An assortment of debugging tools."
+msgstr "各式各样的侦错工具。"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Name"
+msgid "Profiling"
+msgstr "设定文件"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Description"
+msgid "Tools to help profile Orchard."
+msgstr "帮助设定 Orchard 的工具。"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Category"
+msgid "Developer"
+msgstr "开发者"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Name"
+msgid "Web Command Line"
+msgstr "网站指令列"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Description"
+msgid "Enables site administrators to execute Orchard.exe commands via web interface"
+msgstr "启用网站管理者执行Orchard.exe 指令权限"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Category"
+msgid "Developer"
+msgstr "开发者"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Name"
+msgid "Testing Lists"
+msgstr "测试名单"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Description"
+msgid "Adds some content definitions to help test lists"
+msgstr "增加一些主题定义用来帮助测试"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Category"
+msgid "Developer"
+msgstr "开发者"
+
+#: Orchard.Experimental.AdminMenu
+#| msgid "Experimental"
+msgid "Experimental"
+msgstr "实验"
+
+#: Orchard.Experimental.Commands.ProfilingCommands
+#| msgid "The authentication provider returned an error"
+msgid "The authentication provider returned an error"
+msgstr "验证工具返回一个错误"
+
+#: Orchard.Experimental.Controllers.CommandsController
+#| msgid "Error executing command: {0}"
+msgid "Error executing command: {0}"
+msgstr "指令执行错误: {0}"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Simulated error goes here."
+msgid "Simulated error goes here."
+msgstr "模拟器错误时前往这里。"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Notifier works without BaseViewModel"
+msgid "Notifier works without BaseViewModel"
+msgstr "通知程式不要运作在BaseViewModel 上"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Site Name"
+msgid "Site Name"
+msgstr "网站名称"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "some default/pre-pop value..."
+msgid "some default/pre-pop value..."
+msgstr "一些预设值..."
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Admin Username"
+msgid "Admin Username"
+msgstr "管理者帐号"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Admin Password"
+msgid "Admin Password"
+msgstr "管理者密码"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Finish Setup"
+msgid "Finish Setup"
+msgstr "完成安装"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "This is a test"
+msgid "This is a test"
+msgstr "这是测试"
+
+#: ~/Modules/Orchard.Experimental/Views/Commands/Execute.cshtml
+#| msgid "Command line"
+msgid "Command line"
+msgstr "指令列"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "{0} Content Type"
+msgid "{0} Content Type"
+msgstr "{0} 主题分类"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content"
+msgid "Content"
+msgstr "主题"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content Item"
+msgid "Content Item"
+msgstr "主题项目"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Id:"
+msgid "Id:"
+msgstr "ID:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Version:"
+msgid "Version:"
+msgstr "版本:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "ContentType:"
+msgid "ContentType:"
+msgstr "主题分类:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "DisplayText:"
+msgid "DisplayText:"
+msgstr "显示文字:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Links:"
+msgid "Links:"
+msgstr "链接:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "view"
+msgid "view"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "edit"
+msgid "edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content Item Parts"
+msgid "Content Item Parts"
+msgstr "主题项目元件"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "{0} #{1} v{2}"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content"
+msgid "Content"
+msgstr "主题"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content Types"
+msgid "Content Types"
+msgstr "主题分类"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content Items"
+msgid "Content Items"
+msgstr "主题项目"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "{0}: {1}"
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "view"
+msgid "view"
+msgstr "预览"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "edit"
+msgid "edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Experimental/Views/DefinitionTemplates/ExperimentalSettings.cshtml
+#| msgid "Show debug links"
+msgid "Show debug links"
+msgstr "显示除错链接"
+
+#: ~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml
+#| msgid "{0} #{1} v{2}"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Experimental"
+msgid "Experimental"
+msgstr "实验"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Contents"
+msgid "Contents"
+msgstr "主题"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Metadata"
+msgid "Metadata"
+msgstr "Metadata"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Test Unauthorized Request"
+msgid "Test Unauthorized Request"
+msgstr "测试未授权访问"
+
+#: ~/Modules/Orchard.Experimental/Views/Metadata/Index.cshtml
+#| msgid "Merge Changes"
+msgid "Merge Changes"
+msgstr "合并变更"
+
+#: ~/Modules/Orchard.Experimental/Views/Parts/Experimental.ShowDebugLink.cshtml
+#| msgid "{0} #{1} v{2}"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Name"
+msgid "Experimental"
+msgstr "实验"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Name"
+msgid "Lock Logging"
+msgstr "封锁登录"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Description"
+msgid "Logs extra diagnostic information for Sql CE if a deadlock timeout occurs"
+msgstr "当SQL CE 发生死结且超时记录日志额外的诊断信息"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Category"
+msgid "Developer"
+msgstr "开发者"
+
+#: Orchard.Experimental.AdminMenu
+#| msgid "Debug"
+msgid "Debug"
+msgstr "除错"
+
+#: Orchard.Experimental.Controllers.CommandsController
+#| msgid "Not authorized to use the web console"
+msgid "Not authorized to use the web console"
+msgstr "无权使用网站控制台"

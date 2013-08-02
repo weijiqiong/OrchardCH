@@ -1,0 +1,204 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Name"
+msgid "Warmup"
+msgstr "预热"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Warmup/Module.txt
+#| msgid "Description"
+msgid "Provides a mecanism to generate a static version of pages for being used during application warm up."
+msgstr "提供在产生静态页面的过程中使用预热机制。"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Settings"
+msgid "Settings"
+msgstr "设定"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr "预热"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Not authorized to manage settings"
+msgid "Not authorized to manage settings"
+msgstr "未被授权管理设定"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "{0} is an invalid warmup url."
+msgid "{0} is an invalid warmup url."
+msgstr "{0} 是无效的预热网址。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Delay must be greater than zero."
+msgid "Delay must be greater than zero."
+msgstr "延迟时间必须大于零。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Warmup updated successfully."
+msgid "Warmup updated successfully."
+msgstr "预热更新成功。"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "Static pages are currently being generated."
+msgid "Static pages are currently being generated."
+msgstr "静态页面目前正在产生。"
+
+#: Orchard.Warmup.Services.SettingsBanner:
+#| msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr "需要预热功能的<a href=\"{0}\">基础网址站点设定</a> 进行设定。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Settings"
+msgid "Settings"
+msgstr "设定"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr "预热"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Urls for which static warmup pages will be generated"
+msgid "Urls for which static warmup pages will be generated"
+msgstr "Url 当中的静态页面均会被预热"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, eg, /, /About"
+msgid "This must be a set of relative paths, eg, /, /About"
+msgstr "必须是相对路径，如: /, /About"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages periodically"
+msgid "Generate warmup pages periodically"
+msgstr "定期产生预热页"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Every"
+msgid "Every"
+msgstr "每个"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "minutes"
+msgid "minutes"
+msgstr "分钟"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgid "Generate warmup pages each time some content is published"
+msgstr "每个已发布的内容都产生预热页"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Save and generate"
+msgid "Save and generate"
+msgstr "保存并产生"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Warmup"
+msgid "Warmup"
+msgstr "缓存"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Urls for which static warm up pages will be generated"
+msgid "Urls for which static warm up pages will be generated"
+msgstr "Url 当中的静态页面均会预热"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "This must be a set of virtual paths, eg, ~/, ~/About"
+msgid "This must be a set of virtual paths, eg, ~/, ~/About"
+msgstr "必须是完整的虚拟路径，如: ~/, ~/About"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages periodically"
+msgid "Generate warmup pages periodically"
+msgstr "定期产生缓存页"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Delay to generate pages"
+msgid "Delay to generate pages"
+msgstr "延迟产生页面"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "minutes"
+msgid "minutes"
+msgstr "分钟"
+
+#: ~/Modules/Orchard.Warmup/Views/EditorTemplates/Parts.Warmup.SiteSettings.cshtml
+#| msgid "Generate warmup pages each time some content is published"
+msgid "Generate warmup pages each time some content is published"
+msgstr "每次有主题被发布时产生缓存页"
+
+#: Orchard.Warmup.AdminMenu
+#| msgid "Performance"
+msgid "Performance"
+msgstr "性能"
+
+#: Orchard.Warmup.Controllers.AdminController
+#| msgid "\"{0}\" is an invalid warmup url."
+msgid "\"{0}\" is an invalid warmup url."
+msgstr "\"{0}\" 是无效的网址。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Performance"
+msgid "Performance"
+msgstr "性能"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgstr "下面的路径将被要求使用{0} 为基本网址。您可以在{1} 变更基本网址。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "General Settings page"
+msgid "General Settings page"
+msgstr "常规设定页"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This must be a set of relative paths, eg, /, /About. Please ensure that you enter only one path per line."
+msgid "This must be a set of relative paths, eg, /, /About. Please ensure that you enter only one path per line."
+msgstr "这必须是一组相对路径，例如: /，/about。请确定您输入每一行只有一个路径。"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Generate warmup pages any time some content is published"
+msgid "Generate warmup pages any time some content is published"
+msgstr "在任何时间发布内容时都产生预热页"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Status"
+msgid "Status"
+msgstr "状态"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "This is a table of the reports in your application"
+msgid "This is a table of the reports in your application"
+msgstr "在您的应用中这张表格供报表使用"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Path"
+msgid "Path"
+msgstr "路径"
+
+#: ~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml
+#| msgid "Date generated"
+msgid "Date generated"
+msgstr "产生日期"

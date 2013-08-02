@@ -1,0 +1,44 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Description"
+msgid "The scripting module enables the possibility to execute scripts using a simple custom scripting language."
+msgstr "脚本模块可以让用户自定简单的脚本语言。"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Name"
+msgid "Lightweight scripting"
+msgstr "轻量脚本语言"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Description"
+msgid "Custom lightweight and simple scripting language."
+msgstr "自定轻量且简单的脚本语言。"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Orchard.Scripting.Lightweight.Category"
+msgid "Scripting"
+msgstr "脚本"
+
+#: Orchard.Scripting.ScriptExpressionEvaluator
+#| msgid "Syntax error: {0}"
+msgid "Syntax error: {0}"
+msgstr "语法错误: {0}"
+
+#: ~/Modules/Orchard.Scripting/Module.txt
+#| msgid "Name"
+msgid "Scripting"
+msgstr "脚本"

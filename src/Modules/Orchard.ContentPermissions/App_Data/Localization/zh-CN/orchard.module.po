@@ -1,0 +1,215 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Name"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Orchard.ContentPermissions"
+msgstr "Orchard.ContentPermissions"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Author"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Chris Pyle, S�bastien Ros"
+msgstr "Chris Pyle, S�bastien Ros"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Website"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Description"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Allows item-level front end view permissions."
+msgstr "允许项目视图的权限。"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Orchard.ContentPermissions.Name"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Content Item Permissions"
+msgstr "内容项的权限"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Orchard.ContentPermissions.Description"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Allows item-level front end view permissions."
+msgstr "允许项目视图的权限。"
+
+#: ~/Modules/Orchard.ContentPermissions/Module.txt
+#| msgid "Orchard.ContentPermissions.Category"
+msgctxt ~/Modules/Orchard.ContentPermissions/Module.txt
+msgid "Security"
+msgstr "安全"
+
+#: Orchard.ContentPermissions.Drivers.ContentPermissionsPartDriver
+#| msgid "Could not update permissions"
+msgctxt Orchard.ContentPermissions.Drivers.ContentPermissionsPartDriver
+msgid "Could not update permissions"
+msgstr "不能更新权限"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml
+#| msgid "Permissions applied"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml
+msgid "Permissions applied"
+msgstr "权限申请"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml
+#| msgid "Protected"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml
+msgid "Protected"
+msgstr "保护"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Those permissions will be applied by default to any content item of this type. Users with sufficient permissions can change them for each content item."
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Those permissions will be applied by default to any content item of this type. Users with sufficient permissions can change them for each content item."
+msgstr "默认情况下，这些权限将适用于任何此类型的内容项目。具有足够的权限的用户可以改变每个内容项。"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Role"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Role"
+msgstr "角色"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "View any content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "View any content"
+msgstr "预览所有内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Edit any content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Edit any content"
+msgstr "编辑所有内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Publish any content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Publish any content"
+msgstr "发布所有内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Delete any content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Delete any content"
+msgstr "删除所有内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Role"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Role"
+msgstr "角色"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "View own content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "View own content"
+msgstr "查看自己的内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Edit own content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Edit own content"
+msgstr "编辑自己的内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Publish own content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Publish own content"
+msgstr "发布自己的内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Delete own content"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Delete own content"
+msgstr "删除自己的内容"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Only show those roles in the editor:"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Only show those roles in the editor:"
+msgstr 只显示在编辑角色："
+
+#: ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+#| msgid "Uncheck the roles for which you don't want the editor to change the permissions for."
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml
+msgid "Uncheck the roles for which you don't want the editor to change the permissions for."
+msgstr "更改编辑权限，取消选中的角色。"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Enable Content Item access control"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Enable Content Item access control"
+msgstr "启用内容项的访问控制
+"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Check to define custom permissions for this content item."
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Check to define custom permissions for this content item."
+msgstr "检查内容项自定义权限。"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Role"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Role"
+msgstr "角色"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "View this item"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "View this item"
+msgstr "查看项目"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Edit this item"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Edit this item"
+msgstr "编辑项目"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Publish this item"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Publish this item"
+msgstr "发布项目"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Delete this item"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Delete this item"
+msgstr "删除项目"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Role"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Role"
+msgstr "角色"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "View own"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "View own"
+msgstr "查看自己的"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Edit own"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Edit own"
+msgstr "编辑自己的"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Publish own"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Publish own"
+msgstr "发布自己的"
+
+#: ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+#| msgid "Delete own"
+msgctxt ~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml
+msgid "Delete own"
+msgstr "删除自己的"

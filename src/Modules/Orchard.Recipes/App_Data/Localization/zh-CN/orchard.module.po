@@ -1,0 +1,99 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Name"
+msgid "Recipes"
+msgstr "方法"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Recipes/Module.txt
+#| msgid "Description"
+msgid "Provides Orchard Recipes."
+msgstr "提供 Orchard 方法。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Could not discover recipes because module '{0}' was not found."
+msgid "Could not discover recipes because module '{0}' was not found."
+msgstr "无法发现方法，因为找不到模块'{0}'。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "No recipes found for extension {0}."
+msgid "No recipes found for extension {0}."
+msgstr "找不到延伸方法 {0}。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "List of available recipes"
+msgid "List of available recipes"
+msgstr "列出可用的方法"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "--------------------------"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe: {0}"
+msgid "Recipe: {0}"
+msgstr "方法: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid " Version: {0}"
+msgid " Version: {0}"
+msgstr "版本: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid " Tags: {0}"
+msgid " Tags: {0}"
+msgstr "类型: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid " Description: {0}"
+msgid " Description: {0}"
+msgstr "说明: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid " Author: {0}"
+msgid " Author: {0}"
+msgstr "作者: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid " Website: {0}"
+msgid " Website: {0}"
+msgstr "网站: {0}"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Invalid recipe name {0}."
+msgid "Invalid recipe name {0}."
+msgstr "错误的方法名称 {0}。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe scheduled for execution successfully."
+msgid "Recipe scheduled for execution successfully."
+msgstr "方法计划执行成功。"
+
+#: Orchard.Recipes.Commands.RecipesCommands
+#| msgid "Recipe failed to execute."
+msgid "Recipe failed to execute."
+msgstr "方法无法执行。"
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgid "Recipe execution with id {0} was cancelled because the \"{1}\" step failed to execute. The following exception was thrown: {2}. Refer to the recipe journal for more information."
+msgstr "已取消执行ID 为{0} 的方法，因为第\"{1}\" 步未能执行。异常: {2}。请参考方法资料手册获得更多信息。"
+
+#: Orchard.Recipes.Services.RecipeStepExecutor
+#| msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgid "Recipe execution with id {0} was cancelled because the recipe handler for step \"{1}\" was not found. Refer to the recipe journal for more information."
+msgstr "已取消执行ID 为{0} 的方法，因为方法处理步骤\"{1}\" 未被发现。请参考方法资料手册获得更多信息。"

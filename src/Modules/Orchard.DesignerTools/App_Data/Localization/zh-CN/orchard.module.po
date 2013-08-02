@@ -1,0 +1,99 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Name"
+msgid "Designer Tools"
+msgstr "设计工具"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "Description"
+msgid "Contains designer tools to ease the Themes development process"
+msgstr "设计工具可以所短主题发展时间"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Name"
+msgid "Url Alternates"
+msgstr "备用 Url"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Category"
+msgid "Designer"
+msgstr "设计者"
+
+#: ~/Modules/Orchard.DesignerTools/Module.txt
+#| msgid "UrlAlternates.Description"
+msgid "Adds shape alternates for specific urls"
+msgstr "添加特定的网址形态候补"
+
+#: Orchard.DesignerTools.Controllers.AlternateController
+#| msgid "Not authorized to create templates"
+msgid "Not authorized to create templates"
+msgstr "未授权建立布景主题"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "n/a"
+msgid "n/a"
+msgstr "n/a"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml
+#| msgid "Content not available as coming from source code."
+msgid "Content not available as coming from source code."
+msgstr "主题不能当做来源代码。"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Shape"
+msgid "Shape"
+msgstr "型态"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Model"
+msgid "Model"
+msgstr "模块"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Placement"
+msgid "Placement"
+msgstr "放置"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Template"
+msgid "Template"
+msgstr "布景主题"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "HTML"
+msgid "HTML"
+msgstr "HTML"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Active Template"
+msgid "Active Template"
+msgstr "动态主题"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Original Template"
+msgid "Original Template"
+msgstr "原始主题"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Display Type"
+msgid "Display Type"
+msgstr "显示分类"
+
+#: ~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml
+#| msgid "Create"
+msgid "Create"
+msgstr "建立"

@@ -1,0 +1,184 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Setup/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Setup/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Setup/Module.txt
+#| msgid "Description"
+msgid "The setup module is creating the application's setup experience."
+msgstr "安装模块可以用来完成应用程式的安装。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Site name is required."
+msgid "Site name is required."
+msgstr "网站名称是必填项目。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Site name can be no longer than {0} characters."
+msgid "Site name can be no longer than {0} characters."
+msgstr "网站名称无法多于{0} 个字符。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "User name is required."
+msgid "User name is required."
+msgstr "用户名称是必填项目。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "User name must be longer than {0} characters."
+msgid "User name must be longer than {0} characters."
+msgstr "用户名称必须多于{0} 个字符。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "User name can be no longer than {0} characters."
+msgid "User name can be no longer than {0} characters."
+msgstr "用户名称无法多于{0} 个字符。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Password is required."
+msgid "Password is required."
+msgstr "密码是必填项目。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Password must be longer than {0} characters."
+msgid "Password must be longer than {0} characters."
+msgstr "密码必须多于 {0} 个字符。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Password can be no longer than {0} characters."
+msgid "Password can be no longer than {0} characters."
+msgstr "密码不能超过 {0} 个字符。"
+
+#: Orchard.Setup.Annotations.SiteNameValidAttribute
+#| msgid "Password confirmation is required."
+msgid "Password confirmation is required."
+msgstr "确认密码是必填项目。"
+
+#: Orchard.Setup.Controllers.SetupController
+#| msgid "A SQL connection string is required"
+msgid "A SQL connection string is required"
+msgstr "SQL 连线设定是必填项目"
+
+#: Orchard.Setup.Controllers.SetupController
+#| msgid "Password confirmation must match"
+msgid "Password confirmation must match"
+msgstr "密码与确认密码必须吻合"
+
+#: Orchard.Setup.Controllers.SetupController
+#| msgid "The table prefix must begin with a letter"
+msgid "The table prefix must begin with a letter"
+msgstr "表前缀必须以字母开头"
+
+#: Orchard.Setup.Controllers.SetupController
+#| msgid "Setup failed:"
+msgid "Setup failed:"
+msgstr "安装失败:"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Get Started"
+msgid "Get Started"
+msgstr "开始"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Please answer a few questions to configure your site."
+msgid "Please answer a few questions to configure your site."
+msgstr "请回答几个问题用来设定您的网站。"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "What is the name of your site?"
+msgid "What is the name of your site?"
+msgstr "您的网站名称？"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Choose a user name:"
+msgid "Choose a user name:"
+msgstr "选择用户名称:"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Choose a password:"
+msgid "Choose a password:"
+msgstr "选择密码:"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Confirm the password:"
+msgid "Confirm the password:"
+msgstr "确认密码:"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "How would you like to store your data?"
+msgid "How would you like to store your data?"
+msgstr "您希望如何保存您的资料？"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Use built-in data storage (SQL Server Compact)"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "使用嵌入式资料保存装置(SQL Server Compact)"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Use an existing SQL Server (or SQL Express) database"
+msgid "Use an existing SQL Server (or SQL Express) database"
+msgstr "使用已存在的SQL Server (或SQL Express) 资料库"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Connection string"
+msgid "Connection string"
+msgstr "连线设定"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Example:"
+msgid "Example:"
+msgstr "范例:"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Database Table Prefix"
+msgid "Database Table Prefix"
+msgstr "资料库表格前缀"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Finish Setup"
+msgid "Finish Setup"
+msgstr "完成安装"
+
+#: ~/Modules/Orchard.Setup/Module.txt
+#| msgid "Name"
+msgid "Setup"
+msgstr "安装"
+
+#: Orchard.Setup.Commands.SetupCommand
+#| msgid "Site \"{0}\" successfully setup to run data provider \"{1}\" (with table prefix \"{2}\") and configured by recipe \"{3}\""
+msgid "Site \"{0}\" successfully setup to run data provider \"{1}\" (with table prefix \"{2}\") and configured by recipe \"{3}\""
+msgstr "网站\"{0}\" 安装成功资料来源\"{1}\" (表前缀\"{2}\") 以及配置方法\"{3}\""
+
+#: Orchard.Setup.Controllers.SetupController
+#| msgid "No recipes were found in the Setup module"
+msgid "No recipes were found in the Setup module"
+msgstr "安装模块中找不到方法"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Choose an Orchard Recipe"
+msgid "Choose an Orchard Recipe"
+msgstr "选择 Orchard 方法"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Orchard Recipes allow you to setup your site with additional pre-configured options, features and settings out of the box"
+msgid "Orchard Recipes allow you to setup your site with additional pre-configured options, features and settings out of the box"
+msgstr "Orchard 方法允许您安装您的网站与额外的预设值选项、功能和现成设定。"
+
+#: ~/Modules/Orchard.Setup/Views/Setup/Index.cshtml
+#| msgid "Cooking Orchard Recipe ..."
+msgid "Cooking Orchard Recipe ..."
+msgstr "Cooking Orchard 配置 ..."

@@ -1,0 +1,159 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Name"
+msgid "Import Export"
+msgstr "导入导出"
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.ImportExport/Module.txt
+#| msgid "Description"
+msgid "Provides content item data import and export capability."
+msgstr "提供主题导入导出功能。"
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Import/Export"
+msgid "Import/Export"
+msgstr "导入/导出"
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Import"
+msgid "Import"
+msgstr "导入"
+
+#: Orchard.ImportExport.AdminMenu
+#| msgid "Export"
+msgid "Export"
+msgstr "导出"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Not allowed to import."
+msgid "Not allowed to import."
+msgstr "不允许导入。"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Please choose a recipe file to import."
+msgid "Please choose a recipe file to import."
+msgstr "请选择导入的来源文件。"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Your recipe has been imported."
+msgid "Your recipe has been imported."
+msgstr "您选择的附件已被导入。"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Import failed: {0}"
+msgid "Import failed: {0}"
+msgstr "导入失败: {0}"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Not allowed to export."
+msgid "Not allowed to export."
+msgstr "不允许导出。"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Your export file has been created at {0}"
+msgid "Your export file has been created at {0}"
+msgstr "您导出的附件已被建立在 {0}"
+
+#: Orchard.ImportExport.Controllers.AdminController
+#| msgid "Export failed: {0}"
+msgid "Export failed: {0}"
+msgstr "导出失败: {0}"
+
+#: Orchard.ImportExport.Services.ImportExportService
+#| msgid "Step {0} is not a supported import step."
+msgid "Step {0} is not a supported import step."
+msgstr "导入失败，步骤 {0}。"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Export"
+msgid "Export"
+msgstr "导出"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Choose the types to include in the export file:"
+msgid "Choose the types to include in the export file:"
+msgstr "选择要导出的分类:"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Choose what to save for these types:"
+msgid "Choose what to save for these types:"
+msgstr "选择要保存的分类:"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Metadata"
+msgid "Metadata"
+msgstr "元数据"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgstr "元数据 用来定义您的主题分类: 什么元件、字段拥有哪些设定。"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Data"
+msgid "Data"
+msgstr "资料"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Data is the actual content of your site."
+msgid "Data is the actual content of your site."
+msgstr "资料是您网站的实际内容。"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Version History"
+msgid "Version History"
+msgstr "版本历史"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Only Published Versions"
+msgid "Only Published Versions"
+msgstr "只有已发布版本"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Only Drafts"
+msgid "Only Drafts"
+msgstr "只有草稿"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Site Settings"
+msgid "Site Settings"
+msgstr "网站设定"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml
+#| msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgstr "请确认您是否导出机密信息，如密码或程序密钥。"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "Import"
+msgid "Import"
+msgstr "导入"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "exporting"
+msgid "exporting"
+msgstr "导出"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "Recipe File:"
+msgid "Recipe File:"
+msgstr "来源文件:"
+
+#: ~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml
+#| msgid "Choose a recipe file to import. Please consider {0} or backing up your data first."
+msgid "Choose a recipe file to import. Please consider {0} or backing up your data first."
+msgstr "选择需要导入的文件，在备份前{0}，请先备份您的数据。"

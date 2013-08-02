@@ -1,0 +1,29 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Description"
+msgid "Introduces a preconfigured page content type."
+msgstr "预先配置页面的内容类型。"
+
+#: ~/Modules/Orchard.Pages/Module.txt
+#| msgid "Name"
+msgid "Pages"
+msgstr "页面"
+
+#: Orchard.Pages.Commands.PageCommands
+#| msgid "Page created successfully."
+msgid "Page created successfully."
+msgstr "页面建立成功。"

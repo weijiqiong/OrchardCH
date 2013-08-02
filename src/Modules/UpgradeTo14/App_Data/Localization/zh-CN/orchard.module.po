@@ -1,0 +1,120 @@
+﻿#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Name"
+msgid "UpgradeTo14"
+msgstr "UpgradeTo14"
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "The Orchard Team"
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Website"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "Description"
+msgid "Description for the module"
+msgstr "Description for the module"
+
+#: ~/Modules/UpgradeTo14/Module.txt
+#| msgid "UpgradeTo14.Description"
+msgid "Description for feature UpgradeTo14."
+msgstr "Description for feature UpgradeTo14."
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate to 1.4"
+msgid "Migrate to 1.4"
+msgstr "迁移到1.4"
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate Routes"
+msgid "Migrate Routes"
+msgstr "迁移路由"
+
+#: UpgradeTo14.AdminMenu
+#| msgid "Migrate Fields"
+msgid "Migrate Fields"
+msgstr "迁移字段"
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgid "There are no content types with custom fields"
+msgstr "没有内容类型自定义字段"
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgid "Not allowed to migrate fields."
+msgstr "Not allowed to migrate fields."
+
+#: UpgradeTo14.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgid "{0} fields were migrated successfully"
+msgstr "{0} fields were migrated successfully"
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgid "There are no content types with RoutePart"
+msgstr "There are no content types with RoutePart"
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgid "Not allowed to migrate routes."
+msgstr "Not allowed to migrate routes."
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr "Some content items could not be imported. Please refer to the corresponding Report."
+
+#: UpgradeTo14.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgid "{0} was migrated successfully"
+msgstr "{0} was migrated successfully"
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgid "Migrate Fields"
+msgstr "Migrate Fields"
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgid "Choose the types to migrate:"
+msgstr "Choose the types to migrate:"
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+
+#: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgid "Migrate"
+msgstr "Migrate"
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgid "Migrate Routes"
+msgstr "Migrate Routes"
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgid "Choose the types to migrate:"
+msgstr "Choose the types to migrate:"
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+
+#: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgid "Migrate"
+msgstr "Migrate"
+

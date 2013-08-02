@@ -1,0 +1,372 @@
+﻿#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Name"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "Custom Forms"
+msgstr "自订表单"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Author"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "The Orchard Team"
+msgstr "The Orchard Team"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Website"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "http://orchardcustomforms.codeplex.com"
+msgstr "http://orchardcustomforms.codeplex.com"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Description"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "Create custom forms like contact forms or content contributions."
+msgstr "创建自定义表单，像联系表单或贡献内容表单。"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Name"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "Custom Forms"
+msgstr "自定义表单"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Description"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "Create custom forms like contact forms or content contributions."
+msgstr "创建自定义表单，像联系表单或贡献内容表单"
+
+#: ~/Modules/Orchard.CustomForms/Module.txt
+#| msgid "Orchard.CustomForms.Category"
+msgctxt ~/Modules/Orchard.CustomForms/Module.txt
+msgid "Forms"
+msgstr "表单"
+
+#: Orchard.CustomForms.AdminMenu
+#| msgid "Forms"
+msgctxt Orchard.CustomForms.AdminMenu
+msgid "Forms"
+msgstr "表单"
+
+#: Orchard.CustomForms.AdminMenu
+#| msgid "Manage Forms"
+msgctxt Orchard.CustomForms.AdminMenu
+msgid "Manage Forms"
+msgstr "表单管理"
+
+#: Orchard.CustomForms.Controllers.AdminController
+#| msgid "Not authorized to list custom forms"
+msgctxt Orchard.CustomForms.Controllers.AdminController
+msgid "Not authorized to list custom forms"
+msgstr "没有权限查看自定义表单列表"
+
+#: Orchard.CustomForms.Controllers.AdminController
+#| msgid "Not authorized to manage customForm"
+msgctxt Orchard.CustomForms.Controllers.AdminController
+msgid "Not authorized to manage customForm"
+msgstr "没有权限管理自定义表单"
+
+#: Orchard.CustomForms.Controllers.AdminController
+#| msgid "Not authorized to manage customForm"
+msgctxt Orchard.CustomForms.Controllers.AdminController
+msgid "Not authorized to manage customForm"
+msgstr "没有权限管理自定义表单"
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "The content type must have CommonPart attached"
+msgctxt Orchard.CustomForms.Controllers.ItemController
+msgid "The content type must have CommonPart attached"
+msgstr "这个内容类型必须有共同的附加元件"
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "Cannot create content"
+msgctxt Orchard.CustomForms.Controllers.ItemController
+msgid "Cannot create content"
+msgstr "不能创建内容"
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "Couldn't create content"
+msgctxt Orchard.CustomForms.Controllers.ItemController
+msgid "Couldn't create content"
+msgstr "无法创建内容"
+
+#: Orchard.CustomForms.Controllers.ItemController
+#| msgid "Couldn't create content"
+msgctxt Orchard.CustomForms.Controllers.ItemController
+msgid "Couldn't create content"
+msgstr "无法创建内容"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Forms"
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "Custom Forms"
+msgstr "自定义表单"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Forms"
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "Custom Forms"
+msgstr "自定义表单"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Form Submitted"
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "Custom Form Submitted"
+msgstr "提交自定义表单"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Custom Form is submitted."
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "Custom Form is submitted."
+msgstr "自定义表单被提交。"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "When a custom form for types ({0}) is submitted."
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "When a custom form for types ({0}) is submitted."
+msgstr "当一个自定义表单类型({ 0 })被提交。"
+
+#: Orchard.CustomForms.Rules.CustomFormEvents
+#| msgid "Any"
+msgctxt Orchard.CustomForms.Rules.CustomFormEvents
+msgid "Any"
+msgstr "所有"
+
+#: ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml
+#| msgid "Renders a form for {0}"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml
+msgid "Renders a form for {0}"
+msgstr "呈现的表单{0}"
+
+#: ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml
+#| msgid "Submit"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml
+msgid "Submit"
+msgstr "提交"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Manage Custom Forms"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Manage Custom Forms"
+msgstr "管理自定义表单"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Add a new Custom Form"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Add a new Custom Form"
+msgstr "添加新的自定义表单"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Choose action..."
+msgstr "操作选择..."
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Publish"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Publish"
+msgstr "发布"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Unpublish"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Unpublish"
+msgstr "取消发布"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Sort by:"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Sort by:"
+msgstr "排序:"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Creation date"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Creation date"
+msgstr "创建日期"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Show:"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Show:"
+msgstr "显示:"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "All"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "All"
+msgstr "所有"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Filter"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Filter"
+msgstr "过滤"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Title"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Title"
+msgstr "标题"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Content Type"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Content Type"
+msgstr "内容类型"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "-"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "-"
+msgstr "-"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Widget"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Widget"
+msgstr "部件"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid " | "
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+#| msgid "Submissions"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml
+msgid "Submissions"
+msgstr "提交"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Actions:"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Choose action..."
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Choose action..."
+msgstr "操作选择..."
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Publish Now"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Publish Now"
+msgstr "立即发布"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Unpublish"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Unpublish"
+msgstr "取消立即发布"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Delete"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "Apply"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+#| msgid "There are no submissions for this form."
+msgctxt ~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml
+msgid "There are no submissions for this form."
+msgstr "没有提交此表单。"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Content Type"
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Content Type"
+msgstr "内容类型"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Select the content type which will be used to render the custom form."
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Select the content type which will be used to render the custom form."
+msgstr "选择将用于呈现自定义表单的内容类型"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Save the content item once the form is submitted"
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Save the content item once the form is submitted"
+msgstr "表单被提交时保存内容项"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Check if you want to save the content item associated to the form. Leave empty if you just want to trigger an action on the event."
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Check if you want to save the content item associated to the form. Leave empty if you just want to trigger an action on the event."
+msgstr "如果您要保存的内容项相关联的表单则勾选。如果您只是想在事件触发一个动作则留空。"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Specificy a custom message when the form is submitted"
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Specificy a custom message when the form is submitted"
+msgstr "提交表单时指定一个自定义消息"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "The custom message to display to the user when the form is submitted. Leave empty if no messages should be displayed."
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "The custom message to display to the user when the form is submitted. Leave empty if no messages should be displayed."
+msgstr "自定义消息显示给用户提交表单时。如果没有信息则留空。"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "Redirect the user once the form is submitted"
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "Redirect the user once the form is submitted"
+msgstr "提交表单时，将用户重定向"
+
+#: ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+#| msgid "The url the user should be redirected to once the form is successfully submitted. e.g.: ~/About"
+msgctxt ~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml
+msgid "The url the user should be redirected to once the form is successfully submitted. e.g.: ~/About"
+msgstr "用户的URL应该被重定向到一次成功提交表单。例如：~/About"
+
+#: ~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml
+#| msgid "Submit"
+msgctxt ~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml
+msgid "Submit"
+msgstr "提交"
+

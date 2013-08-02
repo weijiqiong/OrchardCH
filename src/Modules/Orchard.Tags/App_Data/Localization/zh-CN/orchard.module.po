@@ -1,0 +1,184 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Description"
+msgid "The tags module is providing basic tagging for arbitrary content types."
+msgstr "标签模块提供基础的标签功能给任何的内容类型。"
+
+#: Orchard.Tags.AdminMenu
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: Orchard.Tags.AdminMenu
+#| msgid "List"
+msgid "List"
+msgstr "列表"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't delete tag"
+msgid "Couldn't delete tag"
+msgstr "无法删除标签"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't edit tag"
+msgid "Couldn't edit tag"
+msgstr "无法编辑标签"
+
+#: Orchard.Tags.Controllers.AdminController
+#| msgid "Couldn't remove tag"
+msgid "Couldn't remove tag"
+msgstr "无法移除标签"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Couldn't rename tag: name was empty"
+msgid "Couldn't rename tag: name was empty"
+msgstr "无法重新命名标签: 名称为空"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error removing tag to content item: the content item has not been created yet."
+msgid "Error removing tag to content item: the content item has not been created yet."
+msgstr "从内容项目移除标签时发生错误: 内容项目尚未建立。"
+
+#: Orchard.Tags.Services.TagService
+#| msgid "Error adding tag to content item: the content item has not been created yet."
+msgid "Error adding tag to content item: the content item has not been created yet."
+msgstr "新增标签到内容项目时发生错误: 内容项目尚未建立。"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Manage tag: {0}"
+msgid "Manage tag: {0}"
+msgstr "管理标签: {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Tag Name"
+msgid "Tag Name"
+msgstr "标签名称"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Save"
+msgid "Save"
+msgstr "保存"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content items tagged with {0}"
+msgid "Content items tagged with {0}"
+msgstr "将内容项目标为 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "There is nothing tagged with {0}"
+msgid "There is nothing tagged with {0}"
+msgstr "没有东西会标上 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Content Type"
+msgid "Content Type"
+msgstr "内容类型"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Edit.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "This is a table of the tags in your application"
+msgid "This is a table of the tags in your application"
+msgstr "在您的应用中这是标签的表格"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgid "Name"
+msgstr "名称"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid " | "
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cs​​html
+#| msgid "New Tag Name"
+msgid "New Tag Name"
+msgstr "新标签名称"
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/CreateTag.cs​​html
+#| msgid "Add Tag"
+msgid "Add Tag"
+msgstr "新增标签"
+
+#: ~/Modules/Orchard.Tags/Views/EditorTemplates/Parts/Tags.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Index.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with {0}"
+msgid "Contents tagged with {0}"
+msgstr "将内容标为 {0}"
+
+#: ~/Modules/Orchard.Tags/Views/Home/Search.cshtml
+#| msgid "Contents tagged with <span>{0}</span>"
+msgid "Contents tagged with <span>{0}</span>"
+msgstr "将内容标为 <span>{0}</span>"
+
+#: ~/Modules/Orchard.Tags/Views/Parts/Tags.ShowTags.cshtml
+#| msgid "Tags:"
+msgid "Tags:"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Module.txt
+#| msgid "Name"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Modules/Orchard.Tags/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"

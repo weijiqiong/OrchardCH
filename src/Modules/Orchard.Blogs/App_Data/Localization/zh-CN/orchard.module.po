@@ -1,0 +1,466 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: Orchard.Blogs.AdminMenu
+#| msgid "Blog"
+msgid "Blog"
+msgstr "博客"
+
+#: Orchard.Blogs.AdminMenu
+#| msgid "New Post"
+msgid "New Post"
+msgstr "新增文章"
+
+#: Orchard.Blogs.AdminMenu
+#| msgid "New Blog"
+msgid "New Blog"
+msgstr "新增博客"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml
+#| msgid "List Posts"
+msgid "List Posts"
+msgstr "文章列表"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml
+#| msgid " | "
+msgid " | "
+msgstr " | "
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml
+#| msgid "New Post"
+msgid "New Post"
+msgstr "新增文章"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/Create.cshtml
+#| msgid "New Blog"
+msgid "New Blog"
+msgstr "新增博客"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Create.cshtml
+#| msgid "New Post"
+msgid "New Post"
+msgstr "新增文章"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml
+#| msgid "Select which blog you want to display the archives for"
+msgid "Select which blog you want to display the archives for"
+msgstr "选择您要显示存档的博客"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml
+#| msgid "Select which blog you want to display the recent posts for"
+msgid "Select which blog you want to display the recent posts for"
+msgstr "选择要显示最新文章的博客"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Description"
+msgid "The Orchard Blogs module is implementing basic blogging features."
+msgstr "Orchard Blogs 模块提供基本的博客功能。"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Orchard.Blogs.RemotePublishing.Name"
+msgid "Remote Blog Publishing"
+msgstr "远端博客发布"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Orchard.Blogs.RemotePublishing.Description"
+msgid "Blog easier using a dedicated MetaWeblogAPI-compatible publishing tool."
+msgstr "更容易使用的MetaWeblogAPI 专用博客发布工具。"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Orchard.Blogs.RemotePublishing.Category"
+msgid "Content Publishing"
+msgstr "内容发布"
+
+#: Orchard.Blogs.AdminMenu
+#| msgid "Manage Blogs"
+msgid "Manage Blogs"
+msgstr "管理博客"
+
+#: Orchard.Blogs.AdminMenu
+#| msgid "Manage Blog"
+msgid "Manage Blog"
+msgstr "管理博客"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Invalid username: {0}"
+msgid "Invalid username: {0}"
+msgstr "错误的用户名称: {0}"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Invalid Slug provided. Blog creation failed."
+msgid "Invalid Slug provided. Blog creation failed."
+msgstr "无效的Slug。博客建立失败。"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "An error occured while loading the file: {0}"
+msgid "An error occured while loading the file: {0}"
+msgstr "载入时发生错误的文件: {0}"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Blog not found at specified slug: {0}"
+msgid "Blog not found at specified slug: {0}"
+msgstr "博客无法发现指定的 Slug: {0}"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Not allowed to create blogs"
+msgid "Not allowed to create blogs"
+msgstr "不允许建立博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Couldn't create blog"
+msgid "Couldn't create blog"
+msgstr "无法建立博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Not allowed to edit blog"
+msgid "Not allowed to edit blog"
+msgstr "不允许编辑博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Couldn't edit blog"
+msgid "Couldn't edit blog"
+msgstr "无法编辑博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Blog information updated"
+msgid "Blog information updated"
+msgstr "博客资讯已更新"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Couldn't delete blog"
+msgid "Couldn't delete blog"
+msgstr "无法删除博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Blog was successfully deleted"
+msgid "Blog was successfully deleted"
+msgstr "博客已删除"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Not allowed to create blog post"
+msgid "Not allowed to create blog post"
+msgstr "不允许新增博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't create blog post"
+msgid "Couldn't create blog post"
+msgstr "无法新增博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Your {0} has been created."
+msgid "Your {0} has been created."
+msgstr "您的 {0} 已被建立。"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't edit blog post"
+msgid "Couldn't edit blog post"
+msgstr "无法编辑博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't publish blog post"
+msgid "Couldn't publish blog post"
+msgstr "无法发布博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Your {0} has been saved."
+msgid "Your {0} has been saved."
+msgstr "您的 {0} 已被保存。"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "There is no draft to discard."
+msgid "There is no draft to discard."
+msgstr "无草稿被丢弃。"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't discard blog post draft"
+msgid "Couldn't discard blog post draft"
+msgstr "无法舍弃博客文章草稿"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Can not discard draft on unpublished blog post."
+msgid "Can not discard draft on unpublished blog post."
+msgstr "无法舍弃未发布的博客文章草稿。"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Blog post draft version discarded"
+msgid "Blog post draft version discarded"
+msgstr "舍弃草稿"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't delete blog post"
+msgid "Couldn't delete blog post"
+msgstr "无法删除博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Blog post was successfully deleted"
+msgid "Blog post was successfully deleted"
+msgstr "博客成功删除"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Blog post successfully published."
+msgid "Blog post successfully published."
+msgstr "博客文章成功发布。"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Couldn't unpublish blog post"
+msgid "Couldn't unpublish blog post"
+msgstr "无法取消发布博客文章"
+
+#: Orchard.Blogs.Controllers.BlogPostAdminController
+#| msgid "Blog post successfully unpublished."
+msgid "Blog post successfully unpublished."
+msgstr "博客文章成功取消发布。"
+
+#: Orchard.Blogs.Controllers.BlogPostController
+#| msgid "Couldn't view blog post"
+msgid "Couldn't view blog post"
+msgstr "无法预览博客文章"
+
+#: Orchard.Blogs.Services.XmlRpcHandler
+#| msgid "The username or e-mail or password provided is incorrect."
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "用户名称、Email或密码错误。"
+
+#: ~/Modules/Orchard.Blogs/Views/Content-Blog.DetailAdmin.cshtml
+#| msgid "New Post"
+msgid "New Post"
+msgstr "新增文章"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.Manage.cshtml
+#| msgid "Blog Properties"
+msgid "Blog Properties"
+msgstr "博客属性"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogArchives.cshtml
+#| msgid "None found"
+msgid "None found"
+msgstr "无法找到"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.List.cshtml
+#| msgid "There are no posts for this blog."
+msgid "There are no posts for this blog."
+msgstr "这个博客尚未有任何文章。"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Publish Now"
+msgid "Publish Now"
+msgstr "立刻发布"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Unpublish"
+msgid "Unpublish"
+msgstr "取消发布"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml
+#| msgid "There are no posts for this blog."
+msgid "There are no posts for this blog."
+msgstr "这个博客尚未有任何文章。"
+
+#: ~/Modules/Orchard.Blogs/Views/Blog/List.cshtml
+#| msgid "No blogs found."
+msgid "No blogs found."
+msgstr "找不到博客。"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/Edit.cshtml
+#| msgid "Blog Properties"
+msgid "Blog Properties"
+msgstr "博客属性"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/Item.cshtml
+#| msgid "Manage Blog"
+msgid "Manage Blog"
+msgstr "管理博客"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "Manage Blogs"
+msgid "Manage Blogs"
+msgstr "管理博客"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "New Blog"
+msgid "New Blog"
+msgstr "新增博客"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "Actions:"
+msgid "Actions:"
+msgstr "操作:"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "Choose action..."
+msgid "Choose action..."
+msgstr "选择操作..."
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "Apply"
+msgid "Apply"
+msgstr "应用"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml
+#| msgid "There are no blogs for you to see. Want to <a href=\"{0}\">add one</a>?"
+msgid "There are no blogs for you to see. Want to <a href=\"{0}\">add one</a>?"
+msgstr "目前尚无博客。是否<a href=\"{0}\">建立一个</a>?"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogPost/ListByArchive.cshtml
+#| msgid "Archives"
+msgid "Archives"
+msgstr "存档"
+
+#: ~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Edit.cshtml
+#| msgid "Edit Blog Post"
+msgid "Edit Blog Post"
+msgstr "编辑博客文章"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml
+#| msgid "Description"
+msgid "Description"
+msgstr "简介"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml
+#| msgid "For Blog"
+msgid "For Blog"
+msgstr "博客专用"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml
+#| msgid "For Blog"
+msgid "For Blog"
+msgstr "博客专用"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml
+#| msgid "Count"
+msgid "Count"
+msgstr "总数"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml
+#| msgid "1 post"
+msgid "1 post"
+msgstr "1 篇文章"
+
+#: ~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml
+#| msgid "{0} posts"
+msgid "{0} posts"
+msgstr "{0} 篇文章"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Name"
+msgid "Blogs"
+msgstr "博客"
+
+#: Orchard.Blogs.Controllers.BlogAdminController
+#| msgid "Blog deleted"
+msgid "Blog deleted"
+msgstr "已删除的博客"
+
+#: ~/Modules/Orchard.Blogs/Views/Blog.DeleteButton.cshtml
+#| msgid "Delete"
+msgid "Delete"
+msgstr "删除"
+
+#: ~/Modules/Orchard.Blogs/Module.txt
+#| msgid "Author"
+msgctxt ~/Modules/Orchard.Blogs/Module.txt
+msgid "The Orchard Team"
+msgstr "The Orchard 团队"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Blog created successfully"
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Blog created successfully"
+msgstr "Blog创建成功"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Loading feed..."
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Loading feed..."
+msgstr "加载回复..."
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Found {0} items"
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Found {0} items"
+msgstr "找到 {0} 项"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "An error occured while loading the feed at {0}."
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "An error occured while loading the feed at {0}."
+msgstr "在加载回复{0}的时候出现一个错误."
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Blog not found with specified Id: {0}"
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Blog not found with specified Id: {0}"
+msgstr "指定Id: {0} 博客没有找到"
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Adding post: {0}..."
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Adding post: {0}..."
+msgstr "添加文章: {0}..."
+
+#: Orchard.Blogs.Commands.BlogCommands
+#| msgid "Import feed completed."
+msgctxt Orchard.Blogs.Commands.BlogCommands
+msgid "Import feed completed."
+msgstr "导入回复完成."
+
+#: ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+#| msgid "View"
+msgctxt ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+msgid "View"
+msgstr "视图"
+
+#: ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+#| msgid "Publish Draft"
+msgctxt ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+msgid "Publish Draft"
+msgstr "发布草稿"
+
+#: ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+#| msgid "Edit"
+msgctxt ~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml
+msgid "Edit"
+msgstr "编辑"
+
+#: ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml
+#| msgid "Number of posts to display. Zero for all."
+msgctxt ~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml
+msgid "Number of posts to display. Zero for all."
+msgstr "显示全部文章数量."

@@ -1,0 +1,67 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Author"
+msgid "jowall, mibach, loudej, heskew"
+msgstr "jowall, mibach, loudej, heskew"
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Description"
+msgid "Orchard Theme Machine is a flexible multi-zone theme that provides a solid foundation to build your site. It features 20 collapsible widget zones and is flexible enough to cover a wide range of layouts."
+msgstr "Orchard Theme Machine 是一种灵活的多区的主题，提供了坚实的基础，建立您的网站。它具有20个区域和可折叠元件。"
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Tags"
+msgid "Awesome"
+msgstr "令人惊叹的"
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml
+#| msgid "© The Theme Machine 2010."
+msgid "© The Theme Machine 2010."
+msgstr "© The Theme Machine 2010."
+
+#: ~/Themes/TheThemeMachine/Theme.txt
+#| msgid "Name"
+msgid "The Theme Machine"
+msgstr "The Theme Machine"
+
+#: ~/Themes/TheThemeMachine/Views/Orchard.Tags/Home/Search.cshtml
+#| msgid "Tags"
+msgid "Tags"
+msgstr "标签"
+
+#: ~/Themes/TheThemeMachine/Views/Orchard.Tags/Home/Search.cshtml
+#| msgid "Contents tagged with {0}"
+msgid "Contents tagged with {0}"
+msgstr "内容标签与 {0}"
+
+#: ~/Themes/TheThemeMachine/Views/Orchard.Tags/Home/Search.cshtml
+#| msgid "Contents tagged with <span>{0}</span>"
+msgid "Contents tagged with <span>{0}</span>"
+msgstr "内容标签与 <span>{0}</span>"
+
+#: ~/Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml
+#| msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+#msgctxt ~/Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml
+#msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+#msgstr "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+
+#: ~/Themes/TheThemeMachine/Views/Pager.cshtml
+#| msgid "Newer"
+msgctxt ~/Themes/TheThemeMachine/Views/Pager.cshtml
+msgid "Newer"
+msgstr "新的"
+
+#: ~/Themes/TheThemeMachine/Views/Pager.cshtml
+#| msgid "Older"
+msgctxt ~/Themes/TheThemeMachine/Views/Pager.cshtml
+msgid "Older"
+msgstr "旧的"

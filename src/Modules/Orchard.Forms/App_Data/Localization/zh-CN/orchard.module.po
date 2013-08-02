@@ -1,0 +1,35 @@
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Name"
+msgid "Forms"
+msgstr "Forms"
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "The Orchard Team"
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Website"
+msgid "http://orchardforms.codeplex.com"
+msgstr "http://orchardforms.codeplex.com"
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Description"
+msgid "Provides a system to publish and alter html forms."
+msgstr "Provides a system to publish and alter html forms."
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Name"
+msgid "Forms"
+msgstr "Forms"
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Description"
+msgid "Provides a system to publish and alter html forms."
+msgstr "Provides a system to publish and alter html forms."
+
+#: ~/Modules/Orchard.Forms/Module.txt
+#| msgid "Orchard.Forms.Category"
+msgid "Developer"
+msgstr "Developer"
+
