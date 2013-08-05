@@ -6,7 +6,7 @@
 #: ~/Themes/TheAdmin/Theme.txt
 #| msgid "Name"
 msgid "The Admin"
-msgstr "管理者"
+msgstr "管理员"
 
 #: ~/Themes/TheAdmin/Theme.txt
 #| msgid "Author"
@@ -31,13 +31,13 @@ msgstr "http://www.orchardpro​​ject.net"
 #: ~/Themes/TheAdmin/Views/Header.cshtml
 #| msgid "Project Orchard"
 msgid "Project Orchard"
-msgstr "Orchard 工程"
+msgstr "Orchard 项目"
 
 #: ~/Themes/TheAdmin/Views/ErrorPage.cshtml
 #| msgid "Oops. Something went wrong ... sorry"
 msgctxt ~/Themes/TheAdmin/Views/ErrorPage.cshtml
 msgid "Oops. Something went wrong ... sorry"
-msgstr "呀！抱歉，发生了什么错误..."
+msgstr "哎呀！很抱歉, 出了错 ..."
 
 #: ~/Themes/TheAdmin/Views/ErrorPage.cshtml
 #| msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
@@ -58,7 +58,7 @@ msgstr "跳过导引"
 #: ~/Themes/TheAdmin/Views/Layout.cshtml
 #| msgid "Skip to navigation"
 msgid "Are you sure you want to remove this element ?"
-msgstr "你确定你要删除吗？"
+msgstr "你确定要删除此项吗？"
 
 #: ~/Themes/TheAdmin/Views/OrchardVersion.cshtml
 #| msgid "Orchard v.{0}"
