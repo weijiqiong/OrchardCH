@@ -26,17 +26,17 @@ msgstr "用户"
 #: Orchard.Users.Commands.UserCommands
 #| msgid "User with that username and/or email already exists."
 msgid "User with that username and/or email already exists."
-msgstr "用户使用的名称或Email 已经存在。"
+msgstr "使用该用户名和/或电子邮件的用户已经存在。"
 
 #: Orchard.Users.Commands.UserCommands
 #| msgid "You must specify a password of {0} or more characters."
 msgid "You must specify a password of {0} or more characters."
-msgstr "您必须指定一组密码{0}或多个字元。"
+msgstr "你必须指定一个包含 {0} 个或更多字符的密码。"
 
 #: Orchard.Users.Commands.UserCommands
 #| msgid "The authentication provider returned an error"
 msgid "The authentication provider returned an error"
-msgstr "身份验证错误"
+msgstr "身份验证提供程序返回一个错误"
 
 #: Orchard.Users.Commands.UserCommands
 #| msgid "User created successfully"
@@ -56,42 +56,42 @@ msgstr "登录"
 #: Orchard.Users.Controllers.AccountController
 #| msgid "Invalid username or E-mail"
 msgid "Invalid username or E-mail"
-msgstr "无效的用户名称或 Email"
+msgstr "无效的用户名或电子邮件地址"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "Check your e-mail for the confirmation link."
 msgid "Check your e-mail for the confirmation link."
-msgstr "检查您的 Email。"
+msgstr "请检查您的电子邮件中的确认链接。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "The current password is incorrect or the new password is invalid."
 msgid "The current password is incorrect or the new password is invalid."
-msgstr "目前的密码不正确或新的密码是无效的。"
+msgstr "当前的密码是不正确的或新的密码是无效。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a new password of {0} or more characters."
 msgid "You must specify a new password of {0} or more characters."
-msgstr "您必须指定一组新密码{0} 或多个字元。"
+msgstr "你必须指定一个包含 {0} 个或更多字符的新密码。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "The new password and confirmation password do not match."
 msgid "The new password and confirmation password do not match."
-msgstr "新密码和确认密码是不吻合的。"
+msgstr "新密码和确认密码不匹配。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "Windows authentication is not supported."
 msgid "Windows authentication is not supported."
-msgstr "不支援 Windows 验证。"
+msgstr "不支持Windows身份验证。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a current password."
 msgid "You must specify a current password."
-msgstr "您必须指定当前的密码。"
+msgstr "你必须指定当前密码。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a username or e-mail."
 msgid "You must specify a username or e-mail."
-msgstr "您必须指定用户名称或Email。"
+msgstr "您必须指定用户名或电子邮件地址。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a password."
@@ -101,12 +101,12 @@ msgstr "您必须指定密码。"
 #: Orchard.Users.Controllers.AccountController
 #| msgid "The username or e-mail or password provided is incorrect."
 msgid "The username or e-mail or password provided is incorrect."
-msgstr "用户名称、Email 或密码不正确。"
+msgstr "提供的用户名或电子邮件地址或密码不正确。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a username."
 msgid "You must specify a username."
-msgstr "您必须指定用户名称。"
+msgstr "您必须指定用户名。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify an email address."
@@ -116,32 +116,32 @@ msgstr "您必须指定电子邮件地址。"
 #: Orchard.Users.Controllers.AccountController
 #| msgid "User with that username and/or email already exists."
 msgid "User with that username and/or email already exists."
-msgstr "用户使用的名称或Email 已存在。"
+msgstr "使用该用户名和/或电子邮件的用户已经存在。"
 
 #: Orchard.Users.Controllers.AccountController
 #| msgid "You must specify a password of {0} or more characters."
 msgid "You must specify a password of {0} or more characters."
-msgstr "您必须指定一组密码{0} 或多个字元。"
+msgstr "你必须指定一个包含 {0} 个或更多字符的新密码。"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "Not authorized to list users"
 msgid "Not authorized to list users"
-msgstr "未验证的用户清单。"
+msgstr "未授权列出用户清单。"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "Not authorized to manage users"
 msgid "Not authorized to manage users"
-msgstr "未验证的管理用户"
+msgstr "未授权管理用户"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "User with that username and/or email already exists."
 msgid "User with that username and/or email already exists."
-msgstr "用户的名称或 Email 已存在。"
+msgstr "使用该用户名和/或电子邮件的用户已经存在。"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "Password confirmation must match"
 msgid "Password confirmation must match"
-msgstr "确认密码必须吻合"
+msgstr "确认密码必须符合"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "User created"
@@ -156,17 +156,17 @@ msgstr "用户信息已更新"
 #: Orchard.Users.Controllers.AdminController
 #| msgid "The Super user can't be removed. Please disable this account or specify another Super user account"
 msgid "The Super user can't be removed. Please disable this account or specify another Super user account"
-msgstr "最高权限帐号不能被删除。请禁运此帐号或指定其他最高权限帐号"
+msgstr "超级用户不能被删除。请禁用此帐户或指定的另一个超级用户帐户"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "You can't remove your own account. Please log in with another account"
 msgid "You can't remove your own account. Please log in with another account"
-msgstr "您无法移除自己的帐号。请使用其他帐号登录"
+msgstr "您无法删除自己的帐户。请使用其他帐户登录"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "You can't disable your own account. Please log in with another account"
 msgid "You can't disable your own account. Please log in with another account"
-msgstr "您无法禁用自己的帐号。请使用其他帐号登录"
+msgstr "您无法禁用自己的帐户。请使用其他帐户登录"
 
 #: Orchard.Users.Controllers.AdminController
 #| msgid "User {0} disabled"
@@ -176,17 +176,17 @@ msgstr "用户 {0} 已禁用"
 #: Orchard.Users.Handlers.UserMessagesAlteration
 #| msgid "New account"
 msgid "New account"
-msgstr "新帐号"
+msgstr "新帐户"
 
 #: Orchard.Users.Handlers.UserMessagesAlteration
 #| msgid "Verification E-Mail"
 msgid "Verification E-Mail"
-msgstr "验证 Email"
+msgstr "验证电子邮件"
 
 #: Orchard.Users.Handlers.UserMessagesAlteration
 #| msgid "<br/><br/>If you continue to have access problems or want to report other issues, please <a href=\"mailto:{0}\">Contact Us</a>."
 msgid "<br/><br/>If you continue to have access problems or want to report other issues, please <a href=\"mailto:{0}\">Contact Us</a>."
-msgstr "<br/><br/>如果您仍然有其他问题，请<a href=\"mailto:{0}\">联系我们</a>。"
+msgstr "<br/><br/>如果您仍然有问题或要报告其它问题，请<a href=\"mailto:{0}\">联系我们</a>。"
 
 #: Orchard.Users.Handlers.UserMessagesAlteration
 #| msgid "Lost password"
@@ -201,12 +201,12 @@ msgstr "非预期的密码格式"
 #: Orchard.Users.Services.MissingSettingsBanner
 #| msgid "Some Orchard.User settings require an Email channel to be enabled."
 msgid "Some Orchard.User settings require an Email channel to be enabled."
-msgstr "有些Orchard.User 设定需要电子邮件频道才能启用。"
+msgstr "有些Orchard.User设置要求要启用电子邮件通道。"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Please enter your username and password."
 msgid "Please enter your username and password."
-msgstr "请输入您的用户名称及密码。"
+msgstr "请输入您的用户名和密码。"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Register"
@@ -216,27 +216,27 @@ msgstr "注册"
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid " if you don't have an account."
 msgid " if you don't have an account."
-msgstr "假如您没有帐号。"
+msgstr "如果你没有帐户。"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Lost your Password?"
 msgid "Lost your Password?"
-msgstr "您遗失密码吗？"
+msgstr "忘记您的密码了？"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Login was unsuccessful. Please correct the errors and try again."
 msgid "Login was unsuccessful. Please correct the errors and try again."
-msgstr "登录失败，请更正当前的错误并再试一次。"
+msgstr "登录失败，请更正错误后再试一次。"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Account Information"
 msgid "Account Information"
-msgstr "账号信息"
+msgstr "帐户信息"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Username"
 msgid "Username"
-msgstr "用户名称"
+msgstr "用户名"
 
 #: ~/Modules/Orchard.Users/Views/LogOn.cshtml
 #| msgid "Password"
