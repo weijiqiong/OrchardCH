@@ -41,12 +41,12 @@ msgstr "标签"
 #: ~/Themes/TheThemeMachine/Views/Orchard.Tags/Home/Search.cshtml
 #| msgid "Contents tagged with {0}"
 msgid "Contents tagged with {0}"
-msgstr "内容标签与 {0}"
+msgstr "内容包含标签 {0} "
 
 #: ~/Themes/TheThemeMachine/Views/Orchard.Tags/Home/Search.cshtml
 #| msgid "Contents tagged with <span>{0}</span>"
 msgid "Contents tagged with <span>{0}</span>"
-msgstr "内容标签与 <span>{0}</span>"
+msgstr "内容包含标签 <span>{0}</span>"
 
 #: ~/Themes/TheThemeMachine/Views/BadgeOfHonor.cshtml
 #| msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
@@ -58,10 +58,10 @@ msgstr "内容标签与 <span>{0}</span>"
 #| msgid "Newer"
 msgctxt ~/Themes/TheThemeMachine/Views/Pager.cshtml
 msgid "Newer"
-msgstr "新的"
+msgstr "更新"
 
 #: ~/Themes/TheThemeMachine/Views/Pager.cshtml
 #| msgid "Older"
 msgctxt ~/Themes/TheThemeMachine/Views/Pager.cshtml
 msgid "Older"
-msgstr "旧的"
+msgstr "更早"
