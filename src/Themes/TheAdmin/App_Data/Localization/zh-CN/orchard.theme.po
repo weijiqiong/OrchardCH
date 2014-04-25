@@ -21,12 +21,12 @@ msgstr "hidden, admin"
 #: ~/Themes/TheAdmin/Theme.txt
 #| msgid "Description"
 msgid "An admin theme not to be used for the site so don't click "Activate" (or "Uninstall"). In the near future admin themes won't be mixed in with site themes."
-msgstr "管理员的主题不被用于网站，以便无法点选“启用“ (或“移除“)。之后管理的主题将不会混在网站的主题中。"
+msgstr "管理面板主题不能用于网站，所以不要点击“启用”（或“移除”）。近期管理面板主题都不会混合在网站主题中。"
 
 #: ~/Themes/TheAdmin/Theme.txt
 #| msgid "Website"
-msgid "http://www.orchardpro​​ject.net"
-msgstr "http://www.orchardpro​​ject.net"
+msgid "http://www.orchardproject.net"
+msgstr "http://www.orchardproject.net"
 
 #: ~/Themes/TheAdmin/Views/Header.cshtml
 #| msgid "Project Orchard"
@@ -43,7 +43,7 @@ msgstr "哎呀！很抱歉, 出了错 ..."
 #| msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
 msgctxt ~/Themes/TheAdmin/Views/ErrorPage.cshtml
 msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
-msgstr "发生了一个未知的错误，请再次刷新本页，如果错误继续，请返回"
+msgstr "发生了一个未知的错误，请刷新本页，如果错误继续，请返回"
 
 #: ~/Themes/TheAdmin/Views/Header.cshtml
 #| msgid "Your Site"

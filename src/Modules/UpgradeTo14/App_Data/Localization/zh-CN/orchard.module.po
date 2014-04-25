@@ -6,7 +6,7 @@ msgstr "UpgradeTo14"
 #: ~/Modules/UpgradeTo14/Module.txt
 #| msgid "Author"
 msgid "The Orchard Team"
-msgstr "The Orchard Team"
+msgstr "Orchard 团队"
 
 #: ~/Modules/UpgradeTo14/Module.txt
 #| msgid "Website"
@@ -46,47 +46,47 @@ msgstr "没有内容类型自定义字段"
 #: UpgradeTo14.Controllers.FieldController
 #| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
 msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
-msgstr "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr "你需要启用 Orchard.Fields 来转移当前字段，然后你将可以安全删除 Contrib.DateTimeField 和 Contrib.MediaPickerField."
 
 #: UpgradeTo14.Controllers.FieldController
 #| msgid "Not allowed to migrate fields."
 msgid "Not allowed to migrate fields."
-msgstr "Not allowed to migrate fields."
+msgstr "不允许转移字段"
 
 #: UpgradeTo14.Controllers.FieldController
 #| msgid "{0} fields were migrated successfully"
 msgid "{0} fields were migrated successfully"
-msgstr "{0} fields were migrated successfully"
+msgstr "字段 {0} 已成功转移"
 
 #: UpgradeTo14.Controllers.RouteController
 #| msgid "There are no content types with RoutePart"
 msgid "There are no content types with RoutePart"
-msgstr "There are no content types with RoutePart"
+msgstr "没有和 RoutePart 相关的内容类型"
 
 #: UpgradeTo14.Controllers.RouteController
 #| msgid "Not allowed to migrate routes."
 msgid "Not allowed to migrate routes."
-msgstr "Not allowed to migrate routes."
+msgstr "不允许转移路由"
 
 #: UpgradeTo14.Controllers.RouteController
 #| msgid "Some content items could not be imported. Please refer to the corresponding Report."
 msgid "Some content items could not be imported. Please refer to the corresponding Report."
-msgstr "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr "某些条目不能被导入，请参考相应的报告"
 
 #: UpgradeTo14.Controllers.RouteController
 #| msgid "{0} was migrated successfully"
 msgid "{0} was migrated successfully"
-msgstr "{0} was migrated successfully"
+msgstr "成功转移 {0}"
 
 #: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
 #| msgid "Migrate Fields"
 msgid "Migrate Fields"
-msgstr "Migrate Fields"
+msgstr "转移字段"
 
 #: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
 #| msgid "Choose the types to migrate:"
 msgid "Choose the types to migrate:"
-msgstr "Choose the types to migrate:"
+msgstr "选择要转移的类型："
 
 #: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
 #| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
@@ -96,17 +96,17 @@ msgstr "The migration process fields data. You will still need to enable Orchard
 #: ~/Modules/UpgradeTo14/Views/Field/Index.cshtml
 #| msgid "Migrate"
 msgid "Migrate"
-msgstr "Migrate"
+msgstr "转移"
 
 #: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
 #| msgid "Migrate Routes"
 msgid "Migrate Routes"
-msgstr "Migrate Routes"
+msgstr "转移路由"
 
 #: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
 #| msgid "Choose the types to migrate:"
 msgid "Choose the types to migrate:"
-msgstr "Choose the types to migrate:"
+msgstr "选择要转移的类型："
 
 #: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
 #| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
@@ -116,5 +116,5 @@ msgstr "The migration process will move the Route and Title properties by adding
 #: ~/Modules/UpgradeTo14/Views/Route/Index.cshtml
 #| msgid "Migrate"
 msgid "Migrate"
-msgstr "Migrate"
+msgstr "转移"
 

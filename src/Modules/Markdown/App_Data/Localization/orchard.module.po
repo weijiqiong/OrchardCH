@@ -13,7 +13,7 @@ msgstr "Markdown"
 #| msgid "Author"
 msgctxt ~/Modules/Markdown/Module.txt
 msgid "The Orchard Team"
-msgstr "The Orchard �Ŷ�"
+msgstr "Orchard 团队"
 
 #: ~/Modules/Markdown/Module.txt
 #| msgid "Website"
@@ -25,17 +25,17 @@ msgstr "http://orchardproject.net"
 #| msgid "Description"
 msgctxt ~/Modules/Markdown/Module.txt
 msgid "The Markdown module enables rich text contents to be created using the Markdown syntax."
-msgstr "The Markdown module enables rich text contents to be created using the Markdown syntax."
+msgstr "组件“Markdown”能够使用Markdown语法创建富文本"
 
 #: ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
 #| msgid "Insert/Update Media"
 msgctxt ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
 msgid "Insert/Update Media"
-msgstr "����/���� ý��"
+msgstr "插入/更新媒体"
 
 #: ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
 #| msgid "Preview"
 msgctxt ~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml
 msgid "Preview"
-msgstr "Ԥ��"
+msgstr "预览"
 
