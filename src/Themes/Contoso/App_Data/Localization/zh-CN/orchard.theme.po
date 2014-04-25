@@ -16,12 +16,12 @@ msgstr "Orchard 团队"
 #: ~/Themes/Contoso/Theme.txt
 #| msgid "Description"
 msgid "A subtle and simple CMS theme perfect for any modern product or service business website."
-msgstr "A subtle and simple CMS theme perfect for any modern product or service business website."
+msgstr "一个简易巧妙地CMS主题，完美适合于任何现代产品和服务的商业网站"
 
 #: ~/Themes/Contoso/Theme.txt
 #| msgid "Tags"
 msgid "business, cms, modern, simple, subtle, product, service"
-msgstr "business, cms, modern, simple, subtle, product, service"
+msgstr "商务, cms, 现代, 简洁, 巧妙, 产品, 服务"
 
 #: ~/Themes/Contoso/Theme.txt
 #| msgid "Website"
